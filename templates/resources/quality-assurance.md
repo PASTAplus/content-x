@@ -24,7 +24,7 @@ Consider the parts of the data collection scheme where valuable data are collect
 3. **Prioritize** essential components and processes and down weight others.
 4. **Allocate** resources according to priorities and formalize operational protocols.
 
-![](../../static/images/quality-assurance.png)
+<img src="/static/images/quality-assurance.jpg" width="45%">
 
 
 Figure: A data collection scheme in which QA measures have been applied (components in orange). QA in this diagram consists of redundant power sources to instrumentation and telemetry, replicate instrumentation and human observers, as well as database backup and value checking.
