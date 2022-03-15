@@ -4,7 +4,7 @@ A static URL resolving to a data file can be inserted into the physical/distribu
 
 [Box Cloud Storage](https://www.box.com/) is an example service that allows for generating links that do not offer any redirects and are static, two requirements of links that are used to upload to the EDI Data Portal.
 
-![](../../static/images/download-links.png)
+<img src="/static/images/download-links.png" width="15%">
 
 [TOC]
 
@@ -22,15 +22,15 @@ A File Request link allows anyone (with or without a Box account) to submit file
 1. Navigate to the directory (from within the Box web application while logged into a premium account) where data files should be submitted.
 2. Click the **File Request** button on the right side of the screen which will open a pop-up.
 
-![](../../static/images/file-request1.png)
+<img src="/static/images/file-request1.png" width="100%">
 
 3. On the pop-up screen, set the link to enabled. This selection should be reflected on the first **File Request** button pressed.
 
-![](../../static/images/file-request2.png)    
+<img src="/static/images/file-request2.png" width="100%">
 
 4. Copy the shareable link from the pop-up screen and try it in a web browser. This link should lead to a page that looks like the one below.
 
-![](../../static/images/file-request3.png)
+<img src="/static/images/file-request3.png" width="65%">
 
 5. Share this link with a data submitter. They will not need to have a Box account to submit data to this directory.
 
@@ -40,15 +40,15 @@ A static download link will function as a data source for the EDI Data Repositor
 
 1. Navigate to the directory that contains the data file for which to create a link. Click on the link icon which will open a pop-up window.
 
-![](../../static/images/static-link1.png)    
+<img src="/static/images/static-link1.png" width="100%">
 
 2. DO NOT use the Share Link from this window for direct download. Instead, click on the **Link Settings** button which will open another pop-up window.
 
-![](../../static/images/static-link2.png)
+<img src="/static/images/static-link2.png" width="45%">
 
 3. In the shared link settings, at the bottom of the page, find and copy the direct link URL. 
 
-![](../../static/images/static-link3.png)
+<img src="/static/images/static-link3.png" width="45%">
 
 ## Adding download links to EML files
 
@@ -60,11 +60,11 @@ To insert a download link via [ezEML](https://ezeml.edirepository.org/eml/):
 
 1. Navigate to the **Data Tables** tab and click the **Edit** button next to the data table.
 
-![](../../static/images/link-ezeml1.png)
+<img src="/static/images/link-ezeml1.png" width="80%">
 
 2. Paste the link into the **Online Distribution URL** textbox. Remember to click **Save and Continue** before moving on.
 
-![](../../static/images/link-ezeml2.png)
+<img src="/static/images/link-ezeml2.png" width="70%">
 
 The data table will now be associated with the provided download link. Submit to EDI via **Send to EDI** or download the XML document with the **Download EML File** button.
 
@@ -77,11 +77,11 @@ To insert a download link via [EMLassembylline](https://ediorg.github.io/EMLasse
 
 1. Supply the link as a character string to the `data.table.url` or `other.entity.url` arguments in the [`make_eml()`](https://ediorg.github.io/EMLassemblyline/reference/make_eml.html) function. To add multiple links, supply links as a vector of character strings.
 
-![](../../static/images/link-eal1.png)
+<img src="/static/images/link-eal1.png" width="70%">
 
 2. Run [`make_eml()`](https://ediorg.github.io/EMLassemblyline/reference/make_eml.html) to associate the tables with the provided links and return an EML file.
 
-![](../../static/images/link-eal2.png)
+<img src="/static/images/link-eal2.png" width="70%">
 
 ### Manually editing XML
 
@@ -105,4 +105,4 @@ If publishing a data package via the EDI Data Portal note:
 2. Remember to **NOT** check the "Manually upload data" checkbox.
 3. If some of the objects in the data package package are already in the EDI Repository, remember to check the **Allow PASTA+ to skip …** checkbox.
 
-![](../../static/images/upload-link.png)
+<img src="/static/images/upload-link.png" width="60%">
