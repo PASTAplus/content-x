@@ -4,7 +4,7 @@ Data in the EDI Repository are thematically and structurally diverse. Converting
 
 Thematic standardization is a cooperative effort to develop and support a design pattern which serves as a standardized intermediary between raw "Level-0" data and synthesis research "Level-2" data. Collaborative effort to build tools that support the creation and use of the intermediate "Level-1" datasets, helps to incentivize the extra effort of reformatting and increase the likelihood of data reuse.
 
-![](../../static/images/thematic-standardization-workflow.png)
+<img src="/static/images/thematic-standardization-workflow.png" width="65%">
 
 EDI currently has two thematic standardization projects: ecocomDP and hymetDP.
 
@@ -23,9 +23,9 @@ hymetDP is a dataset design pattern and R package for hydrological and meteorolo
 
 ### EDI Data Portal
 
-Data packages from thematic standardization projects can be discovered from the EDI Data Portal Search Engine through the [Advanced Search](https://portal.edirepository.org/nis/advancedSearch.jsp) interface. From the **Subject **tab, select the **Keywords only** radio button, and search for the name of the data pattern (i.e. "ecocomDP", "hymetDP"). Thematic Standardization data packages will always have the name of their design pattern as a keyword, which allows this type of searching.
+Data packages from thematic standardization projects can be discovered from the EDI Data Portal Search Engine through the [Advanced Search](https://portal.edirepository.org/nis/advancedSearch.jsp) interface. From the **Subject** tab, select the **Keywords only** radio button, and search for the name of the data pattern (i.e. "ecocomDP", "hymetDP"). Thematic Standardization data packages will always have the name of their design pattern as a keyword, which allows this type of searching.
 
-![](../../static/images/keyword-search.png)
+<img src="/static/images/keyword-search.png" width="90%">
 
 >A similar keyword search can be used to discover Darwin Core versions of the ecocomDP data packages. Instead of the name of the data pattern, search for "Darwin Core Archive (DwC-A) Event Core" (including the double quotes).
 
