@@ -2,7 +2,7 @@
 
 Perform a data package update whenever data or metadata need to be changed or added to a published data package. Updates may be performed routinely or sporadically and will result in a new "revision". A revision of a data package has the same identifier, but receives a new [version number](the-data-package.md#data-package-identifier) and is assigned a new DOI. All revisions of a data package are linked in the EDI Data Repository. Users who end up on the landing page of an older revision will be notified that a newer version is available.
 
-![](../../static/images/data-package-versioning.png)
+<img src="/static/images/data-package-versioning.png" width="30%">
 
 >Note to Information Managers: Be aware of the EML &lt;access> element. Only credentials already specified in an existing version of a data package can be used to publish an update (i.e. to publish edi.10.2, credentials must be specified in edi.10.1). If you are unable to publish a revision for this reason, contact the EDI Curation Team.
 
@@ -22,11 +22,11 @@ Edit data and metadata using [ezEML](https://ezeml.edirepository.org/eml/):
 1. Open the EML document for the original data package. If this doesn't exist, request it by sending the EDI Curation Team an email with a link to the original data package in the EDI Repository.
 2. Describe the changes in the new revision. From the **Maintenance** tab, add a new paragraph to the **Description** text.
 
-![](../../static/images/ezeml-maint.png)
+<img src="/static/images/ezeml-maint.png" width="85%">
 
 3. Submit to EDI - Click **Send to EDI** and add a note mentioning that this is an update to an existing data package (e.g. "This submission is a revision to package edi.101.1"). 
 
-![](../../static/images/ezeml-send-revision.png)
+<img src="/static/images/ezeml-send-revision.png" width="85%">
 
 4. The EDI curation team will receive the submission and iterate through the [review process](the-review-process.md) before the update is published.
 
