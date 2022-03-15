@@ -4,7 +4,7 @@ The review of data and metadata by the EDI Curation Team is an integral part of 
 
 The review process starts after a data package is submitted to EDI for publication, and is complete when the data author is satisfied with the proof of their publication and the data are uploaded to the EDI Repository.
 
-![](../../static/images/review-process.png)
+<img src="/static/images/review-process.png" width="20%">
 
 [TOC]
 
