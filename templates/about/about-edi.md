@@ -30,7 +30,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         .
     </div>
     <div class="person_col">
-        <img alt="Corinna Gries" src="/static/images/corinna.jpg"/>
+        <img alt="Corinna Gries" src="/static/images/corinna.jpg"/ width="20%">
     </div>
 </div>
 <div class="person_row">
@@ -43,7 +43,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         .
     </div>
     <div class="person_col">
-        <img alt="Mark Servilla" src="/static/images/mark.jpg"/>
+        <img alt="Mark Servilla" src="/static/images/mark.jpg"/ width="20%">
     </div>
 </div>
 <div class="person_row">
@@ -56,7 +56,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         .
     </div>
     <div class="person_col">
-        <img alt="Kristin Vanderbilt" src="/static/images/kristin.jpg"/>
+        <img alt="Kristin Vanderbilt" src="/static/images/kristin.jpg"/ width="20%">
     </div>
 </div>
 <div class="person_row">
@@ -69,7 +69,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         .
     </div>
     <div class="person_col">
-        <img alt="Paul Hanson" src="/static/images/paul.jpg"/>
+        <img alt="Paul Hanson" src="/static/images/paul.jpg"/ width="20%">
     </div>
 </div>
 <div class="person_row">
@@ -84,7 +84,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         .
     </div>
     <div class="person_col">
-        <img alt="Margaret O'Brien" src="/static/images/margaret.jpg"/>
+        <img alt="Margaret O'Brien" src="/static/images/margaret.jpg"/ width="20%">
     </div>
 </div>
 <div class="person_row">
@@ -97,7 +97,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         .
     </div>
     <div class="person_col">
-        <img alt="Robert Waide" src="/static/images/bob.jpg"/>
+        <img alt="Robert Waide" src="/static/images/bob.jpg"/ width="20%">
     </div>
 </div>
 <div class="person_row">
@@ -111,7 +111,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         .
     </div>
     <div class="person_col">
-        <img alt="James Brunt" src="/static/images/james.jpg"/>
+        <img alt="James Brunt" src="/static/images/james.jpg"/ width="20%">
     </div>
 </div>
 <div class="person_row">
@@ -125,7 +125,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
     </div>
     <div class="person_col">
         <img alt="Susanne Grossman-Clarke"
-             src="/static/images/susanne.jpg"/>
+             src="/static/images/susanne.jpg"/ width="20%">
     </div>
 </div>
 <div class="person_row">
@@ -138,7 +138,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         .
     </div>
     <div class="person_col">
-        <img alt="Jon Ide" src="/static/images/jon.jpg"/>
+        <img alt="Jon Ide" src="/static/images/jon.jpg"/ width="20%">
     </div>
 </div>
 <div class="person_row">
@@ -154,7 +154,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         .
     </div>
     <div class="person_col">
-        <img alt="Colin Smith" src="/static/images/colin.jpg"/>
+        <img alt="Colin Smith" src="/static/images/colin.jpg"/ width="20%">
     </div>
 </div>
 <div class="person_row">
@@ -170,7 +170,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
     </div>
     <div class="person_col">
         <img alt="Kyle Zollo-Venecek"
-             src="/static/images/kyle.png"/>
+             src="/static/images/kyle.png"/ width="20%">
     </div>
 </div>
 
