@@ -23,15 +23,15 @@ To create a subscription:
 
 1. Login to the EDI Data Portal
 
-![](../../static/images/login-portal.png)
+<img src="/static/images/login-portal.png" width="75%">
 
 2. Select TOOLS > Event Subscriptions from the menu.
 
-![](../../static/images/event-sub-dropdown.png)
+<img src="/static/images/event-sub-dropdown.png" width="75%">
 
 3. Complete the subscription form
 
-![](../../static/images/event-sub-form.png)
+<img src="/static/images/event-sub-form.png" width="75%">
 
 1. In the **Package Id** field add the scope under which new data package uploads should trigger a notification (e.g. knb-lter-cap) or add the data package scope and identifier for which new revisions should trigger a notification (e.g. knb-lter-cap.10).
 2. In the **Target URL** field add the web server URL that will receive and process the event notification.
@@ -39,13 +39,13 @@ To create a subscription:
 
 The new subscription will be added to a table at the bottom of the page listing all event subscriptions for this user. 
 
-![](../../static/images/event-subs.png)
+<img src="/static/images/event-subs.png" width="65%">
 
 #### Test a subscription
 
 To test a subscription (i.e. send a notification to the **Target URL**):
 
-![](../../static/images/event-sub-test.png)
+<img src="/static/images/event-sub-test.png" width="40%">
 
 1. Select the **Subscription Id**
 2. Click **Test**
@@ -54,7 +54,7 @@ To test a subscription (i.e. send a notification to the **Target URL**):
 
 To delete a subscription:
 
-![](../../static/images/event-sub-delete.png)
+<img src="/static/images/event-sub-delete.png" width="40%">
 
 1. Select the **Subscription Id** to delete
 2. Click **Delete**
