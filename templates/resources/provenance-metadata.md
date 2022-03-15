@@ -2,7 +2,7 @@
 
 Provenance is the origin or history of data and is an important piece of metadata to make research transparent and reproducible. Several elements in metadata are involved in documenting data provenance. First and foremost is a detailed description of the methods by which the data were collected and created. Data processing scripts (R, Python, etc.) provide very detailed provenance information and can be published in a data package. For the special case of a derived dataset, i.e. data that is compiled from one or more other 'original' datasets, a detailed list of those original datasets should be included. Listing such datasets will give the original data creator proper credit, even when more datasets are used than can reasonably be cited in a resulting paper.
 
-![](../../static/images/provenance.png)
+<img src="/static/images/provenance.png" width="15%">
 
 [TOC]
 
@@ -35,11 +35,11 @@ To create provenance metadata from the [EDI Data Portal](https://portal.edirepos
 
 1. Navigate to the **Provenance** section at the bottom of a data package [landing page](data-package-pages.md). This section displays provenance information and includes a link to generate provenance metadata for the data package.
 
-![](../../static/images/provenance-portal2.png)
+<img src="/static/images/provenance-portal2.png" width="85%">
 
 2. This links to the **Provenance Generator**. The **Provenance Metadata XML** tab contains text for the &lt;methodStep> element. Copy the entire &lt;methodStep> element.
 
-![](../../static/images/provenance-generator.png)    
+<img src="/static/images/provenance-generator.png" width="85%">
 
 3. Open the EML for the derived data package in an XML editor and navigate to the &lt;methods> element. 
 4. Paste the copied provenance &lt;methodStep> element at the end of the list of &lt;methodSteps>. Repeat for all data sources.
