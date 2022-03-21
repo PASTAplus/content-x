@@ -2,7 +2,7 @@
 
 [TOC]
 
-## Data policy
+## Data policiezesss
 
 Version 0.0, Adopted 25 November 2019
 
