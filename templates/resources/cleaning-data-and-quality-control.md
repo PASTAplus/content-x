@@ -91,7 +91,6 @@ Quality Control (QC) occurs after the data are generated and tests whether they 
 Value checking is implemented as tests designed to address issues likely to be present in the collected data. Some examples:
 
 
-
 * **Duplicate records** - Measurement listed twice. Not a replicat measurement.
 * **Sequential records** - Some data should be in a sequential order (e.g. dates and times).
 * **Range** - Data out of range may indicate a faulty measurement (e.g. relative humidity 0 - 100%).

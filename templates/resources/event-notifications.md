@@ -33,9 +33,9 @@ To create a subscription:
 
 <img src="/static/images/event-sub-form.png" width="80%">
 
-1. In the **Package Id** field add the scope under which new data package uploads should trigger a notification (e.g. knb-lter-cap) or add the data package scope and identifier for which new revisions should trigger a notification (e.g. knb-lter-cap.10).
-2. In the **Target URL** field add the web server URL that will receive and process the event notification.
-3. Click **Subscribe**
+4. In the **Package Id** field add the scope under which new data package uploads should trigger a notification (e.g. knb-lter-cap) or add the data package scope and identifier for which new revisions should trigger a notification (e.g. knb-lter-cap.10).
+5. In the **Target URL** field add the web server URL that will receive and process the event notification.
+6. Click **Subscribe**
 
 The new subscription will be added to a table at the bottom of the page listing all event subscriptions for this user. 
 

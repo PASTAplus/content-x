@@ -13,6 +13,7 @@ EDI provides two prebuilt catalogs which can be easily embedded in an existing w
 This catalog is hosted on GitHub Pages and is easily embedded within a website. The data packages in this catalog are populated from a unique search query matching all the metadata from the EDI Data Repository that is pertinent while filtering out everything else that isn't.
 
 Websites using this approach:
+
 * [Niwot Ridge LTER](https://nwt.lternet.edu/data-catalog)
 * [Jornada Basin LTER](https://lter.jornada.nmsu.edu/data-catalog/)
 * [Beaufort Lagoon LTER](https://ble.lternet.edu/catalog)
@@ -24,8 +25,6 @@ To build this catalog, follow instructions in the [ezCatalog GitHub](https://git
 [The OBFS Data Catalogs service](https://vocab.lternet.edu/ezcatalog/OBFS/) provides members of the Organization of Biological Field Station a way to create a searchable data catalog within minutes. The catalog includes data packages published to the EDI Data Repository and falling within a 10 km radius of the field station. The returned list of data packages can be modified by [contacting EDI](/templates/support/contact-us.md).
 
 To build this catalog:
-
-
 
 1. Go to [OBFS Data Catalogs](https://vocab.lternet.edu/ezcatalog/OBFS/)
 2. Select a field station and click the **Submit** button to generate the catalog
@@ -62,4 +61,5 @@ A possible motivation for an advanced catalog may be to provide a highly customi
 [See this video](https://youtu.be/LwCI9TKi-Pg?t=361) for more on constructing a query and implementing advanced data catalog features.
 
 ## Resources
+
 * **Build a Static Website** - Static websites are secure, low maintenance, free to host, fast, and easy to work with. [See this video](https://youtu.be/i4QczI3evGA) and [associated GitHub repository](https://github.com/BLE-LTER/LTER-website) to create a static website with a built-in data catalog.
