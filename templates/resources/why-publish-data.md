@@ -16,6 +16,7 @@ Articles citing data published in the EDI Repository are automatically cross ref
 Journals are increasingly requiring submission of supporting data with article publication.Likewise, funding agencies are increasingly requiring evidence of data publication in prior-support sections of proposals <sup>[8, 13]</sup>. These requirements facilitate confidence in the research findings and provide a higher return on investment. Surveys have shown that public trust in scientific research is enhanced when the supporting data is made available <sup>[3, 7]</sup>.
 
 >EDI tools simplify reporting:
+> 
 >* [Package Tracker](https://dashboard.edirepository.org/dashboard/reports/package_tracker) - List and plot downloads of a published data package.
 >* [Site Report](https://dashboard.edirepository.org/dashboard/reports/site_report) - List references to all data packages published by a research site. Currently only available to LTER sites.
 >* [Upload Report](https://dashboard.edirepository.org/dashboard/reports/upload_report) - List references to all data packages published by a research site within a specified time frame. Currently only available to LTER sites.
@@ -40,6 +41,7 @@ Without data, science is just philosophy. Many theories require data beyond the 
 
 
 ## References
+
 1. Data's shameful neglect. Nature 461, 145 (2009). [https://doi.org/10.1038/461145a](https://doi.org/10.1038/461145a)
 2. Duke, C.S., Porter, J.H., 2013. The ethics of data sharing and reuse in biology. BioScience 63, 483-489. [https://doi.org/10.1525/bio.2013.63.6.10](https://doi.org/10.1525/bio.2013.63.6.10)
 3. Funk, F, Hefferon, M, Kennedy, B, and Johnson C. 2019. Trust and Mistrust in Americans' Views of Scientific Experts: More Americans have confidence in scientists, but there are political divides over the role of scientific experts in policy issues. [https://www.pewresearch.org/science/2019/08/02/trust-and-mistrust-in-americans-views-of-scientific-experts/](https://www.pewresearch.org/science/2019/08/02/trust-and-mistrust-in-americans-views-of-scientific-experts/)
