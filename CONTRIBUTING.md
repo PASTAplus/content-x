@@ -38,6 +38,7 @@ Content is organized into stand alone pages cross referencing each other. This m
 
 
 * Markdown - Pages should be written using the [basic markdown syntax](https://www.markdownguide.org/basic-syntax/).
+  * Note: Lists (enumerated and bulleted) must be both preceded and followed by an empty line to be rendered correctly in web-x.
 * Voice - Pages should be written primarily in the first and third voice. The use of the second voice is acceptable when speaking directly to the audience (e.g. "Please contact us if you encounter an error") or in "imperative" contexts (e.g. providing step-by-step instructions).
 * Section headers - Use the gerund form a verb for the header titles (e.g. "Using Download Links", "Uploading to EDI"). Don't use a gerund in headers or subheaders if it's redundant to the higher level (Title: Publishing a data package, Header: EDI Data Portal (good), Publishing via the EDI Data Portal (bad, redundant)). A counter example would be Header: Using Box Cloud Storage, Subheader: Creating a Box File Request (good, gerund is not redundant).
 * References and links - References and links to online resources should be added as either:
