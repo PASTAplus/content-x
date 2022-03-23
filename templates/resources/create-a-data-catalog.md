@@ -4,7 +4,7 @@ Local data catalogs allow researchers, projects, and organizations to present th
 
 EDI provides two prebuilt catalogs which can be easily embedded in an existing website. These catalogs are a searchable list of all the data packages belonging to a group and links back to the newest version of the data package in the EDI Data Portal. More advanced and customized catalogs can be implemented using the REST API.
 
-![](/static/images/data-catalogs.png)
+<img src="/static/images/data-catalogs.png" width="100%">
 
 [TOC]
 
