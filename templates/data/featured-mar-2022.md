@@ -24,7 +24,7 @@ Microcosms constitute moderately complex assemblages of organisms that fulfill i
 The data featured here were obtained from an investigation of the effects of copper sulfate (CuSO4) toxicity on aquatic systems consisting of multiple phytoplankton and animals in a chemically defined medium that followed the Standardized Aquatic Microcosm protocol (ASTM 2012). Four different laboratories conducted a total of ten experiments to test the reproducibility of results to control, low, medium and high concentrations of CuSO4.
 
 <figure>
-    <img src="/static/images/featured_data/daphnia_magna_asexual.jpg" alt="daphnia">
+    <img src="/static/images/featured_data/daphnia-magna-asexual.jpg" alt="daphnia">
     <figcaption>Fig. 2: Daphnia magna, a genus of small planktonic crustaceans, with a clutch of asexual eggs (photo credit: wikipedia.org).</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ The protocol included the same 10 species of phytoplankton and 5 animals, includ
 The copper inhibited some phytoplankton more than others and killed many grazers, especially Daphnia. The higher the concentration of copper, the longer the inhibition and mortality of organisms. By eliminating grazing, low concentrations of copper allowed more phytoplankton to develop (Fig. 3), higher concentrations of copper delayed recovery longer.
 
 <figure>
-    <img src="/static/images/featured_data/results_low_toxicity_Taub.jpg" alt="daphnia">
+    <img src="/static/images/featured_data/results-low-toxicity-taub.jpg" alt="daphnia">
     <figcaption>Fig. 3: Low Cu++ (500 PPB), compared to control conditions, increased phytoplankton abundance by decreasing Daphnia grazing.</figcaption>
 </figure>
 
