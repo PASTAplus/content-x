@@ -16,22 +16,22 @@ To evaluate a data package via the [EDI Data Portal](https://portal.edirepositor
 
 From the Data Portal, click the **Login** button and enter EDI account credentials.
 
-<img src="/static/images/login-portal.png" width="85%">
+<img class="screen-shot" src="/static/images/login-portal.png" width="85%">
 
 ### Evaluating the data package
 
 Navigate to the **Evaluate/Upload Data Packages** page: 
 
-<img src="/static/images/eval-upload-dropdown-portal.png" width="85%">
+<img class="screen-shot" src="/static/images/eval-upload-dropdown-portal.png" width="85%">
 
 1. **Choose File** - Browse and select the EML file to be evaluated
 2. Unless every data object in the EML file is associated with [static data links](/templates/resources/uploading-with-static-data-links.md), select the checkbox next to **Manually upload data…** to allow manual upload.
 
-<img src="/static/images/evaluate-manual-upload.png" width="85%">
+<img class="screen-shot" src="/static/images/evaluate-manual-upload.png" width="85%">
 
 3. From the manual uploads page, choose the files to upload for the data package and click the **Evaluate** button.
 
-<img src="/static/images/evaluate-manual-upload-page.png" width="85%">
+<img class="screen-shot" src="/static/images/evaluate-manual-upload-page.png" width="85%">
 
 >Be aware that the length of the evaluation process increases with the size of the data being evaluated. Once the process has begun, the browser window can be closed without interrupting the evaluation. Use the EDI Dashboard [PASTA is Working On](https://dashboard.edirepository.org/dashboard/pasta/render_working_on) feature to see when evaluation has completed. The evaluation report summary and full report can be viewed from the **View Evaluate/Upload Results** page.
 
@@ -40,13 +40,13 @@ Navigate to the **Evaluate/Upload Data Packages** page:
 
 After the evaluation runs, the **View Evaluate/Upload Results** page will be displayed. This page provides the **Evaluation Report Summary**, the first view of the data package quality.
 
-<img src="/static/images/eval-summary-table.png" width="55%">
+<img class="screen-shot" src="/static/images/eval-summary-table.png" width="55%">
 
 ### Viewing the evaluation report
 
 This summary table also provides a link to the full **Evaluation Report**, which documents the outcome of each evaluation test performed, including the specific areas for improvement noted by **Warn** and **Error** labels.
 
-<img src="/static/images/eval-report.png" width="100%">
+<img class="screen-shot" src="/static/images/eval-report.png" width="100%">
 
 ## EDIutils
 
