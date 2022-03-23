@@ -4,7 +4,7 @@
 
 ### Citation
 
-- Taub, F.B. 2022. Interlaboratory testing of CuSO4 toxicity in the “Standardized Aquatic Microcosm” protocol consisting of multiple phytoplankton and animals in a chemically defined medium. Environmental Data Initiative. https://doi.org/10.6073/pasta/ea91b867dabc52a5fc917afa1a310a09.
+Taub, F.B. 2022. Interlaboratory testing of CuSO4 toxicity in the “Standardized Aquatic Microcosm” protocol consisting of multiple phytoplankton and animals in a chemically defined medium. Environmental Data Initiative. https://doi.org/10.6073/pasta/ea91b867dabc52a5fc917afa1a310a09.
 
 ### Description
 
