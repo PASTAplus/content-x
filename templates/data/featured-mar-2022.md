@@ -1,6 +1,6 @@
 # Featured Data
 
-## Interlaboratory testing of CuSO<sub>4</sub> toxicity in the "Standardized Aquatic Microcosm" protocol consisting of multiple phytoplankton and animals in a chemically defined medium
+## Effects of copper sulfate toxicity on multiple phytoplankton and animals in Standardized Aquatic Microcosms
 
 March 2022
 
