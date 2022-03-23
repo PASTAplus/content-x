@@ -26,6 +26,7 @@ Content is organized into stand alone pages cross referencing each other. This m
 
 
 * New pages - Before adding a new page, open an issue describing the content to be developed. Maintainers (the website team) will provide feedback and suggestions for cross referencing.
+* File names - Replace spaces with dashes (e.g. new-page.md, new-image.png).
 * Audience - Pages should target one of the three user classes: data author, data user, or information manager.
 * Modularity - Each page should cover one topic with the goal of organizing information as modular building blocks.
 * Introductory paragraphs - Each page should begin with an introduction/overview describing why the contents of the page are important and a brief overview of the concept or process the page covers. Pages should begin with little to no prerequisite knowledge. Build prerequisite knowledge in the opening paragraphs with reference to necessary information.
@@ -56,7 +57,6 @@ Content is organized into stand alone pages cross referencing each other. This m
 1. Create an image with high enough resolution so that it isn't distorted at its intended magnification and when enlarged to approximately twice its intended size. Generally, screenshots from a web browser should be taken at normal 100% magnification.
 2. Trim white space from around the image.
 3. Compress the image to reduce file size. Use the [tinypng.com](https://tinypng.com/) web service to do this.
-4. Replace spaces in file names with dashes (e.g. my-new-image.png)
 
 
 ### Adding images to pages
