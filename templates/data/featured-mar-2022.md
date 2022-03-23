@@ -1,4 +1,4 @@
-# Effects of copper sulfate toxicity on multiple phytoplankton and animals in Standardized Aquatic Microcosms
+# Interlaboratory testing of CuSO4 toxicity in the “Standardized Aquatic Microcosm” protocol consisting of multiple phytoplankton and animals in a chemically defined medium
 
 ## Featured data package
 
