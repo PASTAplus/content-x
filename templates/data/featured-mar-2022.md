@@ -2,11 +2,11 @@
 
 ## Interlaboratory testing of CuSO4 toxicity in the “Standardized Aquatic Microcosm” protocol consisting of multiple phytoplankton and animals in a chemically defined medium
 
-#### Citation
+### Citation
 
 - Taub, F.B. 2022. Interlaboratory testing of CuSO4 toxicity in the “Standardized Aquatic Microcosm” protocol consisting of multiple phytoplankton and animals in a chemically defined medium. Environmental Data Initiative. https://doi.org/10.6073/pasta/ea91b867dabc52a5fc917afa1a310a09.
 
-## Description
+### Description
 
 The data published in this featured data package were obtained from a study funded by the Food and Drug Administration (1983-1986) to determine if ecosystems could be used to regulate chemicals. The work on this topic was published in several peer-reviewed articles that have been added as journal citations to the data package landing page in the EDI data repository. At the time of publishing this work, the practice of data publishing was not yet established. Publishing the data now ensures that they are preserved and available for re-use in continuing or future studies.
 
@@ -30,7 +30,7 @@ The data featured here were obtained from an investigation of the effects of cop
 
 The protocol included the same 10 species of phytoplankton and 5 animals, including Daphnia (Fig. 2). Small numbers of each species were re-introduced weekly to simulate immigration and allow potential recovery from toxicity.
 
-#### Results
+### Results
 
 The copper inhibited some phytoplankton more than others and killed many grazers, especially Daphnia. The higher the concentration of copper, the longer the inhibition and mortality of organisms. By eliminating grazing, low concentrations of copper allowed more phytoplankton to develop (Fig. 3), higher concentrations of copper delayed recovery longer.
 
@@ -41,7 +41,7 @@ The copper inhibited some phytoplankton more than others and killed many grazers
 
 The elimination of highly-sensitive dominant organisms allowed less-sensitive organisms to increase in abundance. Within natural environments, the observation that some species increase in the presence of toxic substances has been used to discredit toxicity testing without considering the relative sensitivities of competing or predatory species.
 
-#### Outlook for further research
+### Outlook for further research
 
 Because of time constraints at the time of the study, some research questions couldn’t be addressed. Potential continuing research questions using the existing data are:
 
@@ -56,4 +56,4 @@ ASTM (2012) E1366 Standard Practice for Standardized Aquatic Microcosms: Fresh W
 
 Taub F. (1989) Standardized aquatic microcosm: development and testing. In: Aquatic Ecotoxicology: Fundamental Concepts and Methodologies. Vol. 1 (Boudou A, Ribeyre F, eds). Boca Raton, FL:CRC Press, p. 47-92.
 
-## [All of EDI’s featured data contributions](/templates/data/featured)
+### [All of EDI’s featured data contributions](/templates/data/featured)
