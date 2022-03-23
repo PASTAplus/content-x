@@ -56,4 +56,4 @@ ASTM (2012) E1366 Standard Practice for Standardized Aquatic Microcosms: Fresh W
 
 Taub F. (1989) Standardized aquatic microcosm: development and testing. In: Aquatic Ecotoxicology: Fundamental Concepts and Methodologies. Vol. 1 (Boudou A, Ribeyre F, eds). Boca Raton, FL:CRC Press, p. 47-92.
 
-### [All of EDI’s featured data contributions](/templates/data/featured)
+### [All of featured data contributions](/templates/data/featured)
