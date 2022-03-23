@@ -2,13 +2,15 @@
 
 ## Work with our Data Curation Team
 
-We have two options for submitting data to the EDI Curation Team:
+Submissions can be sent in one of two ways:
 
-1. [ezEML](https://ezeml.edirepository.org/eml/) - A form-based online tool for creating metadata in the Ecological Metadata Language (EML). [Here's a short video to help you get started with ezEML](https://www.youtube.com/watch?v=lhtq7iSQIyM).
-2. [EDI Metadata Template](https://environmentaldatainitiative.files.wordpress.com/2021/03/edi_metadata_template.docx) - A MS Word file for your metadata. Fill it out and send it back to us with your data, at [info@environmentaldatainitiative.org](mailto:info@environmentaldatainitiative.org).
+1. Use the [ezEML](https://ezeml.edirepository.org/eml/) metadata editor to describe and submit your data. [A short video on ezEML](https://www.youtube.com/watch?v=lhtq7iSQIyM).
+2. Send EML metadata and data files as email attachments or downloadable links to [info@environmentaldatainitiative.org](mailto:info@environmentaldatainitiative.org). For more information on EML see [creating metadata for publication](/templates/resources/creating-metadata-for-publication.md).
 
-We will get back to you A.S.A.P., usually within 24 hours. [Contact us](https://web-x.edirepository.org/support/contact-us) with any questions or if you need help getting started.
+We will get back to you ASAP, usually within 24 hrs, and begin [the review process](/templates/resources/the-review-process.md). For more information on types of contribution and preparing for submission, see the [resources for data authors](/templates/resources/resources-for-data-authors.md). Please [contact us](/templates/support/contact-us.md) if you have any questions.
 
 ## For Information Managers
 
-You are welcome to manage upload of your data and metadata to our repository. The [Resources for Information Managers](https://web-x.edirepository.org/resources/resources-for-information-managers) is your guide to this process. Please [contact us](https://web-x.edirepository.org/support/contact-us) for more information or [login to your EDI Data Portal account](https://portal.edirepository.org/nis/login.jsp).
+[Login to your EDI Data Portal account](https://portal.edirepository.org/nis/login.jsp) to upload directly to the repository. 
+
+For more information on obtaining an EDI user account and uploading directly to the repository see the [resources for information managers](/templates/resources/resources-for-information-managers.md) or [contact us](/templates/support/contact-us.md).
