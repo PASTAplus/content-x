@@ -1,16 +1,18 @@
-# Featured Data - March 2022
+# Featured Data
 
-## Interlaboratory testing of CuSO4 toxicity in the "Standardized Aquatic Microcosm" protocol consisting of multiple phytoplankton and animals in a chemically defined medium
+## Interlaboratory testing of CuSO<sub>4</sub> toxicity in the "Standardized Aquatic Microcosm" protocol consisting of multiple phytoplankton and animals in a chemically defined medium
+
+March 2022
 
 ### Citation
 
-Taub, F.B. 2022. Interlaboratory testing of CuSO4 toxicity in the “Standardized Aquatic Microcosm” protocol consisting of multiple phytoplankton and animals in a chemically defined medium. Environmental Data Initiative. https://doi.org/10.6073/pasta/ea91b867dabc52a5fc917afa1a310a09.
+Taub, F.B. 2022. Interlaboratory testing of CuSO<sub>4</sub> toxicity in the "Standardized Aquatic Microcosm" protocol consisting of multiple phytoplankton and animals in a chemically defined medium. Environmental Data Initiative. https://doi.org/10.6073/pasta/ea91b867dabc52a5fc917afa1a310a09.
 
 ### Description
 
 The data published in this featured data package were obtained from a study funded by the Food and Drug Administration (1983-1986) to determine if ecosystems could be used to regulate chemicals. The work on this topic was published in several peer-reviewed articles that have been added as journal citations to the data package landing page in the EDI data repository. At the time of publishing this work, the practice of data publishing was not yet established. Publishing the data now ensures that they are preserved and available for re-use in continuing or future studies.
 
-The author, Frieda Taub, Professor Emeritus (School of Aquatic and Fishery Sciences, University of Washington, Seattle), is an aquatic ecologist with a focus on community metabolism (O2 and CO2 cycles) of algae, grazers, and microbes, often in Closed Ecological Systems. Much of the team’s work focused on aquatic community responses to toxic chemicals, using the method of Standardized Aquatic Microcosms (Fig. 1).
+The author, Frieda Taub, Professor Emeritus (School of Aquatic and Fishery Sciences, University of Washington, Seattle), is an aquatic ecologist with a focus on community metabolism (O<sub>2</sub> and CO<sub>2</sub> cycles) of algae, grazers, and microbes, often in Closed Ecological Systems. Much of the team’s work focused on aquatic community responses to toxic chemicals, using the method of Standardized Aquatic Microcosms (Fig. 1).
 
 <figure>
     <img src="/static/images/featured_data/aquatic-microcosm.png" alt="aquatic microcosm" width="30%">
@@ -21,7 +23,7 @@ Standardized Aquatic Microcosms are model ecosystems or synthetic microcosms tha
 
 Microcosms constitute moderately complex assemblages of organisms that fulfill important ecological roles in aquatic communities. Even though the initial conditions are controlled, the biological components soon modify the system in complex ways. Replicate systems can be established simultaneously and randomly assigned to treatment groups.
 
-The data featured here were obtained from an investigation of the effects of copper sulfate (CuSO4) toxicity on aquatic systems consisting of multiple phytoplankton and animals in a chemically defined medium that followed the Standardized Aquatic Microcosm protocol (ASTM 2012). Four different laboratories conducted a total of ten experiments to test the reproducibility of results to control, low, medium and high concentrations of CuSO4.
+The data featured here were obtained from an investigation of the effects of copper sulfate (CuSO<sub>4</sub>) toxicity on aquatic systems consisting of multiple phytoplankton and animals in a chemically defined medium that followed the Standardized Aquatic Microcosm protocol (ASTM 2012). Four different laboratories conducted a total of ten experiments to test the reproducibility of results to control, low, medium and high concentrations of CuSO<sub>4</sub>.
 
 <figure>
     <img src="/static/images/featured_data/daphnia-magna-asexual.jpg" alt="daphnia">
@@ -43,7 +45,7 @@ The elimination of highly-sensitive dominant organisms allowed less-sensitive or
 
 ### Outlook for further research
 
-Because of time constraints at the time of the study, some research questions couldn’t be addressed. Potential continuing research questions using the existing data are:
+Because of time constraints at the time of the study, some research questions couldn't be addressed. Potential continuing research questions using the existing data are:
 
 - Why shouldn’t CuSo4 be used to control cyanobacteria?
 - What is the competition among and between phytoplankton and grazers?
@@ -56,4 +58,4 @@ ASTM (2012) E1366 Standard Practice for Standardized Aquatic Microcosms: Fresh W
 
 Taub F. (1989) Standardized aquatic microcosm: development and testing. In: Aquatic Ecotoxicology: Fundamental Concepts and Methodologies. Vol. 1 (Boudou A, Ribeyre F, eds). Boca Raton, FL:CRC Press, p. 47-92.
 
-### [All of featured data contributions](/templates/data/featured)
+### [All featured data contributions](/templates/data/featured)
