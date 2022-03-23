@@ -2,6 +2,8 @@
 
 ## Featured data package
 
+#### Citation
+
 - Taub, F.B. 2022. Interlaboratory testing of CuSO4 toxicity in the “Standardized Aquatic Microcosm” protocol consisting of multiple phytoplankton and animals in a chemically defined medium. Environmental Data Initiative. https://doi.org/10.6073/pasta/ea91b867dabc52a5fc917afa1a310a09.
 
 ## Description
@@ -54,4 +56,4 @@ ASTM (2012) E1366 Standard Practice for Standardized Aquatic Microcosms: Fresh W
 
 Taub F. (1989) Standardized aquatic microcosm: development and testing. In: Aquatic Ecotoxicology: Fundamental Concepts and Methodologies. Vol. 1 (Boudou A, Ribeyre F, eds). Boca Raton, FL:CRC Press, p. 47-92.
 
-## [All of EDI’s featured data contributions](https://github.com/PASTAplus/web-x/blob/main/templates/data/featured.html)
+## [All of EDI’s featured data contributions](/templates/data/featured)
