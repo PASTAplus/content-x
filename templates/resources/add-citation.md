@@ -42,16 +42,16 @@ Journal citations can be added to data packages manually from the [EDI Data Port
 
 1. Access the **Journal Citations** tool from the dropdown navigation menu
 
-<img src="/static/images/journal-citation-tools-dropdown.png" width="75%">
+<img class="screen-shot" src="/static/images/journal-citation-tools-dropdown.png" width="75%">
 
 or from the **Add Journal Citation** button at the bottom of a data packages landing page
 
-<img src="/static/images/journal-citations-landing.png" width="75%">
+<img class="screen-shot" src="/static/images/journal-citations-landing.png" width="75%">
 
 2. Add the citation information, then use the **Add Journal Citation** button to create and add the journal citation. 
 3. Journal citations can also be updated or deleted using the journal citation tool.
 
-<img src="/static/images/journal-citation-tool.png" width="75%">
+<img class="screen-shot" src="/static/images/journal-citation-tool.png" width="75%">
 
 [Watch a video walkthrough](https://www.youtube.com/watch?v=XyyrH4EzTNc&t=291s) demonstrating the use of the journal citation tool.
 

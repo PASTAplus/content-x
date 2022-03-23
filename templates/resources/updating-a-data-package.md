@@ -22,11 +22,11 @@ Edit data and metadata using [ezEML](https://ezeml.edirepository.org/eml/):
 1. Open the EML document for the original data package. If this doesn't exist, request it by sending the EDI Curation Team an email with a link to the original data package in the EDI Repository.
 2. Describe the changes in the new revision. From the **Maintenance** tab, add a new paragraph to the **Description** text.
 
-<img src="/static/images/ezeml-maint.png" width="85%">
+<img class="screen-shot" src="/static/images/ezeml-maint.png" width="85%">
 
 3. Submit to EDI - Click **Send to EDI** and add a note mentioning that this is an update to an existing data package (e.g. "This submission is a revision to package edi.101.1"). 
 
-<img src="/static/images/ezeml-send-revision.png" width="85%">
+<img class="screen-shot" src="/static/images/ezeml-send-revision.png" width="85%">
 
 4. The EDI curation team will receive the submission and iterate through the [review process](/templates/resources/the-review-process.md) before the update is published.
 
