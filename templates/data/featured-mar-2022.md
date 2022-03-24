@@ -15,7 +15,7 @@ The data published in this featured data package were obtained from a study fund
 The author, Frieda Taub, Professor Emeritus (School of Aquatic and Fishery Sciences, University of Washington, Seattle), is an aquatic ecologist with a focus on community metabolism (O<sub>2</sub> and CO<sub>2</sub> cycles) of algae, grazers, and microbes, often in Closed Ecological Systems. Much of the team’s work focused on aquatic community responses to toxic chemicals, using the method of Standardized Aquatic Microcosms (Fig. 1).
 
 <figure class="figure_featured">
-    <img src="/static/images/featured_data/aquatic-microcosm.png" alt="aquatic microcosm" width="30%">
+    <img src="/static/images/featured_data/aquatic-microcosm.png" alt="aquatic microcosm" width="50%">
     <figcaption>Fig. 1: Principal components of a Standardized Aquatic Microcosm, based on an artificial medium with 10 species of primary producers and 5 species of grazers. From Taub (1989).</figcaption>
 </figure>
 
