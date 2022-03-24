@@ -14,7 +14,7 @@ The data published in this featured data package were obtained from a study fund
 
 The author, Frieda Taub, Professor Emeritus (School of Aquatic and Fishery Sciences, University of Washington, Seattle), is an aquatic ecologist with a focus on community metabolism (O<sub>2</sub> and CO<sub>2</sub> cycles) of algae, grazers, and microbes, often in Closed Ecological Systems. Much of the team’s work focused on aquatic community responses to toxic chemicals, using the method of Standardized Aquatic Microcosms (Fig. 1).
 
-<figure>
+<figure class="figure_featured">
     <img src="/static/images/featured_data/aquatic-microcosm.png" alt="aquatic microcosm" width="30%">
     <figcaption>Fig. 1: Principal components of a Standardized Aquatic Microcosm, based on an artificial medium with 10 species of primary producers and 5 species of grazers. From Taub (1989).</figcaption>
 </figure>
@@ -25,8 +25,8 @@ Microcosms constitute moderately complex assemblages of organisms that fulfill i
 
 The data featured here were obtained from an investigation of the effects of copper sulfate (CuSO<sub>4</sub>) toxicity on aquatic systems consisting of multiple phytoplankton and animals in a chemically defined medium that followed the Standardized Aquatic Microcosm protocol (ASTM 2012). Four different laboratories conducted a total of ten experiments to test the reproducibility of results to control, low, medium and high concentrations of CuSO<sub>4</sub>.
 
-<figure>
-    <img src="/static/images/featured_data/daphnia-magna-asexual.jpg" alt="daphnia">
+<figure class="figure_featured">
+    <img src="/static/images/featured_data/daphnia-magna-asexual.jpg" alt="daphnia" width="50%">
     <figcaption>Fig. 2: Daphnia magna, a genus of small planktonic crustaceans, with a clutch of asexual eggs (photo credit: wikipedia.org).</figcaption>
 </figure>
 
@@ -36,8 +36,8 @@ The protocol included the same 10 species of phytoplankton and 5 animals, includ
 
 The copper inhibited some phytoplankton more than others and killed many grazers, especially Daphnia. The higher the concentration of copper, the longer the inhibition and mortality of organisms. By eliminating grazing, low concentrations of copper allowed more phytoplankton to develop (Fig. 3), higher concentrations of copper delayed recovery longer.
 
-<figure>
-    <img src="/static/images/featured_data/results-low-toxicity-taub.jpg" alt="daphnia">
+<figure  class="figure_featured">
+    <img src="/static/images/featured_data/results-low-toxicity-taub.jpg" alt="results:" width="100%">
     <figcaption>Fig. 3: Low Cu++ (500 PPB), compared to control conditions, increased phytoplankton abundance by decreasing Daphnia grazing.</figcaption>
 </figure>
 
