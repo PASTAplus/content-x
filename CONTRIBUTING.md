@@ -72,7 +72,7 @@ Content is organized into stand alone pages cross referencing each other. This m
     ```
     <figure>
       <img src="/static/images/metadata-in-the-research-life-cycle.png" width="55%">
-      <figcaption>Developing metadata during the research life-cycle is beneficial&lt;/figcaption>
+      <figcaption>Developing metadata during the research life-cycle is beneficial</figcaption>
     </figure>
     ```
 
