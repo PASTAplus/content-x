@@ -2,9 +2,10 @@
 
 Along with ensuring proper attribution is paid to the original data author, citing data in publications and other published data increases findability, encourages data reuse, and enables reliable tracking of data citation metrics.<sup>[1]</sup>
 
-<img class="screen-shot" src="/static/images/data-citation.png" width="75%">
-
-Components of a data citation: (1) Data Author or Creator, (2) Public Release Date, (3) Title, (4) Version, (5) Repository, (6) Persistent Identifier (DOI), (7) Access Date.
+<figure class="figure">
+   <img src="/static/images/data-citation.png" class="figure-img" width="75%"/>
+   <figcaption class="figure-caption">Components of a data citation: (1) Data Author or Creator, (2) Public Release Date, (3) Title, (4) Version, (5) Repository, (6) Persistent Identifier (DOI), (7) Access Date.</figcaption>
+</figure>
 
 [TOC]
 

@@ -2,9 +2,10 @@
 
 There are three different environments/tiers in the EDI Data Repository: production, staging, and development. Production is the primary environment where fully published data packages are securely and permanently hosted, staging is used for previewing data packages and testing workflows, and the development environment is used by EDI Repository developers to test new repository features.
 
-<img src="/static/images/repository-tier-earths.jpg" width="75%">
- 
-Analogous to use of the EDI Data Repository tiers, a worldly deity would  (hopefully) test new features on development and staging Earths before releasing to production.
+<figure class="figure">
+   <img src="/static/images/repository-tier-earths.jpg" class="figure-img" width="75%"/>
+   <figcaption class="figure-caption">Analogous to use of the EDI Data Repository tiers, a worldly deity would  (hopefully) test new features on development and staging Earths before releasing to production.</figcaption>
+</figure>
 
 [TOC]
 

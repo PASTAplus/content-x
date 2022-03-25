@@ -68,13 +68,13 @@ Content is organized into stand alone pages cross referencing each other. This m
    `<img class="screen-shot" src="/static/images/ezeml-send-revision.png" width="85%">`
 
    2. Figures with captions - Example:
-
-    ```
-    <figure>
-      <img src="/static/images/metadata-in-the-research-life-cycle.png" width="55%">
-      <figcaption>Developing metadata during the research life-cycle is beneficial</figcaption>
-    </figure>
-    ```
+   
+   ```
+   <figure class="figure">
+     <img src="/static/images/image.png" class="figure-img" width="75%"/>
+     <figcaption class="figure-caption">A caption for the image.</figcaption>
+   </figure>
+   ```
 
    3. All other image types - Example:
 
