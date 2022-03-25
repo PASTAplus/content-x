@@ -16,8 +16,6 @@ To evaluate a data package via the [EDI Data Portal](https://portal.edirepositor
 
 From the Data Portal, click the **Login** button and enter EDI account credentials.
 
-<img class="screen-shot" src="/static/images/login-portal.png" width="85%">
-
 ### Evaluating the data package
 
 Navigate to the **Evaluate/Upload Data Packages** page: 
@@ -31,8 +29,6 @@ Navigate to the **Evaluate/Upload Data Packages** page:
 
 3. From the manual uploads page, choose the files to upload for the data package and click the **Evaluate** button.
 
-<img class="screen-shot" src="/static/images/evaluate-manual-upload-page.png" width="85%">
-
 >Be aware that the length of the evaluation process increases with the size of the data being evaluated. Once the process has begun, the browser window can be closed without interrupting the evaluation. Use the EDI Dashboard [PASTA is Working On](https://dashboard.edirepository.org/dashboard/pasta/render_working_on) feature to see when evaluation has completed. The evaluation report summary and full report can be viewed from the **View Evaluate/Upload Results** page.
 
 
@@ -45,8 +41,6 @@ After the evaluation runs, the **View Evaluate/Upload Results** page will be dis
 ### Viewing the evaluation report
 
 This summary table also provides a link to the full **Evaluation Report**, which documents the outcome of each evaluation test performed, including the specific areas for improvement noted by **Warn** and **Error** labels.
-
-<img class="screen-shot" src="/static/images/eval-report.png" width="100%">
 
 ## EDIutils
 
