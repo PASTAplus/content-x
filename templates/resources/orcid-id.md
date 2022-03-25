@@ -31,6 +31,8 @@ Allow DataCite to add newly published data packages that contain your ORCID iD d
 5. From the DataCite Profiles page, next to ORCID permissions, click the green **Get ORCID token** button.
 6. Click the **Update** button on the bottom of the page and ensure that the Auto-Update is enabled option is selected.
 
+<img class="screen-shot" src="/static/images/orcid-works-datacite.png" width="60%">
+
 For more see the ORCID video [Use the Search & Link Wizard to Import Works](https://vimeo.com/236776451) or read the article [adding works by direct import](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems).
 
 ### Manually updating
