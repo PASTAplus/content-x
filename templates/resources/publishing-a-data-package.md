@@ -18,8 +18,6 @@ The process of publishing via the [EDI Data Portal](https://portal.edirepository
 
 From the Data Portal, click the **Login** button and enter EDI account credentials.
 
-<img class="screen-shot" src="/static/images/login-portal.png" width="80%">
-
 ### Reserving a data package identifier
 
 Access the **Data Package Identifier Reservations** button in the **TOOLS** dropdown menu. Click the **Reserve Next Available Identifier(s)** button to create the reservation.
@@ -42,8 +40,6 @@ Navigate to the **Evaluate/Upload Data Packages** page:
 
 3. From the manual uploads page, choose the files to upload for the data package and click the **Evaluate** button.
 
-<img class="screen-shot" src="/static/images/evaluate-manual-upload-page.png" width="95%">
-
 >Be aware that the length of the evaluation process increases with the size of the data being evaluated. Once the process has begun, the browser window can be closed without interrupting the evaluation. Use the EDI Dashboard [PASTA is Working On](https://dashboard.edirepository.org/dashboard/pasta/render_working_on) feature to see when evaluation has completed. The [evaluation report](/templates/resources/evaluating-a-data-package.md#interpreting-the-evaluation-report) can be viewed from the **View Evaluate/Upload Results** page.
 
 ### Publishing the data package
@@ -56,9 +52,6 @@ Navigate to the **Evaluate/Upload Data Packages**
 <img class="screen-shot" src="/static/images/upload-manual-upload.png" width="80%">
 
 3. Confirm that upload to the EDI Data Repository.
-
-<img class="screen-shot" src="/static/images/confirm-upload.png" width="45%">
-
 4. Select files for manual upload and click the **Upload** button.
 5. At the **Evaluate/Upload Results** page, if the upload was successful, the data package identifier will be linked to the newly published data package [landing page](/templates/resources/data-package-pages.md).
 
