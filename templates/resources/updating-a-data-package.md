@@ -50,6 +50,8 @@ An updated data package can be uploaded via the EDI Data Portal similarly to a [
 
 Use the **Allow PASTA+ to skip…** option if any of the data files are unchanged between versions. This allows the EDI Data Repository (a.k.a. PASTA) to forgo reuploading replicate data and can save time and repository space. _Caution: take care to ensure that the metadata-documented checksum values of each data file are accurate and up to date._
 
+<img class="screen-shot" src="/static/images/allow-pasta-update.png" width="60%">
+
 For more information on this option, watch [this video](https://youtu.be/AS6-m17I6pk).
 
 ### EDIutils
