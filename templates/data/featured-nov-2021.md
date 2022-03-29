@@ -25,14 +25,14 @@ The data packages are a great example of community science data published and ho
 Journey North Monarch & Milkweed Project: an ongoing study of monarch butterfly migration (species Danaus plexippus) and milkweed phenology, conducted at broad spatial and temporal scales. Participants from Canada, the US and Mexico track and submit observations on monarchs’ first arrival dates, breeding and feeding behavior as well as the onset of fall migration, roosts, and presence of monarchs found beyond official sanctuary locations on Mexico. Community scientists also track first emergence of milkweed in the spring and the presence of milkweed across the landscape, documenting milkweed species, if known. This data package featured here contains 24 years of monarch and milkweed data (1996 – 2020) collected by 42,518 community scientists
 
 <figure  class="figure_featured">
-    <img src="/static/images/featured_data/peak_immigration.png" alt="map of monarch fall roosts and peak migration" width="50%">
+    <img src="/static/images/featured_data/peak_immigration.png" alt="map of monarch fall roosts and peak migration" width="80%">
     <figcaption>Fig. 2: Monarch fall roosts (solid circle with white square) and peak migration (solid circle) through 10/31/2021, <img style="width:10px;" src="https://maps.journeynorth.org/map/symbols/YlOrRdWeekly/circle1.png">before Aug 16, <img style="width:10px;" src="https://maps.journeynorth.org/map/symbols/YlOrRdWeekly/circle2.png">Aug 16 &#8211; Aug 29, <img style="width:10px;" src="https://maps.journeynorth.org/map/symbols/YlOrRdWeekly/circle3.png"> Aug 30 &#8211; Sep 12, <img style="width:10px;" src="https://maps.journeynorth.org/map/symbols/YlOrRdWeekly/circle4.png"> Sep 13 &#8211; Sep 26,<img style="width:10px;" src="https://maps.journeynorth.org/map/symbols/YlOrRdWeekly/circle5.png"> Sep 27 &#8211; Oct 10,<img style="width:10px;" src="https://maps.journeynorth.org/map/symbols/YlOrRdWeekly/circle6.png"> Oct 11 &#8211; Oct 24 (map credit: <a rel="noreferrer noopener" href="https://maps.journeynorth.org/map/?map=monarch-roost-fall&amp;year=" target="_blank">Journey North</a>).</figcaption>
 </figure>
 
 Journey North Hummingbird Migration Project: an ongoing study of hummingbird migration. From 1996 to 2000, 30,703 community scientists from across North America submitted observational data on first arrival dates, breeding and feeding behavior, the onset of fall migration and presence of hummingbird species throughout the winter months in the United States. Focal species are the Ruby-throated hummingbird (Archilochus colubris) and Rufous hummingbird. Observational data is also available for Broad-tailed hummingbird (Selasphorus platycercus), Black-chinned hummingbird (Archilochus alexandri), Calliope hummingbird (Selasphorus calliope), Costa’s hummingbird (Calypte costae), Anna’s hummingbird (Calypte anna), Allen’s hummingbird (Selasphorus sasin).
 
 <figure  class="figure_featured">
-    <img src="/static/images/featured_data/peak_immigration.png" alt="map of monarch fall roosts and peak migration" width="50%">
+    <img src="/static/images/featured_data/hummingbird.png" alt="hummingbird" width="50%">
     <figcaption>Fig. 3: Hummingbird female (photo credit: [Janet Fender](https://journeynorth.org/sites/default/files/2021-10/1526550801.full_.jpg))</figcaption>
 </figure>
 
