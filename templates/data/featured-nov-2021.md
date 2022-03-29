@@ -19,7 +19,7 @@ The data packages are a great example of community science data published and ho
 
 <figure class="figure_featured">
     <img src="/static/images/featured_data/monarchs.png" alt="monarch butterflies" width="50%">
-    <figcaption>Fig. 1: Monarchs roosting at Spirit Lake, Iowa (photo credit: [Courtney, Journey North](https://journeynorth.org/sites/default/files/2021-09/Courtney_SpiritLakeIA.jpg) ).</figcaption>
+    <figcaption>Fig. 1: Monarchs roosting at Spirit Lake, Iowa (photo credit: [Courtney, Journey North](https://journeynorth.org/sites/default/files/2021-09/Courtney_SpiritLakeIA.jpg)).</figcaption>
 </figure>
 
 Journey North Monarch & Milkweed Project: an ongoing study of monarch butterfly migration (species Danaus plexippus) and milkweed phenology, conducted at broad spatial and temporal scales. Participants from Canada, the US and Mexico track and submit observations on monarchs’ first arrival dates, breeding and feeding behavior as well as the onset of fall migration, roosts, and presence of monarchs found beyond official sanctuary locations on Mexico. Community scientists also track first emergence of milkweed in the spring and the presence of milkweed across the landscape, documenting milkweed species, if known. This data package featured here contains 24 years of monarch and milkweed data (1996 – 2020) collected by 42,518 community scientists
@@ -33,7 +33,7 @@ Journey North Hummingbird Migration Project: an ongoing study of hummingbird mig
 
 <figure  class="figure_featured">
     <img src="/static/images/featured_data/peak_immigration.png" alt="map of monarch fall roosts and peak migration" width="50%">
-    <figcaption>Fig. 3: Hummingbird female (photo credit: [Janet Fender](https://journeynorth.org/sites/default/files/2021-10/1526550801.full_.jpg) )</figcaption>
+    <figcaption>Fig. 3: Hummingbird female (photo credit: [Janet Fender](https://journeynorth.org/sites/default/files/2021-10/1526550801.full_.jpg))</figcaption>
 </figure>
 
 **In addition to projects presented here, Journey North community scientists also track the migration of Common Loons & Ice-Out, American Robins, Barn Swallows, Red-winged Blackbirds, and Baltimore and Bullock’s Orioles. These datasets have yet to be published.*
