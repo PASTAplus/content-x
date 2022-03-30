@@ -7,6 +7,7 @@ November 2021
 ### Citation
 
 Sheehan, N. and L. Weber-Grullon. 2021. Journey North – Monarch Butterfly and Milkweed observations by volunteer community scientists across Central and North America (1996-2020) ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/f7d7bef57f94b33b8a18a26954252412](https://doi.org/10.6073/pasta/f7d7bef57f94b33b8a18a26954252412).
+
 Sheehan, N. and L. Weber-Grullon. 2021. Journey North – Hummingbird observations by volunteer community scientists across Central and North America (1996-2020) ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/a4bebd2b5fb5c1fd0757eac254a06357](https://doi.org/10.6073/pasta/a4bebd2b5fb5c1fd0757eac254a06357).
 
 ### Description
