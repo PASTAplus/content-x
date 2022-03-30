@@ -4,10 +4,13 @@
 
 July 2021
 
-### Featured Data Packages
+### Citation
 
-1. Borer, E.T., W.S. Harpole, P.B. Adler et al. 2020. Data from nutrients cause grassland biomass to outpace herbivory, 2008-2019 ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/a318fe0fb11eb43c1a2c8233b2e3494f](https://doi.org/10.6073/pasta/a318fe0fb11eb43c1a2c8233b2e3494f).
-1. Seabloom, E.W., P.B. Adler, J. Alberti et al. 2020. Effects of chronic nutrient enrichment on plant diversity and ecosystem productivity, 2008-2019 ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/d78e6e48df246a03129c85a6c1da00d6](https://doi.org/10.6073/pasta/d78e6e48df246a03129c85a6c1da00d6).
+Borer, E.T., W.S. Harpole, P.B. Adler et al. 2020. Data from nutrients cause grassland biomass to outpace herbivory, 2008-2019 ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/a318fe0fb11eb43c1a2c8233b2e3494f](https://doi.org/10.6073/pasta/a318fe0fb11eb43c1a2c8233b2e3494f).
+
+Seabloom, E.W., P.B. Adler, J. Alberti et al. 2020. Effects of chronic nutrient enrichment on plant diversity and ecosystem productivity, 2008-2019 ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/d78e6e48df246a03129c85a6c1da00d6](https://doi.org/10.6073/pasta/d78e6e48df246a03129c85a6c1da00d6).
+
+### Description
 
 Global grassland biomass production accounts for about a third of terrestrial productivity (Chapin et al. 2002), thereby serving as a sink of atmospheric CO2 and an energy source for terrestrial food webs. It is also vital for human food production. Grasslands’ productivity and diversity across the globe is affected by fossil fuel combustion and agricultural fertilization that have increased deposition of nitrogen and phosphorus relative to pre-industrial levels. Concurrently, habitat loss and degradation remove grasslands’ consumers from food webs.
 
