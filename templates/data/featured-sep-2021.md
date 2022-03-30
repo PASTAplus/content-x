@@ -8,6 +8,8 @@ September 2021
 
 Symes, L.B., K.D. Kittelberger, S.M. Stone, R.T. Holmes, J.S. Ralston, I.P. Casteneda Ruvalcaba, M.S. Webster, and M.P. Ayres. 2021. Calling activity of Birds in the White Mountain National Forest: Audio Recordings (2016 and 2018) ver 3. Environmental Data Initiative. [https://doi.org/10.6073/pasta/efba421dc87e077ee28010069dac7c0d](https://doi.org/10.6073/pasta/efba421dc87e077ee28010069dac7c0d)
 
+### Description
+
 <figure class="figure_featured">
     <img src="/static/images/featured_data/sound-recorder.png" alt="scientist programming a sound recorder" width="50%">
     <figcaption>Fig. 1: Dr. Matthew Ayres, Professor of Biological Sciences at Dartmouth College, programming a sound recorder (photo credit: Annie Ropeik / NHPR).</figcaption>
