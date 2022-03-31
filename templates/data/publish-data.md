@@ -1,5 +1,7 @@
 # How to Submit Your Data
 
+<img class="screen-shot" src="/static/images/how-to-publish.jpg" width="40%">
+
 ## Work with our Data Curation Team
 
 Submissions can be sent in one of two ways:
