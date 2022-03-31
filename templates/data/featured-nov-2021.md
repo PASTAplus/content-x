@@ -19,7 +19,7 @@ The data packages are a great example of community science data published and ho
 ### The Projects
 
 <figure class="figure_featured">
-    <img src="/static/images/featured_data/monarchs.png" alt="monarch butterflies" width="50%">
+    <img src="/static/images/featured_data/monarchs.jpg" alt="monarch butterflies" width="50%">
     <figcaption>Fig. 1: Monarchs roosting at Spirit Lake, Iowa (photo credit: [Courtney, Journey North](https://journeynorth.org/sites/default/files/2021-09/Courtney_SpiritLakeIA.jpg)).</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Journey North Monarch & Milkweed Project: an ongoing study of monarch butterfly 
 Journey North Hummingbird Migration Project: an ongoing study of hummingbird migration. From 1996 to 2000, 30,703 community scientists from across North America submitted observational data on first arrival dates, breeding and feeding behavior, the onset of fall migration and presence of hummingbird species throughout the winter months in the United States. Focal species are the Ruby-throated hummingbird (Archilochus colubris) and Rufous hummingbird. Observational data is also available for Broad-tailed hummingbird (Selasphorus platycercus), Black-chinned hummingbird (Archilochus alexandri), Calliope hummingbird (Selasphorus calliope), Costa’s hummingbird (Calypte costae), Anna’s hummingbird (Calypte anna), Allen’s hummingbird (Selasphorus sasin).
 
 <figure  class="figure_featured">
-    <img src="/static/images/featured_data/hummingbird.png" alt="hummingbird" width="50%">
+    <img src="/static/images/featured_data/hummingbird.jpg" alt="hummingbird" width="50%">
     <figcaption>Fig. 3: Hummingbird female (photo credit: [Janet Fender](https://journeynorth.org/sites/default/files/2021-10/1526550801.full_.jpg))</figcaption>
 </figure>
 
