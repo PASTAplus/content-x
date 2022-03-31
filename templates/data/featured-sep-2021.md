@@ -11,14 +11,14 @@ Symes, L.B., K.D. Kittelberger, S.M. Stone, R.T. Holmes, J.S. Ralston, I.P. Cast
 ### Description
 
 <figure class="figure_featured">
-    <img src="/static/images/featured_data/sound-recorder.png" alt="scientist programming a sound recorder" width="50%">
+    <img src="/static/images/featured_data/sound-recorder.jpg" alt="scientist programming a sound recorder" width="50%">
     <figcaption>Fig. 1: Dr. Matthew Ayres, Professor of Biological Sciences at Dartmouth College, programming a sound recorder (photo credit: Annie Ropeik / NHPR).</figcaption>
 </figure>
 
 The audio recordings of migratory song birds published in this data package were gathered in the USDA Forest Service’s Hubbard Brook Experimental Forest, a 7,800-acre northern hardwood forest in the White Mountain National Forest in New Hampshire. The experimental forest was established in 1955 and is renowned as the first site where water samples indicating acid rain were collected. This discovery was instrumental in the development of the [Clean Air Act](https://www.epa.gov/laws-regulations/summary-clean-air-act). Collaborative, multidisciplinary research efforts on air, water, soils, plants, and animals are carried out here by the [Hubbard Brook Ecosystem Study](https://hubbardbrook.org/) (HBES). HBES is a public-private partnership of the USDA Forest Service, the National Science Foundation’s Long Term Ecological Research (LTER) program, the Hubbard Brook Research Foundation and scientists around the world. HBES was founded in 1963 and is one of the longest running and most comprehensive ecosystem studies in the world.
 
 <figure  class="figure_featured">
-    <img src="/static/images/featured_data/laurel.png" alt="scientist holding sound recorder next to large bird" width="50%">
+    <img src="/static/images/featured_data/laurel.jpg" alt="scientist holding sound recorder next to large bird" width="50%">
     <figcaption>Fig. 2: Dr. Laurel Symes, Assistant Director of the K. Lisa Yang Center for Conservation Bioacoustics at Cornell University (photo credit: Dr. Matthew Ayres)</figcaption>
 </figure>
 
