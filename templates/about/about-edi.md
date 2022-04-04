@@ -172,6 +172,18 @@ EDI is currently funded through grants from the National Science Foundation's (N
         <img alt="Kyle Zollo-Venecek"
              src="/static/images/kyle.png"/>
     </div>
+<div class="person_row">
+    <div class="person_col">
+        <b>Roger Dahl</b> is a full stack software developer at the University of New Mexico who focuses on data management for the earth sciences. Roger can be reached at 
+        <a href="mailto:roger.dahl.unm@gmail.com">
+            roger.dahl.unm@gmail.com
+        </a>
+        .
+    </div>
+    <div class="person_col">
+        <img alt="Roger Dahl"
+             src="/static/images/roger.png"/>
+    </div>
 </div>
 
 
