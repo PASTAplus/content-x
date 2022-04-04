@@ -182,7 +182,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
     </div>
     <div class="person_col">
         <img alt="Roger Dahl"
-             src="/static/images/roger.png"/>
+             src="/static/images/roger.jpg"/>
     </div>
 </div>
 
