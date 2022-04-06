@@ -14,6 +14,8 @@ The EDI [Data Explorer (DeX)](http://dex.edirepository.org) is a web browser app
 
 Alternatively, open a table from a data package in DeX by providing the Data Entity URL (currently limited to tabular data). 
 
+> In order to provide a standard of efficiency while working with limited computing power, DeX currently has a size limit of 50 million cells. Tables with more than 50 million cells will be truncated by row. For example, a table with 10 columns and 5,000,010 rows will only import the first 5,000,000 rows, leaving off the last 10 rows. The DeX profile, as well as any subsets or plots, will be generated from the truncated table and will not necessarily be representative of the original table.
+
 ### Profile
 
 The **Profile** tab provides data table overview information, a sample of the first and last rows in the table, and summary information for every variable in the table.
