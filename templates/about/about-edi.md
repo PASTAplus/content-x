@@ -143,6 +143,19 @@ EDI is currently funded through grants from the National Science Foundation's (N
 </div>
 <div class="person_row">
     <div class="person_col">
+        <b>Roger Dahl</b> is a full stack software developer at the University of New Mexico who focuses on data management for the earth sciences. Roger can be reached at 
+        <a href="roger.dahl.unm@gmail.com">
+            roger.dahl.unm@gmail.com
+        </a>
+        .
+    </div>
+    <div class="person_col">
+        <img alt="Roger Dahl"
+             src="/static/images/roger.jpg"/>
+    </div>
+</div>
+<div class="person_row">
+    <div class="person_col">
         <b>Colin Smith</b> is a part of EDI's data curation team and works
         with data providers to clean, document, and submit their data to the EDI
         repository. He also works with the EDI community to develop data management
@@ -171,19 +184,6 @@ EDI is currently funded through grants from the National Science Foundation's (N
     <div class="person_col">
         <img alt="Kyle Zollo-Venecek"
              src="/static/images/kyle.png"/>
-    </div>
-</div>
-<div class="person_row">
-    <div class="person_col">
-        <b>Roger Dahl</b> is a full stack software developer at the University of New Mexico who focuses on data management for the earth sciences. Roger can be reached at 
-        <a href="roger.dahl.unm@gmail.com">
-            roger.dahl.unm@gmail.com
-        </a>
-        .
-    </div>
-    <div class="person_col">
-        <img alt="Roger Dahl"
-             src="/static/images/roger.jpg"/>
     </div>
 </div>
 
