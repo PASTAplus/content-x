@@ -22,11 +22,11 @@ A reliable, registered and certified trustworthy data repository, data curation 
 
 ## How much do EDI services cost?
 
-Both, the EDI Data Repository and our data curation services are currently free of cost for the submission of datasets. Caveats are large data volumes and extensive curatorial support. If you anticipate the need to archive large volumes of data, then we may have to negotiate some cost sharing agreement orif you would like to take advantage of skilled data management support for your project, please contact us for more information.
+Both the EDI Data Repository and our data curation services are currently free of cost for the submission of datasets. Caveats are large data volumes and extensive curatorial support. If you anticipate the need to archive large volumes of data, then we may have to negotiate some cost sharing agreement or if you would like to take advantage of skilled data management support for your project, please contact us for more information.
 
 ## Is there a limit to the amount of data I may archive?
 
-No. However, large data volumes will require planning and may require some cost sharing between your project and EDI.
+No. However, large data volumes will require planning and may require some cost sharing between your project and EDI. For more on publishing large data see [the data package best practices for large datasets](https://ediorg.github.io/data-package-best-practices/large-data-sets.html).
 
 ## How do I obtain an EDI user account?
 
@@ -36,7 +36,7 @@ An EDI user account is not required to submit data to the EDI Data Repository. G
 
 ## What will happen to my data if EDI loses funding?
 
-The Dryad Data Repository will provide preservation of all EDI data in the unlikely event our project loses funding.
+EDI is designed to ensure long-term persistence of important ecological data sets, including data from the LTER Network and NEON. In the unlikely event that EDI is no longer able to operate, we have in place a continuity plan that makes sure that contributed data will be protected and available into the foreseeable future.
 
 ## Why should I spend the time creating quality metadata?
 

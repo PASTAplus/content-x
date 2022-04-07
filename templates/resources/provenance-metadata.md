@@ -8,7 +8,7 @@ Provenance is the origin or history of data and is an important piece of metadat
 
 ## Creating provenance metadata
 
-Provenance metadata for data sources both internal and external to the EDI Data Repository can be created using ezEML and EMLassemblyline. The EDI Data Portal and EDIutils only support the creation of metadata only internal to the EDI Repository.
+Provenance metadata for data sources both internal and external to the EDI Data Repository can be created using ezEML and EMLassemblyline. The EDI Data Portal and EDIutils only support the creation of metadata internal to the EDI Repository.
 
 ### ezEML
 
@@ -31,7 +31,7 @@ To create provenance metadata using [EMLassemblyline](https://ediorg.github.io/E
 
 ### EDI Data Portal
 
-To create provenance metadata from the [EDI Data Portal](https://portal.edirepository.org/nis/home.jsp):
+To create provenance metadata from the [EDI Data Portal](https://portal.edirepository.org/nis/home.jsp) for the original dataset already residing in the EDI Repository:
 
 1. Navigate to the **Provenance** section at the bottom of a data package [landing page](/templates/resources/data-package-pages.md). This section displays provenance information and includes a link to generate provenance metadata for the data package.
 
@@ -44,7 +44,7 @@ To create provenance metadata from the [EDI Data Portal](https://portal.edirepos
 3. Open the EML for the derived data package in an XML editor and navigate to the &lt;methods> element. 
 4. Paste the copied provenance &lt;methodStep> element at the end of the list of &lt;methodSteps>. Repeat for all data sources.
 
-See [Editing EML](https://docs.google.com/document/d/12sdLhID6SwaKAjU1aT5PAXA-9q1zaq31eNBmPRvYBC0/edit#heading=h.j5rijoovspu3) for more on XML editors.
+See [Editing EML](/templates/resources/creating-metadata-for-publication.md#editing-eml) for more on XML editors.
 
 ### EDIutils
 
