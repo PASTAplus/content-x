@@ -4,7 +4,7 @@
 
 ## Information rich metadata
 
-We emphasize [the value of information-rich metadata](/templates/resources/the-value-of-metadata.md) for human and machine understanding. Our [metadata editing tools](/templates/resources/creating-metadata-for-publication.md) minimize the required effort while maximizing descriptive content by using algorithms to extract as much information from data as possible automatically. This allows you to focus on communicating the other important aspects of data that cannot be inferred. Our [quality checker](/templates/resources/evaluating-a-data-package.md) helps ensure that metadata accurately describes the data.
+We emphasize the value of information-rich metadata for human and machine understanding. Our [metadata editing tools](/templates/resources/creating-metadata-for-publication.md) minimize the required effort while maximizing descriptive content by using algorithms to extract as much information from data as possible automatically. This allows you to focus on communicating the other important aspects of data that cannot be inferred. Our [quality checker](/templates/resources/evaluating-a-data-package.md) helps ensure that metadata accurately describes the data.
 
 ## Publication quality data for reuse
 
