@@ -16,7 +16,7 @@ A data package is the unit of publication within the EDI Data Repository. Unders
 
 ## Data management planning
 
-A data management plan helps organize the data collected throughout a research project and ensure its preservation for future use. For a data management planning tool and example text to include EDI in the data management planning section of a proposal, see [Data Management Planning](/templates/resources/data-management-planning.md).
+A data management plan helps organize the data collected throughout a research project and ensures its preservation for future use. For a data management planning tool and example text to include EDI in the data management planning section of a proposal, see [Data Management Planning](/templates/resources/data-management-planning.md).
 
 
 ## Quality Assurance

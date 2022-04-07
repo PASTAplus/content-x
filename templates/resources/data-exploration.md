@@ -2,7 +2,7 @@
 
 At the beginning of any data reuse or synthesis project, it is important to quickly gain a thorough understanding of the type and scope of data under consideration. Additionally, it is a good practice to scan data for issues before publishing.
 
-While data package metadata, such as the [Data Entities](/templates/resources/data-package-pages.md#data-entities) section in the full metadata page, provide concise explanations of data attributes, summary and visualization tools can provide a quick and easy interactive view into the actual data values. EDI offers three options for data exploration: Data eXplorer, Data Import Scripts, and datapie.
+While data package metadata, such as the [Data Entities](/templates/resources/data-package-pages.md#data-entities) section in the full metadata page, provide concise explanations of data attributes, summary and visualization tools can provide a quick and easy interactive view into the actual data values. EDI offers three options for data exploration: Data eXplorer, Data Download Scripts, and datapie.
 
 [TOC]
 
@@ -86,9 +86,9 @@ The **Plot** tab allows users to create scatter plots for the table by selecting
 
 This tab takes you back to the data package landing page.
 
-## Data Import Scripts
+## Data download scripts
 
-[Data import scripts](/templates/resources/accessing-data.md#data-import-scripts), available in the **Code Generation** section of the data package landing page, read data directly from the EDI Repository into common programming language workspaces. This service provides full control over data manipulation and statistical exploration.
+[Data download scripts](/templates/resources/accessing-data.md#data-import-scripts), available in the **Code Generation** section of the data package landing page, read data directly from the EDI Repository into common programming language workspaces. This service provides full control over data manipulation and statistical exploration.
 
 ## datapie
 

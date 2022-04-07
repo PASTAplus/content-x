@@ -1,6 +1,6 @@
 # Resources for Data Users
 
-Data users search, access, integrate, and cite data from the EDI Repository to contextualize new research, synthesize data, ask new questions of old data, etc. Typically, the use of data from the EDI Repository results in the publication of a derived data package in which the data sources are referenced by provenance metadata.
+Data users search, access, integrate, and cite data from the EDI Repository to contextualize new research, synthesize data, ask new questions of old data, etc. Typically, the use of data from the EDI Repository results in the publication of a derived data package in which the data sources are referenced by provenance metadata or are cited in a journal publication.
 
 The EDI Data Repository holds a thematically diverse collection of data with over 7000 unique [data packages](/templates/resources/the-data-package.md) ranging in temporal extent from days to decades and with a global spatial extent, though mostly concentrated in the United States. More than 99 percent of data packages are openly accessible and downloadable for reuse.
 
@@ -15,9 +15,11 @@ Analysis ready data, from EDI [Thematic Standardization](/templates/resources/th
 
 ## Understanding data
 
-[Data package pages](/templates/resources/data-package-pages.md) provide information rich metadata on the original purpose, collection methods, measurement variables, and other important metadata. Data package pages also provide access to the EDI Data Explorer (DeX) and data import scripts which enable a quick interactive view into a dataset thereby deepening understanding beyond the metadata alone. For more information see [Data Exploration](/templates/resources/data-exploration.md).
+[Data package pages](/templates/resources/data-package-pages.md) provide information rich metadata on the original purpose, collection methods, measurement variables, and other important metadata. Data package pages also provide access to the EDI Data Explorer (DeX) and data download scripts which enable a quick interactive view into a dataset thereby deepening understanding beyond the metadata alone. For more information see [Data Exploration](/templates/resources/data-exploration.md).
 
 Together the data package metadata and exploration tools enable [assessment of fitness for use](/templates/resources/assessing-fitness-for-use.md). If any questions arise, reach out to the data package contact for clarification. Resolving uncertainties leads to improved metadata and quality of data published in the EDI Repository as a whole.
+
+>Although, more than 99 percent of data packages are openly accessible and downloadable for reuse, it is recommended to contact the original data author.
 
 
 ## Accessing data

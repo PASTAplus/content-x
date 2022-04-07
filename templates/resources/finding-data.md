@@ -17,7 +17,9 @@ Simple text search and the advanced search interface are accessible from the [ED
 
 #### Advanced search
 
-The advanced search interface consists of eight feature tabs, each representing a different search parameter. These search parameters can be used individually or in tandem with the others to create a query with which to search for datasets. When using the advanced search interface, any selected parameters will be saved until the **Submit** button is pressed. After pressing submit, use the web browser back button to refine search parameters. To reset all parameters, click the **Clear All** button. 
+The advanced search interface consists of eight feature tabs, each representing a different search parameter. These search parameters can be used individually or in tandem with the others to create a query with which to search for datasets. When using the advanced search interface, any selected parameters will be saved until the **Submit** button is pressed. All parameters are combined with a boolean "AND". After pressing submit, use the web browser back button to refine search parameters. To reset all parameters, click the **Clear All** button.
+
+> Overly specific search criteria may result in poor search results dataset? If this is the case, try reducing the search criteria.
 
 ##### Spatial / Place Name
 
@@ -54,6 +56,8 @@ From the **Temporal** tab, narrow the query to specific dates of data collection
 Filter on a specific taxon in the **Taxonomic** search tab.
 
 <img class="screen-shot" src="/static/images/as-taxonomic.png" width="80%">
+
+> Warning: Not many datasets have taxonomic metadata for the search engine to operate on. This search feature will become more useful as data packages include this taxonomic information.
 
 ##### Project
 

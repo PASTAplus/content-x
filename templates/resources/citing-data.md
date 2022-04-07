@@ -34,3 +34,5 @@ For citing data in a data package derived from one or more source data packages,
 ## References
 
 <sup>[1]</sup>Renée F Brown, The Importance of Data Citation, _BioScience_, Volume 71, Issue 3, March 2021, Page 211,[ https://doi.org/10.1093/biosci/biab012](https://doi.org/10.1093/biosci/biab012)
+
+ESIP Data Preservation and Stewardship Committee (2019): Data Citation Guidelines for Earth Science Data , Version 2. ESIP. Online resource. [https://doi.org/10.6084/m9.figshare.8441816.v1](https://doi.org/10.6084/m9.figshare.8441816.v1)

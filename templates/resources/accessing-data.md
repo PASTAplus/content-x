@@ -20,9 +20,9 @@ Single data objects or the entire data package can be downloaded as files:
 
 <img class="screen-shot" src="/static/images/access-resources.png" width="65%">
 
-### Data import scripts
+### Data download scripts
 
-Data import scripts, read data directly from the EDI Repository into common programming language workspaces. This option supports reproducible research by accessing the data directly and reducing the possibility of errors propagating through local files.
+Data download scripts, read data directly from the EDI Repository into common programming language workspaces. This option supports reproducible research by accessing the data directly and reducing the possibility of errors propagating through local files.
 
 1. Navigate to the **Code Generation** section of a data package landing page. 
 2. Select the language of interest (R, Python, MATLAB, etc).
@@ -30,7 +30,7 @@ Data import scripts, read data directly from the EDI Repository into common prog
 
 ## EDIutils
 
-The [EDIutils R package](https://ediorg.github.io/EDIutils/) allows data to be read directly from the EDI Repository into the R environment. This option serves a similar use case as the data import scripts but provides full access to the [REST API](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/about.html), which is useful when constructing automated workflows.
+The [EDIutils R package](https://ediorg.github.io/EDIutils/) allows data to be read directly from the EDI Repository into the R environment. This option serves a similar use case as the data download scripts but provides full access to the [REST API](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/about.html), which is useful when constructing automated workflows.
 
 1. Download the metadata of a data package using the [`read_metadata()`](https://ediorg.github.io/EDIutils/reference/read_metadata.html) function.
 2. Download individual resources from a data package using the [`read_data_entity()`](https://ediorg.github.io/EDIutils/reference/read_data_entity.html) function.

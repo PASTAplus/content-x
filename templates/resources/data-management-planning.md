@@ -14,7 +14,7 @@ The [Data Management Planning (DMP) Tool](https://dmptool.org/) includes templat
 
 ## Including EDI in a DMP
 
-The text below is a template for researchers wishing to include EDI in their DMP as the data repository where their data will ultimately be stored and preserved. Researchers are welcome to [contact EDI](/templates/support/contact-us.md) with questions about preparing a DMP and to obtain a letter of collaboration, if desired.
+The text below is a suggestion for researchers wishing to include EDI in their DMP as the data repository where their data will ultimately be stored and preserved. Researchers are welcome to [contact EDI](/templates/support/contact-us.md) with questions about preparing a DMP and to obtain a letter of collaboration, if desired.
 
 **Plans for archiving data, samples, software, and other research products, and for on-going access to these products through their lifecycle of usefulness to research and education.**
 
