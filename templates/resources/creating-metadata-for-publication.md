@@ -67,7 +67,12 @@ Since the EML standard was designed to handle an enormous variety of data scenar
 
 ezEML can be used as a "wizard" leading the user through EML document creation step by step, or it can be used in a more user-directed fashion. Among other things, it supports checking the EML for correctness and completeness, importing EML content from other ezEML documents, uploading data tables and inferring most of their characteristics, and downloading the finished EML document as an EML XML file.
 
-There are a variety of options to help new users learn ezEML. Along with the ezEML [About](https://ezeml.edirepository.org/eml/about) section, an extensive [User Guide](https://ezeml.edirepository.org/eml/user_guide), and a comprehensive [ezEML Overview video](https://studio.youtube.com/video/LVRoFmTwvtU/edit). The [ezEML playlist](https://www.youtube.com/playlist?list=PLi1PZkcSXdAKTtpgyHnd8GjtL6kRMMGFR) on the EDI YouTube Channel contains short video demonstrations to help familiarize with specific topics and features in ezEML.
+There are a variety of options to help new users learn ezEML:
+
+* [About](https://ezeml.edirepository.org/eml/about)
+* [User Guide](https://ezeml.edirepository.org/eml/user_guide)
+* [ezEML overview video](https://studio.youtube.com/video/LVRoFmTwvtU/edit)
+* [ezEML YouTube playlist](https://www.youtube.com/playlist?list=PLi1PZkcSXdAKTtpgyHnd8GjtL6kRMMGFR)
 
 ### EMLassemblyline
 
@@ -88,6 +93,8 @@ See the resources section at the bottom of this page for more tools to create EM
 EML documents can be updated or edited using the software with which they were created (ezEML, EMLassemblyline). While this is likely the easiest way to make most edits to an EML file, it is sometimes necessary to manually edit EML in order to incorporate elements outside of the applications' scopes. Also, at times it's simpler because minor edits can be completed faster manually. While any text editor can be used to edit an EML file, XML-specific software have added capabilities to streamline the editing process and support schema validation.
 
 ### oXygen XML Editor
+
+<a href="https://www.oxygenxml.com" title="Oxygen XML Editor"><img src="https://www.oxygenxml.com/img/resources/oxygen190x62.png" width="150" alt="Oxygen XML Editor" border="0"/></a>
 
 The [oXygen XML Editor](https://www.oxygenxml.com/) is a commercial product that provides a comprehensive suite of XML authoring and development features:
 

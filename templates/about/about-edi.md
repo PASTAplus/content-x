@@ -26,8 +26,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         at
         <a href="mailto:cgries@wisc.edu">
             cgries@wisc.edu
-        </a>
-        .
+        </a>.
     </div>
     <div class="person_col">
         <img alt="Corinna Gries" src="/static/images/corinna.jpg"/>
@@ -39,8 +38,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         Mark leads the development of the PASTA data repository software and can be reached at
         <a href="mailto:mark.servilla@gmail.com">
             mark.servilla@gmail.com
-        </a>
-        .
+        </a>.
     </div>
     <div class="person_col">
         <img alt="Mark Servilla" src="/static/images/mark.jpg"/>
@@ -52,8 +50,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         is based at the University of New Mexico. Kristin can be reached at
         <a href="mailto:krvander@fiu.edu">
             krvander@fiu.edu
-        </a>
-        .
+        </a>.
     </div>
     <div class="person_col">
         <img alt="Kristin Vanderbilt" src="/static/images/kristin.jpg"/>
@@ -65,8 +62,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         the University of Wisconsin-Madison and can be reached at
         <a href="mailto:pchanson@wisc.edu">
             pchanson@wisc.edu
-        </a>
-        .
+        </a>.
     </div>
     <div class="person_col">
         <img alt="Paul Hanson" src="/static/images/paul.jpg"/>
@@ -80,8 +76,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         reached at
         <a href="mailto:margaret.obrien@ucsb.edu">
             margaret.obrien@ucsb.edu
-        </a>
-        .
+        </a>.
     </div>
     <div class="person_col">
         <img alt="Margaret O'Brien" src="/static/images/margaret.jpg"/>
@@ -93,8 +88,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         the University of New Mexico and can be reached at
         <a href="mailto:rbwaide@unm.edu">
             rbwaide@unm.edu
-        </a>
-        .
+        </a>.
     </div>
     <div class="person_col">
         <img alt="Robert Waide" src="/static/images/bob.jpg"/>
@@ -107,8 +101,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         and may be reached at
         <a href="mailto:jbrunt@unm.edu">
             jbrunt@unm.edu
-        </a>
-        .
+        </a>.
     </div>
     <div class="person_col">
         <img alt="James Brunt" src="/static/images/james.jpg"/>
@@ -120,8 +113,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         She works through the University of Wisconsin-Madison and can be reached at
         <a href="mailto:grossmanclar@wisc.edu">
             grossmanclar@wisc.edu
-        </a>
-        .
+        </a>.
     </div>
     <div class="person_col">
         <img alt="Susanne Grossman-Clarke"
@@ -134,11 +126,22 @@ EDI is currently funded through grants from the National Science Foundation's (N
         Wisconsin and can be reached at
         <a href="mailto:jride@wisc.edu">
             jride@wisc.edu
-        </a>
-        .
+        </a>.
     </div>
     <div class="person_col">
         <img alt="Jon Ide" src="/static/images/jon.jpg"/>
+    </div>
+</div>
+<div class="person_row">
+    <div class="person_col">
+        <b>Roger Dahl</b> is a full stack software developer at the University of New Mexico who focuses on data management for the earth sciences. Roger can be reached at 
+        <a href="roger.dahl.unm@gmail.com">
+            dahl@unm.edu
+        </a>.
+    </div>
+    <div class="person_col">
+        <img alt="Roger Dahl"
+             src="/static/images/roger.jpg"/>
     </div>
 </div>
 <div class="person_row">
@@ -150,8 +153,7 @@ EDI is currently funded through grants from the National Science Foundation's (N
         through the University of Wisconsin-Madison. He can be reached at
         <a href="mailto:colin.smith@wisc.edu">
             colin.smith@wisc.edu
-        </a>
-        .
+        </a>.
     </div>
     <div class="person_col">
         <img alt="Colin Smith" src="/static/images/colin.jpg"/>
@@ -165,24 +167,11 @@ EDI is currently funded through grants from the National Science Foundation's (N
         and can be reached at
         <a href="mailto:kylezollo@gmail.com">
             kylezollo@gmail.com
-        </a>
-        .
+        </a>.
     </div>
     <div class="person_col">
         <img alt="Kyle Zollo-Venecek"
              src="/static/images/kyle.png"/>
-    </div>
-<div class="person_row">
-    <div class="person_col">
-        <b>Roger Dahl</b> is a full stack software developer at the University of New Mexico who focuses on data management for the earth sciences. Roger can be reached at 
-        <a href="mailto:roger.dahl.unm@gmail.com">
-            roger.dahl.unm@gmail.com
-        </a>
-        .
-    </div>
-    <div class="person_col">
-        <img alt="Roger Dahl"
-             src="/static/images/roger.jpg"/>
     </div>
 </div>
 

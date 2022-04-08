@@ -1,6 +1,6 @@
 # The Data Package
 
-The data package is the unit of publication within the EDI Data Repository. It's an assemblage of science metadata, one or more science data objects, a package quality report, and manifest of contents. Each data package is assigned a Digital Object Identifier (DOI) and published in the repository for future use.
+The data package is the unit of publication within the EDI Data Repository. It's an assemblage of science metadata, one or more science data objects (including scripts, documents, images etc.), a package quality report, and manifest of contents. Each data package is assigned a Digital Object Identifier (DOI) and published in the repository for future use.
 
 <img src="/static/images/the-data-package.png" width="55%">
 
@@ -16,9 +16,9 @@ Data packages have some important features. First, they're immutable which makes
 
 ## What to include in a data package
 
-When publishing data in support of a manuscript, include the data required to reproduce the results. Consider publishing this data in a minimally processed form, so it can be reused in other contexts. To make results reproducible, include any scripts used in processing and analyzing the data. Be sure to include links to any external source data used in a data package with [provenance metadata](/templates/resources/provenance-metadata.md).
+When publishing data in support of a manuscript, include the data required to reproduce the results. Consider publishing this data in a minimally processed form, so it can be reused in other contexts. To make results reproducible, include any scripts used in processing and analyzing the data. Be sure to include links to any external source data used in a data package with [provenance metadata](/templates/resources/provenance-metadata.md). Also, consider adding documents that provide additional metadata detail (e.g. pdf of protocols).
 
-If a data publication is not part of a manuscript, but serving general data reuse, then see our information management resource on [designing a data package](/templates/resources/designing-a-data-package.md).
+For further information on optimizing a data package for reuse see [designing a data package](/templates/resources/designing-a-data-package.md).
 
 ## Identifiers of a data package
 
@@ -30,10 +30,10 @@ Example DOI: **doi:10.6073/pasta/0cd8caf2eb9959c98b335828628914fb**
 
 ### Data package identifier
 
-The data package identifier is used exclusively within the EDI Data Repository to associate the components of a data package. A data package identifier has the form **scope.identifier.revision**, where:
+The data package identifier is used exclusively within the EDI Data Repository to associate the components of a data package. A data package identifier has the form **scope.accession.revision**, where:
 
 * **scope** is a string value that identifies the organization, project, or theme of the data package
-* **identifier** is an integer value that uniquely identifies the data package in the namespace of the scope
+* **accession** is an integer value that uniquely identifies the data package in the namespace of the scope
 * **revision** is an integer value in increasing order that identifies the version of the data package
 
 Example data package identifier: **edi.1072.1**
@@ -47,7 +47,7 @@ Example data object identifier: **https://portal.edirepository.org/nis/dataviewe
 
 ## Versioning data packages
 
-The EDI Data Repository enforces strong versioning (i.e. published data and metadata are immutable). Each revision of a data package is published under a new version number.
+The EDI Data Repository enforces strong versioning (i.e. published data and metadata are immutable). Each revision of a data package is published under a new version number with each revision receiving a new DOI.
 
 <img src="/static/images/data-package-versioning.png" width="30%">
 

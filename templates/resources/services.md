@@ -4,7 +4,7 @@
 
 ## Information rich metadata
 
-We emphasize [the value of information-rich metadata](/templates/resources/the-value-of-metadata.md) for human and machine understanding. Our [metadata editing tools](/templates/resources/creating-metadata-for-publication.md) minimize the required effort while maximizing descriptive content by using algorithms to extract as much information from data as possible automatically. This allows you to focus on communicating the other important aspects of data that cannot be inferred. Our [quality checker](/templates/resources/evaluating-a-data-package.md) helps ensure that metadata accurately describes the data.
+We emphasize the value of information-rich metadata for human and machine understanding. Our [metadata editing tools](/templates/resources/creating-metadata-for-publication.md) minimize the required effort while maximizing descriptive content by using algorithms to extract as much information from data as possible automatically. This allows you to focus on communicating the other important aspects of data that cannot be inferred. Our [quality checker](/templates/resources/evaluating-a-data-package.md) helps ensure that metadata accurately describes the data.
 
 ## Publication quality data for reuse
 
@@ -34,7 +34,7 @@ Data in the EDI Repository are findable in the [EDI Data Portal](https://portal.
 
 ## Data exploration & analysis
 
-Three data exploration tools provide a quick interactive view into a dataset and thereby deepening understanding of a data package beyond the metadata alone. First, our data exploration tool [DeX](/templates/resources/data-exploration.md#data-explorer-dex) is an interface for exploring and subsetting tabular data directly from our data portal. Second, the [datapie R package](/templates/resources/data-exploration.md#datapie) provides a similar interface but broadens access to any data published in the DataONE network as well as to data stored on a local computer. Finally, [Data Import Scripts](/templates/resources/data-exploration.md#data-import-scripts) are automatically generated for each data package in common languages (MatLab, Python, R, SAS, SPSS, tidyr), providing immediate access to manipulation and analysis.
+Three data exploration tools provide a quick interactive view into a dataset and thereby deepening understanding of a data package beyond the metadata alone. First, our data exploration tool [DeX](/templates/resources/data-exploration.md#data-explorer-dex) is an interface for exploring and subsetting tabular data directly from our data portal. Second, the [datapie R package](/templates/resources/data-exploration.md#datapie) provides a similar interface but broadens access to any data published in the DataONE network as well as to data stored on a local computer. Finally, [Data download scripts](/templates/resources/data-exploration.md#data-import-scripts) are automatically generated for each data package in common languages (MatLab, Python, R, SAS, SPSS, tidyr), providing immediate access to manipulation and analysis.
 
 ## Analysis ready data
 
@@ -42,7 +42,7 @@ Original data varies greatly in terms of format and structure, thereby making da
 
 ## Workflow automation
 
-Automating workflows have a larger impact with less effort. Our repository [REST API](/templates/resources/rest-api.md) provides programmatic access to data and services for automation of common data curation tasks, reporting to stakeholders, and enables automation of fully open and reproducible science analysis workflows.
+Automating workflows have a larger impact with less effort. Our repository [REST API](/templates/resources/rest-api.md), [EDIutils R package](https://ediorg.github.io/EDIutils/), and [data download scripts](/templates/resources/accessing-data.md#data-download-scripts) provides programmatic access to data and services for automation of common data curation tasks, reporting to stakeholders, and enables automation of fully open and reproducible science analysis workflows.
 
 ## Training & skill building
 
