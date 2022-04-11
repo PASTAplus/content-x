@@ -3,3 +3,5 @@ venv/
 
 # Project content
 .idea
+
+.DS_Store
