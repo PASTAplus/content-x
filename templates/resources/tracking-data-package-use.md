@@ -10,6 +10,8 @@ Metrics of activity surrounding a data package are commonly used when publicizin
 
 <img class="screen-shot" src="/static/images/package-tracker.png" width="25%">
 
+## Audit Report
+The [Audit Report](https://portal.edirepository.org/nis/auditReport.jsp) tool can be used to view a list of users that have interacted with PASTA using a specific Data Package Manager operation from the PASTA REST API.
 
 ## Data package summary page
 

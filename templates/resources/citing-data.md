@@ -17,9 +17,9 @@ Every data package [landing page](/templates/resources/data-package-pages.md) pr
 
 <img class="screen-shot" src="/static/images/copy-citation.png" width="85%">
 
-### Browser plugins
+### Managing data citations
 
-The data package citation can be automatically imported from the data package landing page into a reference manager application using web browser plugins (e.g. [Zotero Connector](https://www.zotero.org/download/connectors) and [Mendeley Web Importer](https://www.mendeley.com/reference-management/web-importer)). Once in the reference manager, the citation can be exported to a bibliography.
+The data package citation can be automatically imported into a reference manager application using web browser plugins (e.g. [Zotero Connector](https://www.zotero.org/support/adding_items_to_zotero) and [Mendeley Web Importer](https://www.mendeley.com/guides/desktop/02-adding-documents)) which allow users to copy the dataset DOI into a specified field. Once in the reference manager, the DOI will be used to look-up and download the citation metadata, and the citation can be exported to a bibliography.
 
 ### Programmatically create data package citations
 

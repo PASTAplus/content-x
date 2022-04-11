@@ -2,7 +2,7 @@
 
 A static URL resolving to a data file can be inserted into the physical/distribution element of an EML file and serve as a data source when uploading to the EDI Data Repository. This can be useful for bypassing the 500 MB size limit of manual uploads on the EDI Data Portal, for facilitating workflow automation, and for handling files that may be too large to transfer directly to a data curator.
 
-[Box Cloud Storage](https://www.box.com/) is an example service that allows for generating links that do not offer any redirects and are static, two requirements of links that are used to upload to the EDI Data Portal.
+Any static download URLs that do not offer redirects can serve as the data source in an EML document. A locally managed web server or cloud hosting service are both viable options for generating these links. [Box Cloud Storage](https://www.box.com/) is an example cloud service that allows for generating links that do not offer any redirects and are static.
 
 <img src="/static/images/download-links.png" width="15%">
 

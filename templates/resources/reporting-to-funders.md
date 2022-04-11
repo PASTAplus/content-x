@@ -12,6 +12,12 @@ A list of recent publications from a research project/site and a full list of pu
 
 See [Tracking Data Package Use](/templates/resources/tracking-data-package-use.md) for services related to listing the views, downloads, and citations of published data packages.
 
+## EDIutils
+
+Using the functions provided by the [EDIutils](https://ediorg.github.io/EDIutils/) R Package, it is possible to easily retrieve download and citation metrics for a data package. These processes have been detailed in [Retrieve Download Metrics](https://ediorg.github.io/EDIutils/articles/retrieve_downloads.html) and [Retrieve Citation Metrics](https://ediorg.github.io/EDIutils/articles/retrieve_citations.html) vignettes that accompany the package.
+
+For a language agnostic solution follow a similar process using the [REST API](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/about.html) documentation.
+
 ## Reporting to NSF
 
 NSF recently opened its [Public Access Repository](https://par.nsf.gov/) for data. Once logged in to **[research.gov](https://www.research.gov/research-web/) / Awards and reporting / Add Research Product**, it is possible to enter an EDI data package DOI and the full citation information will be filled in automatically. The record may then be linked to an award in the NSF system to which the logged in person has access.
