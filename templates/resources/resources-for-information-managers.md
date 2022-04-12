@@ -8,7 +8,7 @@ If you have data to publish and would like to work with an EDI Data Curator, the
 
 ## Getting started
 
-Register as a new information manager, get oriented to EDI projects, and become a part of the EDI community ([Information Manager Quickstart](/templates/resources/information-manager-quickstart.md)). Check out the [resources for data authors](/templates/resources/resources-for-data-authors.md) page for an example data curation approach to adopt or refine, and perspectives from the data author.
+Checkout the [Information Manager Quickstart](/templates/resources/information-manager-quickstart.md) to sign-up for an EDI account, get oriented to EDI projects, and become a part of the EDI community. Check out the [resources for data authors](/templates/resources/resources-for-data-authors.md) page for an example data curation approach to adopt or refine, and perspectives from the data author.
 
 ## The data package
 

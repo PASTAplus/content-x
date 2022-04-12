@@ -1,6 +1,6 @@
 # Resources for Data Authors
 
-Data authors submit contributions to the EDI Data Repository in support of a research article or for general reuse and may rely on the EDI Data Curation Team for assistance. Once the contribution is ready to be published, a curator will handle the process of uploading.
+Data authors submit contributions to the EDI Repository and work with an EDI Data Curator through the publication process.
 
 Information managers serving a research group should check out the [resources for information managers](/templates/resources/resources-for-information-managers.md).
 
@@ -10,15 +10,15 @@ Information managers serving a research group should check out the [resources fo
 
 EDI publishes data from the ecological and environmental sciences irrespective of funding origin. Contributions serve many use cases and are published with an open access license unless a compelling reason warrants an embargo ([data policy](/templates/about/edi-policy.md#data-policy)). Limits on size of publications are typically not a concern, but if the data are > 100 GB in size please contact us, so we can find a workable solution. For more information see [Types of Contributions](/templates/resources/types-of-contributions.md).
 
-## Preparing for submission
+## Step 1 - Preparing for submission
 
 The data submission will be published in the form of a [data package](/templates/resources/the-data-package.md). Deciding [what to include in a data package](/templates/resources/the-data-package.md#what-to-include-in-a-data-package) along with some basic [considerations for data cleaning](/templates/resources/cleaning-data-and-quality-control.md) go a long way to support future use. The basic rule of thumb is to package the data in a form you would want to receive them in.
 
-EDI recommends an open license, either [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) or [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), to prevent undue restrictions on future research. For more information see [Licensing Data](/templates/resources/licensing-data.md).
+EDI recommends publishing with an open license, either [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) or [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), to prevent undue restrictions on future research. For more information see [Licensing Data](/templates/resources/licensing-data.md).
 
 Tracking citations of a published data package and attributing to a research profile is greatly simplified by ORCID iD. Consider [getting an ORCID iD](/templates/resources/orcid-id.md) today.
 
-## Submission
+## Step 2 - Submission
 
 Data submissions require EML metadata and can be sent in one of two ways:
 
@@ -27,12 +27,12 @@ Data submissions require EML metadata and can be sent in one of two ways:
 
 >Consider integrating the creation of metadata into the [research life cycle](/templates/resources/creating-metadata-during-the-research-lifecycle.md) for improved data management and simplified publication.
 
-## Review
+## Step 3 - Review
 
 Once submitted, a member of the EDI Data Curation Team will provide a proof of the data package and provide support to fine-tune the submission if needed. For more information see [The Review Process](/templates/resources/the-review-process.md).
 
 
-## Publication
+## Step 4 - Publication
 
 When the author is satisfied with the data package, the data curator assigns a DOI and uploads it to the EDI Data Repository. The data package is now published and discoverable through the EDI Data Portal Search Interface, DataONE Repository Network, and the Google Dataset Search Engine. For more information see [Finding Data](/templates/resources/finding-data.md).
 
