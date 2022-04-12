@@ -23,9 +23,9 @@ The data package citation can be automatically imported into a reference manager
 
 ### Programmatically create data package citations
 
-Use the EDI [Cite web service](https://github.com/PASTAplus/cite) to generate data package citations formatted for different communities of practice.
+Use the EDIutils [`read_data_package_citation`](https://ediorg.github.io/EDIutils/reference/read_data_package_citation.html) to generate data package citations formatted for different communities of practice.
 
-Watch a [video walkthrough](https://www.youtube.com/watch?v=7GppJUxCJIU) demonstrating the use of Cite.
+This operation can also be performed using the EDI [Cite web service](https://github.com/PASTAplus/cite). Watch a [video walkthrough](https://www.youtube.com/watch?v=7GppJUxCJIU) demonstrating the use of Cite.
 
 ## Citing in a derived data package
 
