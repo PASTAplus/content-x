@@ -6,27 +6,11 @@ A data package **[Landing Page](https://portal.edirepository.org/nis/mapbrowse?s
 
 ## Summary Page
 
-The summary page displays overview information for a data package, and it can be discovered through its DOI and other links. 
-
-### Title
-
-The title of the data package.
-
-### Creators
-
-A list of the data package creators and their affiliations.
-
-### Publication Date
-
-The date that the data package was published.
+The summary page displays overview information for a data package, and it can be discovered through its DOI and other links. Overview information on this page includes data package title and abstract, a list of creators, date of publication, and more explained below:
 
 ### Citation
 
 The suggested citation for the data package and a button to copy it. For more information see  [citing a data package](/templates/resources/citing-data.md).
-
-### Abstract
-
-The abstract for the data package.
 
 ### Spatial Coverage
 
@@ -99,27 +83,7 @@ The **Full Metadata Page**  provides a more in-depth description of the data pac
 
 ### General Information
 
-The General Information section contains information that should help a data user understand the scope and coverage of the data package.
-
-#### Data Package
-
-This section displays overview information about the data package, including the title, abstract, package identifier, DOI, and publication date.
-
-#### For More Information
-
-This section displays the DOI as a resolvable link. This link redirects to the **Summary Page**.
-
-#### Time Period
-
-This section displays the temporal coverage information of the data package. 
-
-#### People and Organizations
-
-This section displays the names, affiliations and positions of the **Creators**, **Contacts**, and **Associated Parties** of a data package.
-
-#### Data Entities
-
-This section displays the name and description of the data entities of the data package.
+The General Information section covers similar information as the top of the Summary page (title, abstract, date of publication, etc.) information that should help a data user understand the scope and coverage of the data package, as well as information about who created it or should be contacted for questions.
 
 ### Detailed Metadata
 
@@ -133,38 +97,6 @@ The **Data Entities** section provides a comprehensive breakdown of each data en
 
 For **Data Tables** in particular, there is an additional subsection, **Table Column Descriptions**, that provides name, definition, data type, and more, for each individual column within the table. For columns containing numeric values, the unit and range of the column is listed. For columns containing categorical information, each code and its explanation are featured. Due to the depth of information presented in the **Table Column Descriptions** sections, data users can generally gather all the information necessary to determine a data package's fitness for their particular purpose without ever downloading a table.
 
-#### Data Package Usage Rights
+### Download as XML
 
-The license associated with the data package.
-
-#### Keywords
-
-This section displays the keywords, organized by their source thesaurus.
-
-#### Methods and Protocols
-
-The methods as outlined in the data package metadata.
-
-
-#### People and Organizations
-
-A detailed view of all **Publishers**, **Creators**, **Contacts**, and **Associated Parties** with all of their provided information.
-
-#### Temporal, Geographic and Taxonomic Coverage
-
-The temporal, geographic, and taxonomic coverage information of a data package.
-
-#### Project
-
-The funding and project information associated with these data, including the Principal Investigators on the grants. 
-
-
-#### Maintenance
-
-This section describes whether the data package creators plan to update the package with new data or if data collection is complete. This section will also display any history of revisions as documented during a [data package update](/templates/resources/updating-a-data-package.md).
-
-### Other Metadata
-
-#### Additional Metadata
-
-This section displays any information from the additionalMetadata element of the EML metadata. Notably, any custom units will be displayed in this section.
+At the bottom of the Full Metadata Page, there is a link to download the data package's metadata as XML. This link will open the associated XML file in your browser where it can be downloaded by right-clicking and selecting **Save Page As**

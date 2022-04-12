@@ -17,15 +17,15 @@ Every data package [landing page](/templates/resources/data-package-pages.md) pr
 
 <img class="screen-shot" src="/static/images/copy-citation.png" width="85%">
 
-### Browser plugins
+### Managing data citations
 
-The data package citation can be automatically imported from the data package landing page into a reference manager application using web browser plugins (e.g. [Zotero Connector](https://www.zotero.org/download/connectors) and [Mendeley Web Importer](https://www.mendeley.com/reference-management/web-importer)). Once in the reference manager, the citation can be exported to a bibliography.
+The data package citation can be automatically imported into a reference manager application using web browser plugins (e.g. [Zotero Connector](https://www.zotero.org/support/adding_items_to_zotero) and [Mendeley Web Importer](https://www.mendeley.com/guides/desktop/02-adding-documents)) which allow users to copy the dataset DOI into a specified field. Once in the reference manager, the DOI will be used to look-up and download the citation metadata, and the citation can be exported to a bibliography.
 
 ### Programmatically create data package citations
 
-Use the EDI [Cite web service](https://github.com/PASTAplus/cite) to generate data package citations formatted for different communities of practice.
+Use the EDIutils [`read_data_package_citation`](https://ediorg.github.io/EDIutils/reference/read_data_package_citation.html) to generate data package citations formatted for different communities of practice.
 
-Watch a [video walkthrough](https://www.youtube.com/watch?v=7GppJUxCJIU) demonstrating the use of Cite.
+This operation can also be performed using the EDI [Cite web service](https://github.com/PASTAplus/cite). Watch a [video walkthrough](https://www.youtube.com/watch?v=7GppJUxCJIU) demonstrating the use of Cite.
 
 ## Citing in a derived data package
 
