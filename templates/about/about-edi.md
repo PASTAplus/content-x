@@ -4,7 +4,7 @@
 
 ## Vision & Mission
 
-_The Environmental Data Initiative envisions a future of intensified and diverse scientific discovery fueled by data commons accessible to everyone._
+_The Environmental Data Initiative envisions a future of scientific discovery fueled by data commons accessible to everyone._
 
 _We preserve environmental data for open and reproducible science, to promote synthesis across space and time, and to aid in the assessment of environmental change and its consequences._
 
