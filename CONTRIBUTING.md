@@ -70,10 +70,12 @@ Content is organized into stand alone pages cross referencing each other. This m
    2. Figures with captions - Example:
    
    ```
-   <figure class="figure">
-     <img src="/static/images/image.png" class="figure-img" alt="Description of image" width="75%"/>
-     <figcaption class="figure-caption">A caption for the image.</figcaption>
-   </figure>
+   <div class="figure_featured" style="width: 25%;">
+     <figure>
+       <img src="/static/images/featured_data/aquatic-microcosm.png" alt="aquatic microcosm"/>
+       <figcaption class="figure-caption">Fig. 1: Principal components of a Standardized Aquatic Microcosm ...</figcaption>
+     </figure>
+   </div>
    ```
 
    3. All other image types - Example:
