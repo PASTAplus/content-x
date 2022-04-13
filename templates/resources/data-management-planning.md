@@ -2,7 +2,7 @@
 
 A data management plan (DMP) is a document describing the data a researcher will collect, quality assure, secure, describe, share, and archive over the course of a research project. DMPs are living documents and should be updated as research plans change to ensure new data management practices are captured.
 
-<img src="/static/images/data-management-planning.png" width="45%"> 
+<img src="/static/images/data-management-planning.png" width="65%"> 
 
 In addition to being a valuable reference for the researcher, many funders require proposals to be accompanied by a DMP. DMP policies differ between agencies and directorates. For more information about agency DMP requirements, see the [SPARC website](http://datasharing.sparcopen.org/compare?ids=) (Scholarly Publishing and Academic Resources Coalition).
 

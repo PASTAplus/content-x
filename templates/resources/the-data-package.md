@@ -2,7 +2,7 @@
 
 The data package is the unit of publication within the EDI Data Repository. It's an assemblage of science metadata, one or more science data objects (including scripts, documents, images etc.), a package quality report, and manifest of contents. Each data package is assigned a Digital Object Identifier (DOI) and published in the repository for future use.
 
-<img src="/static/images/the-data-package.png" width="55%">
+<img src="/static/images/the-data-package.png" width="75%">
 
 [TOC]
 
@@ -49,7 +49,7 @@ Example data object identifier: **https://portal.edirepository.org/nis/dataviewe
 
 The EDI Data Repository enforces strong versioning (i.e. published data and metadata are immutable). Each revision of a data package is published under a new version number with each revision receiving a new DOI.
 
-<img src="/static/images/data-package-versioning.png" width="30%">
+<img src="/static/images/data-package-versioning.png" width="45%">
 
 In the example above **edi.10.1** is superseded by **edi.10.2**, which in turn is superseded by **edi.10.3**. Each version in this series is accessible under the data package landing page **previous revision** link, but only the newest version is returned when searching. If browsing a superseded version, the landing page will highlight that "**This data package is not the most recent revision of a series"**.
 

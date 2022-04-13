@@ -2,7 +2,7 @@
 
 An [ORCID iD](https://orcid.org/) is a free, unique, persistent identifier for researchers. Having an ORCID distinguishes researchers with similar names, ensures that scientific output is correctly attributed, and improves the overall discoverability of scientific products. Linking data publications to an ORCID profile ensures that research contributions are correctly attributed across scholarly databases.
 
-<img src="/static/images/attribution.png" width="40%">
+<img src="/static/images/attribution.png" width="50%">
 
 Along with the general benefits of having an ORCID, EDI allows the ORCID iD to stand in as a login across web applications. While this currently serves to ease the login process, in the future it will allow for user profiles highlighting data publications, improved collaboration between data authors, and the ability to push new data publications to an ORCID profile through [DataCite](https://datacite.org/).
 
@@ -24,14 +24,14 @@ Allow DataCite to add newly published data packages that contain your ORCID iD d
 1. Access an ORCID profile page at https://orcid.org/&lt;YOUR_ORCID> or by searching on your name from the ORCID site.
 2. Login and navigate to the **Works** section at the bottom of the profile.
 
-<img class="screen-shot" src="/static/images/orcid-works.png" width="70%">
+<img class="screen-shot" src="/static/images/orcid-works.png" width="90%">
 
 3. In the **Works** section click the **Add** button, and then choose **Search & Link** from the dropdown list. 
 4. From the **Available Search & Link Wizards** pop-up, select **DataCite**. This will take you to the DataCite Profiles page.
 5. From the DataCite Profiles page, next to ORCID permissions, click the green **Get ORCID token** button.
 6. Click the **Update** button on the bottom of the page and ensure that the Auto-Update is enabled option is selected.
 
-<img class="screen-shot" src="/static/images/orcid-works-datacite.png" width="60%">
+<img class="screen-shot" src="/static/images/orcid-works-datacite.png" width="70%">
 
 For more see the ORCID video [Use the Search & Link Wizard to Import Works](https://vimeo.com/236776451) or read the article [adding works by direct import](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems).
 
@@ -44,7 +44,7 @@ If you would prefer not to allow DataCite to automatically update your ORCID pro
 1. Access an ORCID profile page at https://orcid.org/&lt;YOUR_ORCID> or by searching on your name from the ORCID site.
 2. Login and navigate to the **Works** section at the bottom of the profile.
 
-<img class="screen-shot" src="/static/images/orcid-works.png" width="70%">
+<img class="screen-shot" src="/static/images/orcid-works.png" width="90%">
 
 3. In the **Works** section click the **Add** button, and then choose **Add manually** from the dropdown list. 
 4. Set Work Category to **Other**
@@ -52,7 +52,7 @@ If you would prefer not to allow DataCite to automatically update your ORCID pro
 6. Add your data package title as it appears on the EDI data package [landing page](/templates/resources/data-package-pages.md).
 7. Specify "Environmental Data Initiative" as the Publisher
 
-<img class="screen-shot" src="/static/images/orcid-works2.png" width="60%">
+<img class="screen-shot" src="/static/images/orcid-works2.png" width="100%">
 
 8. Add **Publication Date** and link, both of which can be found in the **Citation** section of your data package summary page.
 9. You can add the **Citation** from your data package landing page to the **Citation** section
@@ -60,6 +60,6 @@ If you would prefer not to allow DataCite to automatically update your ORCID pro
 11. Select **doi: Digital object identifier** from the dropdown for Identifier Type
 12. Add your data package DOI to the value and **URL** section as shown below
 
-<img class="screen-shot" src="/static/images/orcid-works3.png" width="45%">
+<img class="screen-shot" src="/static/images/orcid-works3.png" width="70%">
 
 For more see the ORCID documentation on [adding works using an identifier](https://support.orcid.org/hc/en-us/articles/360022298153-Add-works-using-an-identifier).

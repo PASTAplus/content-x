@@ -2,7 +2,7 @@
 
 Metadata describe the structure and context of other data. They are vital to the discovery and reuse of data, and are a required element of a [data package](/templates/resources/the-data-package.md).
 
-<img src="/static/images/describe.png" width="5%"> 
+<img src="/static/images/describe.png" width="10%"> 
 
 This document introduces the concept of metadata and the Ecological Metadata Language (EML) format, used by the EDI Data Repository. It also details the tools available for creating and editing EML, and provides a brief introduction to best practices for creating EML.
 
@@ -21,7 +21,7 @@ Generally, metadata for observational data focuses on:
 It is beneficial to begin compiling metadata at the start of [the research life cycle](/templates/resources/creating-metadata-during-the-research-lifecycle.md) and have a completed metadata for each dataset by the end of it. The information that is supposed to be retained in metadata is prone to quickly degrade if not recorded.
 
 <figure class="figure">
-   <img src="/static/images/information_loss.png" class="figure-img" width="55%"/>
+   <img src="/static/images/information_loss.png" class="figure-img" width="65%"/>
    <figcaption class="figure-caption">Figure and caption from Michener et al. 1997<sup>[2]</sup>: Example of the normal degradation in information content associated with data and metadata over time ("information entropy"). Accidents or changes in technology (dashed line) may eliminate access to remaining raw data and metadata at any time.</figcaption>
 </figure>
 

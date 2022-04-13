@@ -66,7 +66,7 @@ Code generation functionality is _briefly demonstrated_ in [this video](https://
 
 This section displays [provenance information](/templates/resources/provenance-metadata.md) related to the data package, including any packages that are derivations of the data package, or any data package that serve as a source to it.
 
-<img class="screen-shot" src="/static/images/provenance-section.png" width="80%"> 
+<img class="screen-shot" src="/static/images/provenance-section.png" width="95%"> 
 
 Additionally, the section contains a link to generate provenance metadata to include in derived data package metadata.
 
@@ -75,7 +75,7 @@ Additionally, the section contains a link to generate provenance metadata to inc
 
 This section displays journal citations that have been added to the data package. For more information see [adding journal citations to data packages](/templates/resources/add-citation.md). 
 
-<img class="screen-shot" src="/static/images/journal-citations-section.png" width="80%"> 
+<img class="screen-shot" src="/static/images/journal-citations-section.png" width="95%"> 
 
 ## Full Metadata Page
 
@@ -89,7 +89,7 @@ The General Information section covers similar information as the top of the Sum
 
 The **Detailed Metadata** section contains organized representations of almost all the elements from the EML metadata. Use the **Show** and **Hide** details buttons to expand or compact every subsection in the detailed metadata. Individual sections can be expanded or compacted using the **+/-** buttons next to the section headers.
 
-<img class="screen-shot" src="/static/images/show-hide.png" width="80%"> 
+<img class="screen-shot" src="/static/images/show-hide.png" width="95%"> 
 
 #### Data Entities
 

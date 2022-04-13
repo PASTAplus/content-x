@@ -10,7 +10,7 @@ While data package metadata, such as the [Data Entities](/templates/resources/da
 
 The EDI [Data Explorer (DeX)](http://dex.edirepository.org) is a web browser application offering summary information, subsetting, and plotting features for data packages containing tabular data files. DeX is a great tool for making a preliminary assessment about fitness for use. Click the **Data Explorer** link next to a data object from the **Resources** section of a data package landing page (currently only available in the [staging environment](/templates/resources/repository-environments.md#staging) of the Data Portal).
 
-<img class="screen-shot" src="/static/images/dex-in-portal.png" width="80%"> 
+<img class="screen-shot" src="/static/images/dex-in-portal.png" width="95%"> 
 
 Alternatively, open a table from a data package in DeX by providing the Data Entity URL (currently limited to tabular data). 
 
@@ -42,27 +42,27 @@ Users can type a query to filter data. The query syntax is based on the Python P
 
 Rows can be filtered by values in character columns using the `==` and `!=` operators:
 
-<img class="screen-shot" src="/static/images/numexpr1.png" width="80%"> 
+<img class="screen-shot" src="/static/images/numexpr1.png" width="100%"> 
 
 Rows can also be filtered by values in numeric columns using the `>`, `<`, `>=`, `<=`, `!=` and `==` operators. Use backticks to select columns that have spaces or special characters in their name:
 
-<img class="screen-shot" src="/static/images/numexpr2.png" width="80%"> 
+<img class="screen-shot" src="/static/images/numexpr2.png" width="100%"> 
 
 Rows can be filtered using comparisons between different columns. Multiple logical queries can be combined with the `&` and `|` symbols to create advanced logical queries:
 
-<img class="screen-shot" src="/static/images/numexpr6.png" width="80%"> 
+<img class="screen-shot" src="/static/images/numexpr6.png" width="100%"> 
 
 Individual rows can be selected by their index using square brackets:
 
-<img class="screen-shot" src="/static/images/numexpr3.png" width="80%"> 
+<img class="screen-shot" src="/static/images/numexpr3.png" width="100%"> 
 
 Rows where the values from two columns are equal (or not equal) may also be filtered by comparing the two columns: `col_1 == col_2` or `col_1 != col_2`
 
-<img class="screen-shot" src="/static/images/numexpr7.png" width="120%"> 
+<img class="screen-shot" src="/static/images/numexpr7.png" width="100%"> 
 
 Rows where the values from one column are present (or not present) anywhere in another column may be filtered by using the "in" (or "not in") operator with the two columns: `col_1 in col_2` or `col_1 not in col_2`
 
-<img class="screen-shot" src="/static/images/numexpr8.png" width="120%"> 
+<img class="screen-shot" src="/static/images/numexpr8.png" width="100%"> 
 
 For details, refer to the Pandas' [general guide to querying data](https://pandas.pydata.org/docs/user_guide/indexing.html#the-query-method) and the [pandas.DataFrame.query](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.query.html) API documentation specifically.
 

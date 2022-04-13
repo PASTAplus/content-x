@@ -44,7 +44,7 @@ Within a column each cell should contain only one piece of information in a cons
 
 Another recommendation is to avoid overloading a cell with composite information. Below is an example illustrating the issue of more than one piece of information per cell. In the first table, the **Location_ID** column is a composite of multiple variables. Selecting values from a variable requires parsing. The second table follows the best practice of one piece of information per cell, where the data are easily accessed.
 
-<img src="/static/images/one-value-per-cell.png" width="85%"> 
+<img src="/static/images/one-value-per-cell.png" width="100%"> 
 
 ### Variable types
 
@@ -110,7 +110,7 @@ Data flags are useful in communicating value specific information from quality c
 
 Data can be processed at progressive levels and published as separate but related data packages. For example, the raw or minimally processed data can be published as a level-0 data package, and a level-1 version, with more processing applied, published as another data package. This process repeats for each new level with [provenance metadata](/templates/resources/provenance-metadata.md) describing the relationships among the levels.
 
-<img src="/static/images/data-processing-levels.png" width="75%"> 
+<img src="/static/images/data-processing-levels.png" width="90%"> 
 
 ### Quality Control as a process
 
@@ -121,6 +121,6 @@ Data quality improvement is an ongoing process with the recurring steps:
 3. **Implement** - Translate rules into code and implement in scripted workflows. Capture exceptions to the rules and report to the information manager.
 4. **Monitor** - Track data health and report to data users. Data quality should improve. Gather user feedback.
 
-<img src="/static/images/data-quality-management.png" width="25%"> 
+<img src="/static/images/data-quality-management.png" width="35%"> 
 
 [New versions of a data package](/templates/resources/updating-a-data-package.md) are clearly marked with an incrementing version number and should be accompanied by release notes in the metadata to communicate what has changed and why (e.g. implementation of new tests to improve coverage).

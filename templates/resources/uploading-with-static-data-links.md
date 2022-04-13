@@ -30,7 +30,7 @@ A File Request link allows anyone (with or without a Box account) to submit file
 
 4. Copy the shareable link from the pop-up screen and try it in a web browser. This link should lead to a page that looks like the one below.
 
-<img class="screen-shot" src="/static/images/file-request3.png" width="65%">
+<img class="screen-shot" src="/static/images/file-request3.png" width="85%">
 
 5. Share this link with a data submitter. They will not need to have a Box account to submit data to this directory.
 
@@ -44,11 +44,11 @@ A static download link will function as a data source for the EDI Data Repositor
 
 2. DO NOT use the Share Link from this window for direct download. Instead, click on the **Link Settings** button which will open another pop-up window.
 
-<img class="screen-shot" src="/static/images/static-link2.png" width="45%">
+<img class="screen-shot" src="/static/images/static-link2.png" width="55%">
 
 3. In the shared link settings, at the bottom of the page, find and copy the direct link URL. 
 
-<img class="screen-shot" src="/static/images/static-link3.png" width="45%">
+<img class="screen-shot" src="/static/images/static-link3.png" width="55%">
 
 ## Adding download links to EML files
 
@@ -60,11 +60,11 @@ To insert a download link via [ezEML](https://ezeml.edirepository.org/eml/):
 
 1. Navigate to the **Data Tables** tab and click the **Edit** button next to the data table.
 
-<img class="screen-shot" src="/static/images/link-ezeml1.png" width="80%">
+<img class="screen-shot" src="/static/images/link-ezeml1.png" width="95%">
 
 2. Paste the link into the **Online Distribution URL** textbox. Remember to click **Save and Continue** before moving on.
 
-<img class="screen-shot" src="/static/images/link-ezeml2.png" width="70%">
+<img class="screen-shot" src="/static/images/link-ezeml2.png" width="80%">
 
 The data table will now be associated with the provided download link. Submit to EDI via **Send to EDI** or download the XML document with the **Download EML File** button.
 
@@ -105,4 +105,4 @@ If publishing a data package via the EDI Data Portal note:
 2. Remember to **NOT** check the "Manually upload data" checkbox.
 3. If some of the objects in the data package package are already in the EDI Repository, remember to check the **Allow PASTA+ to skip …** checkbox.
 
-<img class="screen-shot" src="/static/images/upload-link.png" width="60%">
+<img class="screen-shot" src="/static/images/upload-link.png" width="70%">

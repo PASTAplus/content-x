@@ -2,7 +2,7 @@
 
 Data packages and their contents can be accessed through the EDI Data Portal, EDIutils R Package, and the REST API. These options support scientific workflows driven by manual human effort and automated machine routines.
 
-<img src="/static/images/access.png" width="30%">
+<img src="/static/images/access.png" width="40%">
 
 [TOC]
 
@@ -18,7 +18,7 @@ Single data objects or the entire data package can be downloaded as files:
 2. Download individual resources by clicking the links under **Download Data**.
 3. Use the **Download Zip Archive** button to download the entire data package.
 
-<img class="screen-shot" src="/static/images/access-resources.png" width="65%">
+<img class="screen-shot" src="/static/images/access-resources.png" width="75%">
 
 ### Data download scripts
 

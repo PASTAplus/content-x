@@ -10,7 +10,7 @@ When designing a [data package](/templates/resources/the-data-package.md), it is
 
 If publishing data in support of a manuscript, then include the data and processing scripts required to reproduce the results.
 
-<img src="/static/images/reproducible-research.png" width="25%"> 
+<img src="/static/images/reproducible-research.png" width="15%"> 
 
 ### Duplicated data
 
@@ -40,7 +40,7 @@ Similar considerations apply to sampling location. Grouping by location can eith
 
 Some "ancillary" or background data or information may be critical in understanding and interpreting the collected data. 
 
-<img src="/static/images/organize-relation.png" width="65%"> 
+<img src="/static/images/organize-relation.png" width="75%"> 
 
 ### Size of data files
 
@@ -58,4 +58,4 @@ For data collected at high sampling frequencies, consider providing down-sampled
 
 Always try to archive the "minimally processed" version of the data so future users can apply methods appropriate to their research. However, if a lot of effort has gone into formatting and cleaning data, those should be published as well, either in the same package or separately with [provenance metadata](/templates/resources/provenance-metadata.md) to make the relationship clear between them.
 
-<img src="/static/images/data-processing-levels.png" width="75%"> 
+<img src="/static/images/data-processing-levels.png" width="90%"> 

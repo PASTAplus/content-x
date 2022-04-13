@@ -3,7 +3,7 @@
 Along with ensuring proper attribution is paid to the original data author, citing data in publications and other published data increases findability, encourages data reuse, and enables reliable tracking of data citation metrics.<sup>[1]</sup>
 
 <figure class="figure">
-   <img src="/static/images/data-citation.png" class="figure-img" width="75%"/>
+   <img src="/static/images/data-citation.png" class="figure-img" width="90%"/>
    <figcaption class="figure-caption">Components of a data citation: (1) Data Author or Creator, (2) Public Release Date, (3) Title, (4) Version, (5) Repository, (6) Persistent Identifier (DOI), (7) Access Date.</figcaption>
 </figure>
 
@@ -15,7 +15,7 @@ Along with ensuring proper attribution is paid to the original data author, citi
 
 Every data package [landing page](/templates/resources/data-package-pages.md) provides a citation, formatted to [community adopted practices](https://doi.org/10.6084/m9.figshare.8441816), that can be easily copied into a document.
 
-<img class="screen-shot" src="/static/images/copy-citation.png" width="85%">
+<img class="screen-shot" src="/static/images/copy-citation.png" width="90%">
 
 ### Managing data citations
 

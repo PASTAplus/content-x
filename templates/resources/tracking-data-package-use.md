@@ -8,7 +8,7 @@ Metrics of activity surrounding a data package are commonly used when publicizin
 
 [The Package Tracker](https://dashboard.edirepository.org/dashboard/reports/package_tracker), a feature of the EDI Dashboard, is a convenient tool for viewing the resources and downloads of a given data package. For more information see [the EDI Dashboard](/templates/resources/the-edi-dashboard.md).
 
-<img class="screen-shot" src="/static/images/package-tracker.png" width="25%">
+<img class="screen-shot" src="/static/images/package-tracker.png" width="35%">
 
 ## Audit Report
 The [Audit Report](https://portal.edirepository.org/nis/auditReport.jsp) tool can be used to view a list of users that have interacted with PASTA using a specific Data Package Manager operation from the PASTA REST API.

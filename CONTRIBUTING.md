@@ -65,20 +65,20 @@ Content is organized into stand alone pages cross referencing each other. This m
 2. Reference the image from within a markdown page using HTML. There are 4 use cases:
    1. Screenshots - A drop shadow is added to screenshots to help distinguish them from the body text. This is done with the `screen-shot` CSS class. Example:
    
-   `<img class="screen-shot" src="/static/images/ezeml-send-revision.png" width="85%">`
+   `<img class="screen-shot" src="/static/images/ezeml-send-revision.png" alt="Send ezEML revision" width="85%">`
 
    2. Figures with captions - Example:
    
    ```
    <figure class="figure">
-     <img src="/static/images/image.png" class="figure-img" width="75%"/>
+     <img src="/static/images/image.png" class="figure-img" alt="Description of image" width="75%"/>
      <figcaption class="figure-caption">A caption for the image.</figcaption>
    </figure>
    ```
 
    3. All other image types - Example:
 
-   `<img src="/static/images/metadata-in-the-research-life-cycle.png" width="55%">`
+   `<img src="/static/images/metadata-in-the-research-life-cycle.png" alt="Creating metadata in the research life cycle" width="55%">`
 
 
 3. Resize for display in the GitHub preview. The general rule of thumb is that the image should be sized so normal body text displayed in the images should match text size on the web page. Set the image size using the `width` parameter and use a unit of `%`, meaning percent width of the page view port.
