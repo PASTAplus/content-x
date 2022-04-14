@@ -19,7 +19,11 @@ It is important to communicate changes and significance in the metadata of an up
 
 Edit data and metadata using [ezEML](https://ezeml.edirepository.org/eml/):
 
-1. Open the EML document for the original data package. If this doesn't exist, request it by sending the EDI Curation Team an email with a link to the original data package in the EDI Repository.
+1. Open the EML document for the original data package. If the package was created outside of ezEML, or you no longer have access to the original ezEML data package, select **Fetch a Package from EDI** from the **Import/Export** menu to retrieve and import an existing data package:
+   1. Select the scope of your data package (e.g. edi, knb-lter-ntl, etc.).
+   2. Select the package *scope.identifier* to start the import.
+   3. Note any errors that may have occurred during import (if package was originally made outside of ezEML).
+   4. Select the option to **Get Associated Data Files** if you plan to edit/reupload one or more tables.
 2. Describe the changes in the new revision. From the **Maintenance** tab, add a new paragraph to the **Description** text.
 
 <img class="screen-shot" src="/static/images/ezeml-maint.png" width="100%">
