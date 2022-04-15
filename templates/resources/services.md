@@ -6,7 +6,7 @@
 
 We emphasize the value of information-rich metadata for human and machine understanding. Our [metadata editing tools](/templates/resources/creating-metadata-for-publication.md) minimize the required effort while maximizing descriptive content by using algorithms to extract as much information from data as possible automatically. This allows you to focus on communicating the other important aspects of data that cannot be inferred. Our [quality checker](/templates/resources/evaluating-a-data-package.md) helps ensure that metadata accurately describes the data.
 
-## Publication quality data for reuse
+## Quality data for reuse
 
 Our open-access [data repository](https://portal.edirepository.org/nis/home.jsp) provides valuable publication-quality data for future scientific inquiries. We hold a thematically diverse collection of data with temporal extents ranging from days to decades, and a global spatial extent though mostly within the United States. Published data can be [revised and updated](/templates/resources/updating-a-data-package.md) while previous versions are still available.
 
@@ -14,7 +14,7 @@ Our open-access [data repository](https://portal.edirepository.org/nis/home.jsp)
 
 We support research with tools to revise a dataset, create a [personalized data catalog](/templates/resources/create-a-data-catalog.md), [report to funders](/templates/resources/reporting-to-funders.md), [find data](/templates/resources/finding-data.md), [explore data](/templates/resources/data-exploration.md), [access data](/templates/resources/accessing-data.md), or [inject automation](/templates/resources/event-notifications.md) into scientific workflows. If you have other needs, tell us, and we will work to incorporate it into our offerings.
 
-## Secure and persistent archive
+## Secure & persistent archive
 
 We assign [Digital Object Identifiers (DOIs)](/templates/resources/the-data-package.md#digital-object-identifier-doi) and guarantee immutability for all data for long-term access, transparency, and reuse. The EDI data repository satisfies [DataCite](https://datacite.org/) standards for accurate and consistent identification of digital resources for citation and retrieval purposes and are actively working towards [Core Trust Seal](https://www.coretrustseal.org/) requirements of trustworthy repositories. We participate in the development of data standards (e.g. [FAIR](https://www.go-fair.org/fair-principles/), [TRUST](https://www.nature.com/articles/s41597-020-0486-7), [CARE](https://www.gida-global.org/care)) and adopt their recommendations.
 
