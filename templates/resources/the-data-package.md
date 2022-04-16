@@ -30,11 +30,11 @@ Example DOI: **doi:10.6073/pasta/0cd8caf2eb9959c98b335828628914fb**
 
 ### Data package identifier
 
-The data package identifier is used exclusively within the EDI Data Repository to associate the components of a data package. A data package identifier has the form **scope.accession.revision**, where:
+The data package identifier is used exclusively within the EDI Data Repository to associate the components of a data package. A data package identifier has the form **scope.accession.version**, where:
 
 * **scope** is a string value that identifies the organization, project, or theme of the data package
 * **accession** is an integer value that uniquely identifies the data package in the namespace of the scope
-* **revision** is an integer value in increasing order that identifies the version of the data package
+* **version** is an integer value in increasing order that identifies the version of the data package
 
 Example data package identifier: **edi.1072.1**
 
