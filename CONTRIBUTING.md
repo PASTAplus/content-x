@@ -87,6 +87,19 @@ Content is organized into stand alone pages cross referencing each other. This m
 
 > NOTE: A blank newline is required before and after the HTML snippet for markdown to render correctly in HTML.
 
+## Videos
+
+### Embedding videos
+
+Whether embedding videos within a news article or resource page, use HTML and Bootstrap following the example below:
+
+```
+<div class="p-2">
+  <div class="w-50 ratio ratio-16x9">
+      <iframe src="https://youtube.com/embed/Dq8ew4Iad60" title="YouTube video" allowfullscreen=""></iframe>
+  </div>
+</div>
+```
 
 ## Terminology
 
