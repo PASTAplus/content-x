@@ -8,4 +8,4 @@ Find and access data with:
 * [DataONE Dataset Search](https://search.dataone.org/data) 
 * [Google Dataset Search](https://datasetsearch.research.google.com/)
 
-If you're new to EDI, learn about finding and reusing data in our [resources for data users](/templates/resources/resources-for-data-users.md).
+> If you're new to EDI, learn about finding and reusing data in our [resources for data users](/templates/resources/resources-for-data-users.md).
