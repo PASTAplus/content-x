@@ -6,6 +6,8 @@ Any static download URLs that do not offer redirects can serve as the data sourc
 
 <img src="/static/images/download-links.png" width="15%">
 
+> Is your data link static? Use the [Redirect Detective](https://redirectdetective.com/index.html) service to find out.
+
 [TOC]
 
 ## Using Box Cloud Storage
