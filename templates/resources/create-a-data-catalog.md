@@ -34,25 +34,25 @@ To build this catalog:
 
 Example:
 
-<pre>
-&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;title&gt;Data Catalog&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Data Catalog</title>
+</head>
+<body>
 
-&lt;h1&gt;Adirondack Ecological Center - Data&lt;/h1&gt;
-&lt;object type=&quot;text/html&quot; width=&quot;100%&quot; height=&quot;100%&quot;
-data=&quot;https://vocab.lternet.edu/ezcatalog/datacat.php?searchString=*&amp;scope=*
-&amp;constraint=%28coordinates%253A%2522IsWithin%28ENVELOPE%28-75%2C-73%2C45%2C43%29%29%2522%29%2B
+<h1>Adirondack Ecological Center - Data</h1>
+<object type="text/html" width="100%" height="100%"
+data="https://vocab.lternet.edu/ezcatalog/datacat.php?searchString=*&scope=*
+&constraint=%28coordinates%253A%2522IsWithin%28ENVELOPE%28-75%2C-73%2C45%2C43%29%29%2522%29%2B
 OR%2B%28*%3A*%2BAND%2Btitle%3A(ADIRONDACK)%29%2BOR%2B%28*%3A*%2BAND%2Bkeyword%3A(ADIRONDACK)%29
-&amp;form=htmltablejssearch&quot;&gt;
-&lt;/object&gt;
+&form=htmltablejssearch">
+</object>
 
-&lt;/body&gt;
-&lt;/html&gt;
-</pre>
+</body>
+</html>
+```
 
 ## Advanced implementations
 
