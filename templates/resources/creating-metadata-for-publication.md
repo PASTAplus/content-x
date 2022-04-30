@@ -69,10 +69,10 @@ See the resources section at the bottom of this page for more tools to create EM
 
 ezEML can be used as a "wizard" leading the user through EML document creation step by step, or it can be used in a more user-directed fashion. Among other things, ezEML supports:
 
-* Collaboration on EML creation through the [import and export](https://ezeml.edirepository.org/static/user_guide/importing.pdf?version=2022.04.25) feature
-* Data submission to an information manager for review through the [send to colleague](https://ezeml.edirepository.org/static/user_guide/send_to_colleague.pdf?version=2022.04.25) feature
-* Importing an [existing EML file](https://ezeml.edirepository.org/static/user_guide/importing_xml.pdf?version=2022.04.26) or [EDI published data package](https://ezeml.edirepository.org/static/user_guide/fetch.pdf?version=2022.04.26) to work with it in ezEML
-* Sharing boiler plate metadata common to a research group/site with colleagues via the [ezEML templates](https://ezeml.edirepository.org/static/user_guide/templates.pdf?version=2022.04.26) feature
+* Collaboration on EML creation through the [import and export](https://ezeml.edirepository.org/static/user_guide/importing.pdf) feature
+* Data submission to an information manager for review through the [send to colleague](https://ezeml.edirepository.org/static/user_guide/send_to_colleague.pdf) feature
+* Importing an [existing EML file](https://ezeml.edirepository.org/static/user_guide/importing_xml.pdf) or [EDI published data package](https://ezeml.edirepository.org/static/user_guide/fetch.pdf) to work with it in ezEML
+* Sharing boiler plate metadata common to a research group/site with colleagues via the [ezEML templates](https://ezeml.edirepository.org/static/user_guide/templates.pdf) feature
 * Checking the EML for correctness and completeness
 
 There are a variety of options to help new users learn ezEML:
