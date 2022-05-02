@@ -147,7 +147,7 @@ Consistent terminology conveys coherence and makes editing across all web pages,
 * Quotes - Replace smart quotes and apostrophes with dumb quotes and apostrophes
 * Spaces - Replace all double spaces with single spaces. Single spaces after periods.
 
-## News template
+## Create a News article
 
 To create a news article:
 1. Copy the template below and paste into a new file in the `/templates/news` directory.
@@ -172,7 +172,7 @@ ADD CONTENT HERE
 <!-- News -->
 ```
 
-## Featured data template
+## Create a Featured Data article
 
 To create a new featured data article:
 1. Copy the template below and paste into a new file in the `/templates/featured` directory.
