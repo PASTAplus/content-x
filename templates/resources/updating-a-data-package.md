@@ -36,6 +36,11 @@ Edit data and metadata using [ezEML](https://ezeml.edirepository.org/eml/):
 
 >EML created with ezEML can be downloaded directly and published to the EDI Repository. If opting to publish your own updates, remember to enter an incremented version number in the **Data Package ID** tab of ezEML.
 
+<div class="p-2">
+  <div class="w-50 ratio ratio-16x9">
+    <iframe src="https://youtube.com/embed/playlist?list=PLi1PZkcSXdAKTtpgyHnd8GjtL6kRMMGFR" title="YouTube video" allowfullscreen=""></iframe>
+  </div>
+</div>
 
 ### EMLassemblyline
 

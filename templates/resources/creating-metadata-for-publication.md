@@ -79,8 +79,12 @@ There are a variety of options to help new users learn ezEML:
 
 * [About](https://ezeml.edirepository.org/eml/about)
 * [User Guide](https://ezeml.edirepository.org/eml/user_guide)
-* [ezEML overview video](https://youtu.be/T2lhEBWzIPQ)
-* [ezEML YouTube playlist](https://www.youtube.com/playlist?list=PLi1PZkcSXdAKTtpgyHnd8GjtL6kRMMGFR)
+* ezEML YouTube playlist
+  <div class="p-2">
+    <div class="w-50 ratio ratio-16x9">
+      <iframe src="https://youtube.com/embed/playlist?list=PLi1PZkcSXdAKTtpgyHnd8GjtL6kRMMGFR" title="YouTube video" allowfullscreen=""></iframe>
+    </div>
+  </div>
 
 ### EMLassemblyline
 
