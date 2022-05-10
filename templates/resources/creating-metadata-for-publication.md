@@ -59,34 +59,43 @@ For more on EML best practices see the [EDI Data Package Best Practices](https:/
 
 ## Creating EML
 
-Since the EML standard was designed to handle an enormous variety of data scenarios, EML is complex and the learning curve to creating it can be steep. EDI develops and maintains a couple tools to make this process easier and allow data providers to focus on the content of their metadata. Both the ezEML and EMLassemblyline tools allow users to work on metadata incrementally and return to a saved state at a later time.
+Since the EML standard was designed to handle an enormous variety of data scenarios, EML is complex and the learning curve to creating it can be steep. EDI develops and maintains a couple tools, ezEML and EMLassemblyline, to make this process easier and allow data providers to focus on the content of their metadata. Each tool serves a slightly different use case and data providers can transfer metadata between tools to meet their needs. Both the ezEML and EMLassemblyline tools allow users to work on metadata incrementally and return to a saved state at a later time.
+
+See the resources section at the bottom of this page for more tools to create EML metadata.
 
 ### ezEML
 
 [ezEML](https://ezeml.edirepository.org/) is a form-based online application designed to streamline the creation of EML-formatted metadata. Despite the complexity of EML, many data scenarios require only a relatively small subset of fields to be filled out. In such scenarios, ezEML can greatly simplify the process of creating EML, especially for users who are new to EML or use it only infrequently.
 
-ezEML can be used as a "wizard" leading the user through EML document creation step by step, or it can be used in a more user-directed fashion. Among other things, it supports checking the EML for correctness and completeness, importing EML content from other ezEML documents, uploading data tables and inferring most of their characteristics, and downloading the finished EML document as an EML XML file.
+ezEML can be used as a "wizard" leading the user through EML document creation step by step, or it can be used in a more user-directed fashion. Among other things, ezEML supports:
+
+* Collaboration on EML creation through the [import and export](https://ezeml.edirepository.org/static/user_guide/importing.pdf) feature
+* Data submission to an information manager for review through the [send to colleague](https://ezeml.edirepository.org/static/user_guide/send_to_colleague.pdf) feature
+* Importing an [existing EML file](https://ezeml.edirepository.org/static/user_guide/importing_xml.pdf) or [EDI published data package](https://ezeml.edirepository.org/static/user_guide/fetch.pdf) to work with it in ezEML
+* Sharing boiler plate metadata common to a research group/site with colleagues via the [ezEML templates](https://ezeml.edirepository.org/static/user_guide/templates.pdf) feature
+* Checking the EML for correctness and completeness
 
 There are a variety of options to help new users learn ezEML:
 
 * [About](https://ezeml.edirepository.org/eml/about)
 * [User Guide](https://ezeml.edirepository.org/eml/user_guide)
-* [ezEML overview video](https://studio.youtube.com/video/LVRoFmTwvtU/edit)
-* [ezEML YouTube playlist](https://www.youtube.com/playlist?list=PLi1PZkcSXdAKTtpgyHnd8GjtL6kRMMGFR)
+* ezEML YouTube playlist
+  <div class="p-2">
+    <div class="w-50 ratio ratio-16x9">
+      <iframe src="https://youtube.com/embed/playlist?list=PLi1PZkcSXdAKTtpgyHnd8GjtL6kRMMGFR" title="YouTube video" allowfullscreen=""></iframe>
+    </div>
+  </div>
 
 ### EMLassemblyline
 
-[EMLassemblyline](https://ediorg.github.io/EMLassemblyline/) (EAL) is an R package that is designed as a toolkit for building EML metadata workflows. While it is optimized for automating recurring publications, it also works well for creating a single EML metadata file.
+[EMLassemblyline](https://ediorg.github.io/EMLassemblyline/) is an R package for automating the creation of EML metadata within [programmatic workflows](https://ediorg.github.io/EMLassemblyline/articles/auto_pub.html). EMLassemblyline supports the same set of metadata elements as ezEML and is extensible through the [EML R package](https://docs.ropensci.org/EML/). While it is optimized for automation, it also works well for creating a single EML metadata file.
 
-The basic use case for EAL, creating and maintaining EML for a dataset, consists of five steps:
+Among other things, EMLassemblyline supports:
 
-1. [Organize data package](https://ediorg.github.io/EMLassemblyline/articles/organize_data_package.html) contents into a directory structure readable by EAL and according to user preferences.
-2. [Template metadata](https://ediorg.github.io/EMLassemblyline/articles/create_tmplts.html) using functions to automatically extract info from the data.
-3. [Edit templates](https://ediorg.github.io/EMLassemblyline/articles/edit_tmplts.html) with text and spreadsheet editors to supply info that could not be inferred.
-4. [Make EML](https://ediorg.github.io/EMLassemblyline/articles/create_eml.html) metadata from template content.
-5. [Publish data package](https://ediorg.github.io/EMLassemblyline/articles/publish_data_package.html) in a data repository.
+* Importing an [existing EML file](https://ediorg.github.io/EMLassemblyline/reference/eml2eal.html) to work with it in EMLassemblyline
+* Checking the EML for correctness and completeness
 
-See the resources section at the bottom of this page for more tools to create EML metadata.
+Learn more about using EMLassemblyline on the [project website](https://ediorg.github.io/EMLassemblyline/).
 
 ## Editing EML
 

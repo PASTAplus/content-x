@@ -106,7 +106,7 @@ EDI records customer identity information, if available, within EDI's activity a
 
 ### Personal data retention, access and removal of personal data
 
-EDI retains the aforementioned personal data within EDI's computational infrastructure for an indefinite period of time. Upon written request to support@environmentaldatainitiative.org and with proper identification, EDI will provide the requested with a report of all recorded instances of personal data in digital format and or remove all instances of personal data.
+EDI retains the aforementioned personal data within EDI's computational infrastructure for an indefinite period of time. Upon written request to support@edirepository.org and with proper identification, EDI will provide the requested with a report of all recorded instances of personal data in digital format and or remove all instances of personal data.
 
 ## Code of conduct
 

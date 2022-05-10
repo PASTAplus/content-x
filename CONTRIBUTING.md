@@ -77,6 +77,16 @@ Content is organized into stand alone pages cross referencing each other. This m
      </figure>
    </div>
    ```
+   
+   > NOTE: Featured data images to use on the website home page as well as in the grid page cards is specified by adding an `id="pickme"` parameter to the `<img>` tag of a featured dataset image. If none is specified, the first image of the featured data will be used. Example:
+   > ```
+   > <div class="figure_featured" style="width: 25%;">
+   >   <figure>
+   >     <img id="pickme" src="/static/images/featured_data/aquatic-microcosm.png" alt="aquatic microcosm"/>
+   >     <figcaption class="figure-caption">Fig. 1: Principal components of a Standardized Aquatic Microcosm ...</figcaption>
+   >   </figure>
+   > </div>
+   > ```
 
    3. All other image types - Example:
 
@@ -127,8 +137,6 @@ Consistent terminology conveys coherence and makes editing across all web pages,
 
 ## Format
 
-
-
 * Code - Use code highlighting when referencing code, functions, and parameters.
 * Functions - Format using `function_name()`
 * Colon before a list
@@ -138,3 +146,75 @@ Consistent terminology conveys coherence and makes editing across all web pages,
 * Be precise when linking to content in other pages - Link directly to a topic sub-section rather than just the parent page.
 * Quotes - Replace smart quotes and apostrophes with dumb quotes and apostrophes
 * Spaces - Replace all double spaces with single spaces. Single spaces after periods.
+
+## Create a News article
+
+To create a news article:
+1. Copy the template below and paste into a new file in the `/templates/news` directory.
+2. The file name should follow `news-YYYYMMDD.XX.md`, where `YYYYMMDD` is the date the article was created, `XX` is the news article created on that date (use `00` if only one article was published on that day).
+3. Update the TITLE, DATE, AUTHOR, and CONTENT placeholders.
+4. Commit changes and push to the content-x GitHub.
+5. Notify the website team that new content has been added and they will integrate your work into the website.
+
+```
+# News
+
+## ADD TITLE HERE
+
+ADD DATE HERE (e.g. April 20, 2022)
+
+ADD ARTICLE AUTHOR HERE
+
+### Description
+
+ADD CONTENT HERE
+
+<!-- News -->
+```
+
+## Create a Featured Data article
+
+To create a new featured data article:
+1. Copy the template below and paste into a new file in the `/templates/featured` directory.
+2. The file name should follow `featured-YYYYMMDD.XX.md`, where `YYYYMMDD` is the date the article was created, `XX` is the news article created on that date (use `00` if only one article was published on that day).
+3. Update the TITLE, DATE, AUTHOR, and CONTENT placeholders.
+4. Images should be added to the `/static/images/featured_data` directory and referenced from there.
+5. Commit changes and push to the content-x GitHub.
+6. Notify the website team that new content has been added and they will integrate your work into the website.
+
+```
+# Featured Data
+
+## ADD TITLE HERE
+
+ADD DATE HERE (e.g. March 1, 2021)
+
+ADD ARTICLE AUTHOR HERE
+
+### Citation
+
+ADD CITATION HERE
+
+### Description
+
+ADD CONTENT HERE
+
+<!-- Images used in articles follow the HTML format below. Adjust the "width" parameter to resize. 
+Identify the primary image to use with the featured data display on web-x home page and on the featured 
+data grid page by adding an id="pickme" parameter to the HTML, if not specified, the first image of the 
+page will be used.-->
+
+<div class="figure_featured" style="width: 25%;">
+    <figure>
+       <img id="pickme" src="/static/images/featured_data/MYIMAGE.png" alt="ADD DESCRIPTION OF IMAGE"/>
+       <figcaption class="figure-caption">ADD CAPTION HERE</figcaption>
+    </figure>
+</div>
+
+#### Data sources for the database include
+
+### References
+
+### [All featured data contributions](/templates/featured/featured-grid)
+
+```

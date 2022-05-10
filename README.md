@@ -11,4 +11,8 @@ Sub-directories of `templates/` loosely represent the main menu structure of web
 
 ## Contribute
 
-See the [contributing guidelines](/CONTRIBUTING.md).
+[Create a News article](https://github.com/PASTAplus/content-x/blob/main/CONTRIBUTING.md#create-a-news-article).
+
+[Create a Featured Data article](https://github.com/PASTAplus/content-x/blob/main/CONTRIBUTING.md#create-a-featured-data-article).
+
+For more see the [contributing guidelines](/CONTRIBUTING.md).
