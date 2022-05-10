@@ -69,6 +69,7 @@ To insert a download link via [ezEML](https://ezeml.edirepository.org/eml/):
 The data table will now be associated with the provided download link. Submit to EDI via **Send to EDI** or download the XML document with the **Download EML File** button.
 
 >This method can be replicated in the **Other Entities** tab as well. 
+>If you are not uploading data resources to ezEML, remember to manually [add physical metadata information](/templates/resources/adding-physical-information.md). 
 
 
 ### EMLassemblyline
@@ -82,6 +83,8 @@ To insert a download link via [EMLassembylline](https://ediorg.github.io/EMLasse
 2. Run [`make_eml()`](https://ediorg.github.io/EMLassemblyline/reference/make_eml.html) to associate the tables with the provided links and return an EML file.
 
 <img class="screen-shot" src="/static/images/link-eal2.png" width="70%">
+
+>If you are using EMLassemblyline with web-hosted data resources, remember to manually [add physical metadata information](/templates/resources/adding-physical-information.md). 
 
 ### Manually editing XML
 
