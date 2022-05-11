@@ -111,6 +111,8 @@ Whether embedding videos within a news article or resource page, use HTML and Bo
 </div>
 ```
 
+> NOTE the `/embed/` component of the YouTube video link above. You must manually insert this into a YouTube URL when creating the HTML block.
+
 ## Terminology
 
 Consistent terminology conveys coherence and makes editing across all web pages, through search and replace methods, much simpler. Below is the current implementation of terminology throughout web pages:
