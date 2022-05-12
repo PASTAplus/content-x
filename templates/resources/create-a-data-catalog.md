@@ -18,7 +18,7 @@ Websites using this approach:
 * [Jornada Basin LTER](https://lter.jornada.nmsu.edu/data-catalog/)
 * [Beaufort Lagoon LTER](https://ble.lternet.edu/catalog)
 
-To build this catalog, follow instructions in the [ezCatalog GitHub](https://github.com/clnsmth/ezCatalog) and [contact EDI](../support/contact-us.md) for assistance.
+To build this catalog, follow instructions in the [ezCatalog GitHub](https://github.com/EDIorg/ezCatalog) and [contact EDI](../support/contact-us.md) for assistance.
 
 ## Catalogs for OBFS members
 
