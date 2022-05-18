@@ -17,7 +17,7 @@ ecocomDP is a dataset design pattern and R package for ecological community data
 
 ## hymetDP
 
-hymetDP is a dataset design pattern and R package for hydrological and meteorological data. The design pattern is based on the CUAHSI Community Observations Data Model Version 1.1 [design specifications](https://his.cuahsi.org/documents/odm1.1designspecifications.pdf). The R package, which is [under development](https://github.com/kzollove/hymetDP), is largely based off of the framework laid out by the ecocomDP project.
+hymetDP is a dataset design pattern and R package for hydrological and meteorological data. The design pattern is based on the CUAHSI Community Observations Data Model Version 1.1 [design specifications](https://his.cuahsi.org/documents/odm1.1designspecifications.pdf). The R package, which is [under development](https://github.com/EDIorg/hymetDP), is largely based off of the framework laid out by the ecocomDP project.
 
 ## Discovering thematic standardization data
 
@@ -32,4 +32,4 @@ Data packages from thematic standardization projects can be discovered from the 
 
 ### R Packages
 
-The [ecocomDP](https://cran.r-project.org/web/packages/ecocomDP/index.html) and [hymetDP](https://github.com/kzollove/hymetDP) R packages have a built-in function, `search_data()`, to search across an index of existing standardized data packages from within an R environment.
+The [ecocomDP](https://cran.r-project.org/web/packages/ecocomDP/index.html) and [hymetDP](https://github.com/EDIorg/hymetDP) R packages have a built-in function, `search_data()`, to search across an index of existing standardized data packages from within an R environment.
