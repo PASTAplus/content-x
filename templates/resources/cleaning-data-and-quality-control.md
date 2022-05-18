@@ -24,6 +24,19 @@ Bad variable name: **dissolved oxygen % saturation**
 
 Good variable name: **dosat**
 
+### Data package structure
+
+The [data package](/templates/resources/the-data-package.md) is the unit of publication within the EDI Data Repository. While most elements of the data package will always have the same structure, the structure of the data entities, and data tables in particular, is decided by the data author or package publisher.
+
+When structuring a data package, a major consideration is the number of tables that should be used to represent the data. For instance, data could logically be separated by time or by variables, as long as tables can either be joined by key columns or "stacked" together:
+
+<img src="/static/images/table-structure-join.png" width="75%"> 
+
+<img src="/static/images/table-structure-stack.png" width="75%"> 
+
+When deciding how to structure a data package, data authors or publishers should consider who will likely be using the data in the future and what format will be simplest for them to access, understand, and work with. In general, it is not a good idea to not separate time series in to small increments. Table size should only become a concern in the tens of gigabytes.
+
+
 ### Data table structure
 
 Two distinct data table structures/formats may be used in different situations. 
