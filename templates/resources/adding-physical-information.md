@@ -1,6 +1,6 @@
 # Adding a resource's physical information
 
-Physical information such as file size, MD5 checksum, and number of rows in a table, are important pieces of metadata. When a resource is uploaded to ezEML or processed by EMLassemblyline, this information is automatically calculated. However, neither application can obtain this information from a file that is hosted externally. The responsibility is instead placed on the data provider to determine and manually enter this information.
+Physical information such as file size, MD5 checksum, and number of rows in a table, are important pieces of metadata. This information is not only useful to future users who are assessing fitness of a data package for reuse, but also can be used to verify the integrity of files after uploads and downloads. When a resource is uploaded to ezEML or processed by EMLassemblyline, this information is automatically calculated. However, neither application can obtain this information from a file that is hosted externally. The responsibility is instead placed on the data provider to determine and manually enter this information.
 
 ## Calculating physical information
 
@@ -8,7 +8,7 @@ Physical information can usually be obtained for a file in a variety of ways. Th
 
 ### File size
 
-On both Windows and Mac computers, file size can be found by right-clicking on the resource and selecting "WINDOWS_PLACEHOLDER" or "Get Info". Make sure to record the file size displayed in bytes.
+On both Windows and Mac computers, file size can be found by right-clicking on the resource and selecting "Properties" or "Get Info". Make sure to record the file size displayed in bytes.
 
 <img src="/static/images/filesize-mac.png" width="15%">
 
@@ -21,6 +21,8 @@ To calculate the MD5 checksum of a file, you will want to use the Command Line (
 From a Mac, once you have changed your directory with `cd`, run the command `md5 <file>` (alternatively, type `md5` then drag and drop the file to Terminal): 
 
 <img src="/static/images/md5-mac.png" width="15%">
+
+This command can be run from an R environment (Windows or Mac) with `md5sum(<file>)`, where `<file>` is the full path to the entity.
 
 ### Number of rows
 
@@ -64,6 +66,6 @@ Physical information for a data table or other entity can be added using the `te
 If you've created a valid EML document using an ezEML creation tool, these attributes will already be created. To alter physical information for data tables or other entities manually:
 
 1. Open the XML file in a text editor.
-2. Within the &lt;dataTable> (or &lt;otherEntity>, &lt;spatialRaster>, or &lt;spatialVector>) element, the &lt;physical> element will contain a &lt;size> and an &lt;authentication> element, which should contain the attributes `unit = "bytes"` and `"method=MD5"`, respectively. Change the values of the &lt;size> and &lt;authentication> element, if necessary.
-3. For the &lt;dataTable> element, the &lt;numberOfRecords> can be changed to reflect the number of rows in a table.
+2. Within the `<dataTable>` (or `<otherEntity>`, `<spatialRaster>`, or `<spatialVector>`) element, the `<physical>` element will contain a `<size>` and an `<authentication>` element, which should contain the attributes `unit = "bytes"` and `"method=MD5"`, respectively. Change the values of the `<size>` and `<authentication>` element, if necessary.
+3. For the `<dataTable>` element, the `<numberOfRecords>` can be changed to reflect the number of rows in a table.
 
