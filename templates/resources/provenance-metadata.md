@@ -35,11 +35,11 @@ To create provenance metadata from the [EDI Data Portal](https://portal.edirepos
 
 1. Navigate to the **Provenance** section at the bottom of a data package [landing page](/templates/resources/data-package-pages.md). This section displays provenance information and includes a link to generate provenance metadata for the data package.
 
-<img class="screen-shot" src="/static/images/provenance-portal2.png" width="95%">
+    <img class="screen-shot" src="/static/images/provenance-portal2.png" width="95%">
 
 2. This links to the **Provenance Generator**. The **Provenance Metadata XML** tab contains text for the &lt;methodStep> element. Copy the entire &lt;methodStep> element.
 
-<img class="screen-shot" src="/static/images/provenance-generator.png" width="95%">
+    <img class="screen-shot" src="/static/images/provenance-generator.png" width="95%">
 
 3. Open the EML for the derived data package in an XML editor and navigate to the &lt;methods> element. 
 4. Paste the copied provenance &lt;methodStep> element at the end of the list of &lt;methodSteps>. Repeat for all data sources.

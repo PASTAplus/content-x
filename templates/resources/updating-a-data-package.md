@@ -20,21 +20,23 @@ It is important to communicate changes and significance in the metadata of an up
 Edit data and metadata using [ezEML](https://ezeml.edirepository.org/eml/):
 
 1. Open the EML document for the original data package. If the package was created outside of ezEML, or you no longer have access to the original ezEML data package, select **Fetch a Package from EDI** from the **Import/Export** menu to retrieve and import an existing data package:
-   1. Select the scope of your data package (e.g. edi, knb-lter-ntl, etc.).
-   2. Select the package *scope.identifier* to start the import.
-   3. Note any errors that may have occurred during import (if package was originally made outside of ezEML).
-   4. Select the option to **Get Associated Data Files** if you plan to edit/reupload one or more tables.
+
+    - Select the scope of your data package (e.g. edi, knb-lter-ntl, etc.).
+    - Select the package *scope.identifier* to start the import.
+    - Note any errors that may have occurred during import (if package was originally made outside of ezEML).
+    - Select the option to **Get Associated Data Files** if you plan to edit/reupload one or more tables.
+
 2. Describe the changes in the new revision. From the **Maintenance** tab, add a new paragraph to the **Description** text.
 
-<img class="screen-shot" src="/static/images/ezeml-maint.png" width="100%">
+    <img class="screen-shot" src="/static/images/ezeml-maint.png" width="100%">
 
 3. Submit to EDI - Click **Send to EDI** and add a note mentioning that this is an update to an existing data package (e.g. "This submission is a revision to package edi.101.1"). 
 
-<img class="screen-shot" src="/static/images/ezeml-send-revision.png" width="85%">
+    <img class="screen-shot" src="/static/images/ezeml-send-revision.png" width="85%">
 
 4. The EDI curation team will receive the submission and iterate through the [review process](/templates/resources/the-review-process.md) before the update is published.
 
->EML created with ezEML can be downloaded directly and published to the EDI Repository. If opting to publish your own updates, remember to enter an incremented version number in the **Data Package ID** tab of ezEML.
+> EML created with ezEML can be downloaded directly and published to the EDI Repository. If opting to publish your own updates, remember to enter an incremented version number in the **Data Package ID** tab of ezEML.
 
 <div class="p-2">
   <div class="w-50 ratio ratio-16x9">
@@ -74,3 +76,4 @@ For a language-agnostic solution, see the REST API documentation for [Updating a
 ## Submit via email
 
 Submit desired changes or the new and/or updated data along with the updated EML file to the EDI Curation Team via email. Make sure to mention the data package identifier that is being updated. The EDI Curation Team will create a proof for review before the update is published.
+

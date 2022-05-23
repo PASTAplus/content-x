@@ -38,11 +38,11 @@ Navigate to the **Evaluate/Upload Data Packages** page:
 1. **Choose File** - Browse and select the EML file to be evaluated
 2. Unless every data object in the EML file is associated with [static data links](/templates/resources/uploading-with-static-data-links.md), select the checkbox next to **Manually upload data…** to allow manual upload.
 
-<img class="screen-shot" src="/static/images/evaluate-manual-upload.png" width="95%">
+    <img class="screen-shot" src="/static/images/evaluate-manual-upload.png" width="95%">
 
 3. From the manual uploads page, choose the files to upload for the data package and click the **Evaluate** button.
 
-<img class="screen-shot" src="/static/images/evaluate-manual-upload-page.jpg" width="95%">
+    <img class="screen-shot" src="/static/images/evaluate-manual-upload-page.jpg" width="95%">
 
 >Be aware that the length of the evaluation process increases with the size of the data being evaluated. Once the process has begun, the browser window can be closed without interrupting the evaluation. Use the EDI Dashboard [PASTA is Working On](https://dashboard.edirepository.org/dashboard/pasta/render_working_on) feature to see when evaluation has completed. The [evaluation report](/templates/resources/evaluating-a-data-package.md#interpreting-the-evaluation-report) can be viewed from the **View Evaluate/Upload Results** page.
 
@@ -53,16 +53,16 @@ Navigate to the **Evaluate/Upload Data Packages**
 1. **Choose File** - Browse and select the EML file to be uploaded.
 2. Unless every data object in the EML file is associated with [static data links](/templates/resources/uploading-with-static-data-links.md), select the checkbox next to **Manually upload data…** to allow manual upload.
 
-<img class="screen-shot" src="/static/images/upload-manual-upload.png" width="95%">
+    <img class="screen-shot" src="/static/images/upload-manual-upload.png" width="95%">
 
 3. Confirm that upload to the EDI Data Repository.
 
-<img class="screen-shot" src="/static/images/confirm-upload.png" width="55%">
+    <img class="screen-shot" src="/static/images/confirm-upload.png" width="55%">
 
 4. Select files for manual upload and click the **Upload** button.
 5. At the **Evaluate/Upload Results** page, if the upload was successful, the data package identifier will be linked to the newly published data package [landing page](/templates/resources/data-package-pages.md).
 
-<img class="screen-shot" src="/static/images/successful-upload.png" width="95%">
+    <img class="screen-shot" src="/static/images/successful-upload.png" width="95%">
 
 >Be aware that the length of the evaluation process increases with the size of the data being evaluated. Once the process has begun, the browser window can be closed without interrupting the evaluation. Use the EDI Dashboard [PASTA is Working On](https://dashboard.edirepository.org/dashboard/pasta/render_working_on) feature to see when evaluation has completed. The [evaluation report](/templates/resources/evaluating-a-data-package.md#interpreting-the-evaluation-report) can be viewed from the **View Evaluate/Upload Results** page.
 

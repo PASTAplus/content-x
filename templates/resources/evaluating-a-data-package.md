@@ -20,18 +20,18 @@ From the Data Portal, click the **Login** button and enter EDI account credentia
 
 ### Evaluating the data package
 
-Navigate to the **Evaluate/Upload Data Packages** page: 
+1. Navigate to the **Evaluate/Upload Data Packages** page: 
 
-<img class="screen-shot" src="/static/images/eval-upload-dropdown-portal.png" width="95%">
+    <img class="screen-shot" src="/static/images/eval-upload-dropdown-portal.png" width="95%">
 
-1. **Choose File** - Browse and select the EML file to be evaluated
-2. Unless every data object in the EML file is associated with [static data links](/templates/resources/uploading-with-static-data-links.md), select the checkbox next to **Manually upload data…** to allow manual upload.
+2. **Choose File** - Browse and select the EML file to be evaluated 
+3. Unless every data object in the EML file is associated with [static data links](/templates/resources/uploading-with-static-data-links.md), select the checkbox next to **Manually upload data…** to allow manual upload.
 
-<img class="screen-shot" src="/static/images/evaluate-manual-upload.png" width="95%">
+    <img class="screen-shot" src="/static/images/evaluate-manual-upload.png" width="95%">
 
-3. From the manual uploads page, choose the files to upload for the data package and click the **Evaluate** button.
+4. From the manual uploads page, choose the files to upload for the data package and click the **Evaluate** button.
 
-<img class="screen-shot" src="/static/images/evaluate-manual-upload-page.jpg" width="95%">
+    <img class="screen-shot" src="/static/images/evaluate-manual-upload-page.jpg" width="95%">
 
 >Be aware that the length of the evaluation process increases with the size of the data being evaluated. Once the process has begun, the browser window can be closed without interrupting the evaluation. Use the EDI Dashboard [PASTA is Working On](https://dashboard.edirepository.org/dashboard/pasta/render_working_on) feature to see when evaluation has completed. The evaluation report summary and full report can be viewed from the **View Evaluate/Upload Results** page.
 

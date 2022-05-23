@@ -18,7 +18,7 @@ Single data objects or the entire data package can be downloaded as files:
 2. Download individual resources by clicking the links under **Download Data**.
 3. Use the **Download Zip Archive** button to download the entire data package.
 
-<img class="screen-shot" src="/static/images/access-resources.png" width="75%">
+    <img class="screen-shot" src="/static/images/access-resources.png" width="75%">
 
 ### Data download scripts
 

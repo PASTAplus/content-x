@@ -126,13 +126,13 @@ Data can be processed at progressive levels and published as separate but relate
 
 ### Quality Control as a process
 
+<img src="/static/images/data-quality-management.png" width="35%">
+
 Data quality improvement is an ongoing process with the recurring steps:
 
 1. **Profile** - Gain a quick overview of data quality in terms of outliers, maximum and minimum values, average, standard deviation, etc. Data should be profiled at the frequency of updates. Automate this as much as possible.
 2. **Design** - Rules by which the data must comply and routines that modify the data. Create rules that address actual issues. Generalize the rules as much as possible to be used in other contexts. Set priorities.
 3. **Implement** - Translate rules into code and implement in scripted workflows. Capture exceptions to the rules and report to the information manager.
 4. **Monitor** - Track data health and report to data users. Data quality should improve. Gather user feedback.
-
-<img src="/static/images/data-quality-management.png" width="35%"> 
-
+ 
 [New versions of a data package](/templates/resources/updating-a-data-package.md) are clearly marked with an incrementing version number and should be accompanied by release notes in the metadata to communicate what has changed and why (e.g. implementation of new tests to improve coverage).
