@@ -38,6 +38,14 @@ EDI strives to make environmental research data open and accessible to the gener
 
 Under no circumstance will EDI knowingly accept data that is protected by Federal, State, or local laws and policies (e.g., FERPA, HIPAA, or IRB restrictions on human subject data). In addition, science metadata often contains personal data of individuals involved in scientific research. These personal data may be available to other EDI customers and the general public through an EDI website. EDI requires that the individual(s) responsible for submitting science data packages to EDI acknowledge that such science data and metadata is not restricted by any governing laws and policies or that personal data within science metadata is included with the explicit knowledge and permission of the individual or individuals it affects.
 
+For archiving and working with sensitive data see:
+
+* [ICPSR](https://www.icpsr.umich.edu/web/pages/) - An international consortium of more than 750 academic institutions and research organizations, Inter-university Consortium for Political and Social Research (ICPSR) provides leadership and training in data access, curation, and methods of analysis for the social science research community.
+* [Qualitative Data Repository](https://qdr.syr.edu/) - A dedicated archive for storing and sharing digital data (and accompanying documentation) generated or collected through qualitative and multi-method research in the social sciences and related disciplines.
+* [Databrary](https://nyu.databrary.org/) - Supports data sharing among researchers in the behavioral, social, educational, developmental, neural, and computer sciences.
+* [OpenDP](https://opendp.org/) - A community effort to build trustworthy, open-source software tools for statistical analysis of sensitive private data.
+
+
 ### Offline data
 
 There is an option to declare data "offline" within the distribution field of the data package metadata. Doing so eliminates the need to have data be "network" accessible to the EDI Data Repository during the data package upload process. The use of offline data is only recommended for data that are too voluminous for network or storage capacity, such as the output from numerical models. Offline data must be provided to the EDI Data Repository through alternative means (e.g., SSD drive via a common carrier) prior to uploading the data package metadata. EDI requests that an explanation of the offline status be provided in the data entity description field of the data package metadata, including the preferred method of data distribution if required to satisfy a data request. See here for details: .
