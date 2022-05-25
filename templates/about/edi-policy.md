@@ -21,7 +21,7 @@ The following definitions are used throughout this Data Contributor Policy
 
 **EDI data publication and archive**. The process by which scientific data and metadata are made discoverable and available through EDI computational infrastructure, including the long-term curation and management of such data.
 
-**EDI website**. The official EDI Internet website ([https://environmentaldatainitiative.org](https://environmentaldatainitiative.org)) where general information about EDI, including policies, news, events, and featured scientific data may be accessed.
+**EDI website**. The official EDI Internet website ([https://edirepository.org/](https://edirepository.org/)) where general information about EDI, including policies, news, events, and featured scientific data may be accessed.
 
 **Science Data**. Data collected by external parties that is published and archived by EDI.
 
@@ -69,7 +69,7 @@ The following definitions are used throughout this Privacy Policy:
 
 **EDI data publication and archive**. The process by which scientific data and metadata are made discoverable and available through EDI computational infrastructure, including the long-term curation and management of such data.
 
-**EDI website**. The official EDI Internet [website](https://environmentaldatainitiative.org) where general information about EDI, including policies, news, events, and featured scientific data may be accessed.
+**EDI website**. The official EDI Internet [website](https://edirepository.org/) where general information about EDI, including policies, news, events, and featured scientific data may be accessed.
 
 **EDI workshop**. An organized and scheduled effort by EDI (or scientific partner) personnel to disseminate educational materials related to scientific data publication and archive to EDI customers.
 
