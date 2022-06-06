@@ -36,6 +36,11 @@ This command can be run from an R environment (Windows or Mac) with `system("wc 
 
 <img class="screen-shot" src="/static/images/numrows-r.png" width="40%">
 
+### Record Delimiter
+
+The record delimiter marks the end of each line (or record) in a file. There are generally three flavors of record delimiter, a line feed (`\n`), a carriage return (`\r`), and a combination carriage return line feed (`\r\n`). When determining which record delimiter your file uses, consider which operating system was used to create your file. Mac OS files will use the line feed (`\n`), while files created on a Windows machine will use the combination carriage return line feed (`\r\n`). The single carriage return (`\r`) was used by older Macs and is typically not seen anymore.
+
+If the origin of the file is uncertain, you can try to determine the record delimiter. From Windows, use Notepad++ to open the file. Click on the pilcrow (¶) button to show record delimiters. It will display `CR LF` or `LF` whether the record delimiter is combination carriage return line feed or just line feed. In the very rare case that the record delimiter is just carriage return, it will display `CR`. From a Mac command line, the prompt `file <file>` will return "ASCII text" if the file has line feed record delimiters. Otherwise, the prompt will return "ASCII text, with CRLF line terminators" to indicated carriage return line feed record delimiters.
 
 ## Adding physical metadata to EML
 
