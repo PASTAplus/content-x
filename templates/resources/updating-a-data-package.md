@@ -10,7 +10,7 @@ Perform a data package update whenever data or metadata need to be changed or ad
 
 ## Metadata to include
 
-It is important to communicate changes and significance in the metadata of an updated data package so users can understand what has changed and why. This information is included in the [maintenance](https://ediorg.github.io/data-package-best-practices/EMLmetadata/maintenance.html) section of EML metadata. Guidance on adding this information is provided below.
+It is important to communicate changes and significance in the metadata of an updated data package so users can understand what has changed and why. This information is included in the [maintenance](https://ediorg.github.io/data-package-best-practices/maintenance.html) section of EML metadata. Guidance on adding this information is provided below.
 
 ## Editing data and metadata
 
