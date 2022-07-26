@@ -2,6 +2,7 @@
 
 The 2-month ecological data management fellowship (mid-June to mid-August) is intended for undergraduate, graduate and recent postgraduate students. The Fellows receive training and support in data management by EDI and gain hands-on experience through participation in data preparation and publishing with scientists and information managers at specific host projects. The aim of the fellowship is to train students in ecological data management and support the host projects in achieving their data publishing goals. For more information, please visit our website: [EDI Data Management Fellowship Program](https://edirepository.org/support/dm-fellowships).
 
+### Please contact support@edirepository.org with any questions regarding the fellowship program.
 
 ### How many Fellows can EDI usually support?
 
@@ -80,6 +81,3 @@ There is no expectation that the Fellows stay involved with the hosts after the 
 * The fellowship is preceded by a mandatory three-day online data publishing workshop held in June 2022. During the workshop, the Fellows learn about data cleaning, metadata content, the Ecological Metadata Language (EML) and how to publish data in the EDI data repository.
 * The fellowship program requires full-time commitment to the training activities. No other employment is permitted during the fellowship.
 * Fellows are required to participate in bi-weekly online meetings with EDI staff, present their work at a final online meeting, and write a one-page report describing their work & results and how the fellowship benefits their professional development at the end of the fellowship program.
-
-
-### Please contact support@edirepository.org with any questions regarding the fellowship program.
