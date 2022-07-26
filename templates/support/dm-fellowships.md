@@ -23,6 +23,7 @@ During the 2-month summer program, the Fellows receive training in environmental
 
 Further information:
 
+* [EDI Fellowship Q&A](/support/fellowships/faq-fellowships)
 * [EDI Fellowship Q&A](https://environmentaldatainitiative.org/edi-dm-fellowship-program/qa_fellowships/)
 * Previous years’ programs:  [2018](https://environmentaldatainitiative.org/edi-dm-fellowship-program/2018-fellowships/), [2019](https://environmentaldatainitiative.org/edi-dm-fellowship-program/2019-fellowships/), [2020]([https://environmentaldatainitiative.org/edi-dm-fellowship-program/2020-fellowships/), [2021](https://environmentaldatainitiative.org/edi-dm-fellowship-program/2021-fellowships/)
 
