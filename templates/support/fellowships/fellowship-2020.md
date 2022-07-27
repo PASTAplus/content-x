@@ -16,31 +16,29 @@ For an example of the fellows' engagement with the host projects, see Ashley Whi
 
 #### Host projects and mentors for training program
 
-* #### [Baylor University, Center for Aquatic Systems Research (CRASR)](https://www.baylor.edu/crasr/). Location: Remote. Mentor: Stephen Powers (s_powers@baylor.edu), Fellow: Jessica Hicks
-    * **Project description:** CRASR facilitates research on aquatic systems inclusive to biogeochemistry, ecology, and human health considerations. CRASR operates a shared water chemistry lab that applies analytical methods supported by EPA guidance (e.g., total phosphorus, major ions) to analyze many thousand samples each year. The Fellow will synthesize, disseminate and publish a variety of CRASR water data. Three existing datasets involve water quality monitoring of surface water bodies of Central Texas: Lake Waco (biogeochemistry, vertical profiles of dissolved oxygen and water temperature) and Richland-Chambers Reservoir (continuous sensor data from multi-parameter sondes). Depending on the Fellow’s interest, many other CRASR water datasets are available for archiving. In summer 2021, CRASR plans to begin disseminating data subsets using an online Rshiny data dashboard and the Fellow could be part of the development.
-* ####
-    * **Project description:** 
- 
+* #### [California Department of Fish and Wildlife](https://wildlife.ca.gov/). Location: Stockton, CA. Mentor: Dr. Jereme Gaeta (jereme.gaeta@wildlife.ca.gov), Fellow: Madeleine Frick
+    * **Project description:** Archiving historical datasets from the San Francisco Bay Estuary (SFE), including (1) a periodic Delta-wide (freshwater and brackish area of the SFE) shoreline electrofishing survey and (2) a fish survey of Suisun Marsh, an area critical to the ecology of endangered Delta Smelt.
+* #### [Hurricane Island Center for Science and Leadership](https://www.hurricaneisland.net/). Location: Rockland, ME. Mentor: Phoebe Jekielek (phoebe@hurricaneisland.net), Fellow: Dennise Valadez
+    * **Project description:** Planning for the future: Organizing data and developing data management, data use, and data sharing plans for the Hurricane Island Center for Science and Leadership.
+* #### [LTER soil organic matter synthesis working group](https://lter.github.io/som-website/index.html). Location: Tempe, AZ. Mentors: Dr. Stevan Earl (stevan.earl@asu.edu) & Dr. Will Wieder (wwieder@ucar.edu), Fellow: Nathan Haywood
+    * **Project description:** Publishing data from numerous cross-site, coordinated research activities that are contributing to a synthetic analysis of factors controlling the persistence and vulnerability of soil organic matter.
+* #### [Marine Science Institute, University of California SB](https://msi.ucsb.edu/). Location: Santa Barbara, CA. Mentor: Margaret O’Brien (margaret.obrien@ucsb.edu), Fellow: Judith Sclafani
+    * **Project description:** Harmonizing meteorological data in the EDI repository.
+* #### [Natural Resource Ecology Lab. Colorado State University](https://www.nrel.colostate.edu/). Location: Fort Collins, CO. Mentor: Chris Dorich (chris.dorich@colostate.edu), Fellow: Sydney Lewis
+    * **Project description:** Archiving and publishing of a Global N2O Database, along with workflow documents and data products.
+* #### [Organization for Tropical Studies](https://tropicalstudies.org/). Location: La Selva Biological Station, Costa Rica. Mentor: Enrique Castro (lead mentor), Eugenio Gonzalez, Orlando Vargas, Deedra McClearn (deedramcclearn@gmail.com), Fellows: Melissa Salva and Eric Johnson
+    * **Project description:** Rescuing Legacy Data on Native Tree Growth in Costa Rica.
+* #### [Pepperwood Preserve](https://www.pepperwoodpreserve.org/). Location: Santa Rosa, CA. Mentor: Dr. Tosha Comendant (tcomendant@pepperwoodpreserve.org), Fellow: Ashley Whipple
+    * **Project description:** Long-term monitoring of climate, hydrology, vegetation, and wildlife in inner Coast Ranges of California.
+* #### [Stroud Water Research Center](https://stroudcenter.org/). Location: Avondale, PA. Mentor: Dr. Charles Dow (cdow@stroudcenter.org), Fellow: Kyle Zollo-Kenecek
+    * **Project description:** Compiling, cleaning, and publishing, stream water quality and quantity time series data collected via low-cost sensors built on an open-source electronics platform at the White Clay Creek stream/watershed.
+* #### [University of California Sierra Nevada Aquatic Research Laboratory (SNARL)](https://vesr.nrs.ucsb.edu/about/about-snarl). Location: Mammoth Lakes, CA. Mentor: Dr. Thomas C. Smith (tcsmith@ucsb.edu), Fellow: Claire Pavelka
+    * **Project description:** The Sierra Lakes Inventory Project: non-native fish and community composition of >8,000 lakes and ponds in the Sierra Nevada, California.
+* #### [University of Michigan Biological Station (UMBS)](https://lsa.umich.edu/umbs). University of Michigan. Location: Pellston, MI
+Mentor: Jason Tallant (jtallant@umich.edu), Fellow: Alex Pawlik
+    * **Project description:** Organize data collected from various federally funded projects at UMBS for publication and work with web based metadata management tools and associated database(s).
+    
+### Testimonials
+
 ### Published data packages
 
-Anderson, C., M. Brzesinski, D. Caron, M. Carter, J. Jones, R. Kudela, J. Largier, K. Negrey, A. Pasulka, H. Ruhl, R. Shipe, G. Smith, J. Smith, J. Tyburczy, R. Walter, and L. Washburn. 2021. California Harmful Algal Bloom Monitoring and Alert Program Data (Darwin Core Archive format) ver 3. Environmental Data Initiative. https://doi.org/10.6073/pasta/84cc4e1802ead7f88b647303ccb92529.
-
-Craighead, A. and C. Ray. 2021. Talus Subsurface and Surface Temperature Data from Southwestern Montana, USA, 2010-2020 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/6f19d3e6e6bc609ad1aa57b853395f30.
-
-Groleger, N. and J. Morreale. 2021. R code for identification and correction of Photosynthetically Active Radiation sensor drift ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/a0d3d2eaba893ec837f483c4afe4d414.
-
-Pepperwood Long-Term Soil and MET Data – Oak and Grass Stations: https://portal.edirepository.org/nis/mapbrowse?packageid=edi.943.1
-
-Pepperwood MET soil moisture sites 2019 – 2021: https://portal.edirepository.org/nis/mapbrowse?packageid=edi.865.1
-
-Sebestyen, S.D., D.T. Roman, J.M. Burdick, R.L. Kyllander, N.K. Lany, M. Jones, and R.K. Kolka. 2021. Marcell Experimental Forest 15-minute precipitation, 2010 – ongoing ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/73672ec2acdce8355bf8dbd3f4effaea.
-
-Sebestyen, S.D., D.T. Roman, N.K. Lany, M.W. Jones, J.M. Burdick, and R.K. Kolka. 2021. Marcell Experimental Forest 30-minute resolution meteorological data, 2006 – ongoing ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/998c6c53ee2726978c2ad137f729b0c6.
-
-Sheehan, N. and L. Weber-Grullon. 2021. Journey North – Hummingbird observations by volunteer community scientists across Central and North America (1996-2020) ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/a4bebd2b5fb5c1fd0757eac254a06357.
-
-Sheehan, N. and L. Weber-Grullon. 2021. Journey North – Monarch Butterfly and Milkweed observations by volunteer community scientists across Central and North America (1996-2020) ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/f7d7bef57f94b33b8a18a26954252412.
-
-Whipple, A. and C. Ray. 2021. Subsurface Temperature Data from Seven Rock Glaciers in Rocky Mountain National Park and Niwot Ridge LTER, Colorado, USA, 2018-2019 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/929e2f61cb0926cf58ebac09d187148f.
-
-Young, H., A. Miller-ter Kuile, B. Davis, and C. Vargas Poulsen. 2021. Palmyra Atoll Weather Tables and Monthly Rainfall 2008-2017 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/17ff13667493dbaa5f3abaa8a22afec0.
