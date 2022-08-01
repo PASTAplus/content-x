@@ -19,7 +19,7 @@ Please contact Susanne Grossman-Clarke, EDI’s Outreach and Training Coordinato
 During the 2-month summer program, the Fellows receive training in environmental data management by EDI and gain hands-on experience through participation in data publishing with specific host projects, either remotely or on site. In agreement with EDI’s mission of accelerating curation and publishing of environmental data, the focus of the fellowship program is on:
 
 * Processing and publishing the host projects’ data.
-* Creating workflows that support the processing of data collections. See here for an example.
+* Creating workflows that support the processing of data collections. See here for an [example](https://nes-lter.whoi.edu/our-edi-summer-fellow-developed-workflows-to-visualize-and-publish-ifcb-data/).
 
 Further information:
 
