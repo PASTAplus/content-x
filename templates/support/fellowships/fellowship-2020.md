@@ -8,13 +8,13 @@
 </div>
 <br>
 
-#### About
+## About
 
 We successfully completed our third EDI Summer Fellowship Program (9 June – 14 August 2020). Due to the COVID-19 health situation, we moved the entire program online, including the ecological data publishing training for the fellows. We supported ten fellows who conducted data management and publishing work for host sites located in different parts of the country. For a list of host sites, on-site mentors and fellows, see below. Thanks to the fellows’ and mentors’ effort to regularly meet online, the fellowship was successful in terms of learning about data management and working with scientific teams of the host sites. Each fellow made a significant contribution to publishing the host site’s data, for long-term data preservation, making the data discoverable (in the [EDI data repository](https://portal.edirepository.org/nis/advancedSearch.jsp), [DataONE](https://www.dataone.org/) and by internet searches).
 
 For an example of the fellows' engagement with the host projects, see Ashley Whipple’s (fellow with the Pepperwood Preserve) blog entry on [“My data’s data: a metadata story”](https://www.pepperwoodpreserve.org/2020/07/30/mydatasdata-a-metadata-story/).
 
-#### Host projects and mentors for training program
+## Host projects and mentors for training program
 
 * #### [California Department of Fish and Wildlife](https://wildlife.ca.gov/). Location: Stockton, CA. Mentor: Dr. Jereme Gaeta (jereme.gaeta@wildlife.ca.gov), Fellow: Madeleine Frick
     * **Project description:** Archiving historical datasets from the San Francisco Bay Estuary (SFE), including (1) a periodic Delta-wide (freshwater and brackish area of the SFE) shoreline electrofishing survey and (2) a fish survey of Suisun Marsh, an area critical to the ecology of endangered Delta Smelt.
@@ -38,11 +38,11 @@ For an example of the fellows' engagement with the host projects, see Ashley Whi
 Mentor: Jason Tallant (jtallant@umich.edu), Fellow: Alex Pawlik
     * **Project description:** Organize data collected from various federally funded projects at UMBS for publication and work with web based metadata management tools and associated database(s).
     
-### Featured data packages
+## Featured data packages
 
 Halbur, M.M., T.L. Comendant, N. Barden, A.L. Whipple, and E. Micheli. 2020. Annual Point Count Breeding Bird Survey at Pepperwood Preserve in the California Coast Ranges 2007-2019 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/65b2df11b736c5b51d5fad90dc4a08e9.
     
-### Testimonials
+## Testimonials
 
 “The task of making environmental data publicly available and reusable is often overlooked. The training that I received during my EDI summer fellowship opened my eyes to the world of data management. Great care and thought are required for good data archiving and EDI provided great resources and training for doing so. The staff at EDI were highly knowledgeable and always willing to help answer my questions. I felt very supported by both my host site and EDI. The fellowship offered a rare combination of training and hands-on experience to learn, practice, and grow my data management skills and I’m very grateful for the opportunity.”
 
@@ -52,7 +52,7 @@ Halbur, M.M., T.L. Comendant, N. Barden, A.L. Whipple, and E. Micheli. 2020. Ann
 
 – Claire Pavelka | Fellow at Sierra Nevada Aquatic Research Laboratory – 
 
-### Published data packages
+## Published data packages
 
 Bartosh, H., B. Peterson, M.M. Halbur, T.L. Comendant, A.L. Whipple, and E. Micheli. 2020. Post-Tubbs Fire Chaparral Floristic Survey at Pepperwood Preserve in the California Coast Ranges 2018-2019 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/958a452d488a54100965e99ecda28fd8.
 
