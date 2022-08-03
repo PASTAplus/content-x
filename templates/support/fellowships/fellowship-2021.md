@@ -8,11 +8,11 @@
 </div>
 <br>
 
-#### About
+## About
 
 We successfully completed our fourth EDI Fellowship Program (21 June – 19 August 2021). Due to the COVID-19 health situation, we conducted the data publishing training online. Most of the Fellows engaged with the host projects remotely. We supported 16n fellows who conducted data management and publishing work for host projects located in different parts of the country and Costa Rica. For a list of host sites, on-site mentors and fellows, see below. Each fellow made a significant contribution to publishing the host site’s data, developing publishing workflows and to long-term data preservation, making the data discoverable (in the [EDI data repository](https://portal.edirepository.org/nis/advancedSearch.jsp), [DataONE](https://www.dataone.org/) and by internet searches).
 
-#### Host projects and mentors for training program
+## Host projects and mentors for training program
 
 * #### [Baylor University, Center for Aquatic Systems Research (CRASR)](https://www.baylor.edu/crasr/). Location: Remote. Mentor: Stephen Powers (s_powers@baylor.edu), Fellow: Jessica Hicks
     * **Project description:** CRASR facilitates research on aquatic systems inclusive to biogeochemistry, ecology, and human health considerations. CRASR operates a shared water chemistry lab that applies analytical methods supported by EPA guidance (e.g., total phosphorus, major ions) to analyze many thousand samples each year. The Fellow will synthesize, disseminate and publish a variety of CRASR water data. Three existing datasets involve water quality monitoring of surface water bodies of Central Texas: Lake Waco (biogeochemistry, vertical profiles of dissolved oxygen and water temperature) and Richland-Chambers Reservoir (continuous sensor data from multi-parameter sondes). Depending on the Fellow’s interest, many other CRASR water datasets are available for archiving. In summer 2021, CRASR plans to begin disseminating data subsets using an online Rshiny data dashboard and the Fellow could be part of the development.
@@ -47,7 +47,7 @@ We successfully completed our fourth EDI Fellowship Program (21 June – 19 Augu
 * #### [USDA Forest Service, Rocky Mountain Research Station (RMRS)](https://www.fs.usda.gov/rmrs/experimental-forests-and-ranges/manitou-experimental-forest/). Location: Remote. Mentor: Paula Fornwalt (paula.fornwalt@usda.gov), Fellow: Ana Miller-ter Kuile
     * **Project description:** The Fellow will help make long-term climate data for one or more [US Forest Service Experimental Forests and Ranges (EFRs)](https://www.fs.fed.us/research/efr/) accessible by cleaning the data, preparing metadata and publishing the data in the EDI data repository. The main EFR is Manitou, CO with climate data collected since 1936. As time allows, the Fellow will be able to publish climate data for other EFRs, such as Crossett (Arkansas), Desert (Utah), Fort Valley (Arizona), Fraser (Colorado), Harrison (Mississippi), Hitchiti (Georgia), Santee (South Carolina), Sierra Ancha (Arizona), and Stephen F. Austin (Texas).
 
-### Published data packages
+## Published data packages
 
 Anderson, C., M. Brzesinski, D. Caron, M. Carter, J. Jones, R. Kudela, J. Largier, K. Negrey, A. Pasulka, H. Ruhl, R. Shipe, G. Smith, J. Smith, J. Tyburczy, R. Walter, and L. Washburn. 2021. California Harmful Algal Bloom Monitoring and Alert Program Data (Darwin Core Archive format) ver 3. Environmental Data Initiative. https://doi.org/10.6073/pasta/84cc4e1802ead7f88b647303ccb92529.
 
