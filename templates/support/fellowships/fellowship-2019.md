@@ -21,6 +21,13 @@ Each fellow made a significant contribution to publishing the host site’s data
     
 ## Highlights
 
+* EDI workshop on “Introduction to publishing environmental data” at [Clemson Baruch Institute of Coastal Ecology and Forest Science](https://www.clemson.edu/cafls/research/baruch/) with support of EDI fellow Vanessa Bailey.
+* Fellow Katherine Qi with NES LTER shared her work in teleconferences with NASA, [Integrated Ocean Observing System](https://ioos.noaa.gov/), and [Marine Biodiversity Observation Network](https://sbc.marinebon.org/) scientists and data managers. She developed workflows to contribute datasets from plankton imaging systems to EDI.
+* Fellows Katherine Le and Alexis Garretson continue to work with their former host sites, [Lacawac Sanctuary](https://www.lacawac.org/) and [Mohonk Preserve](https://www.mohonkpreserve.org/) on data management related tasks.
+* Several fellows presented their results at conferences with partial travel support from EDI.
+* Two data packages published by EDI fellows were featured in our “Featured Data Package” series, [“Mohonk Preserve Amphibian and Water Quality Monitoring Dataset at 11 Vernal Pools from 1931-Present”](https://edirepository.org/featured/featured-20190701.00) and [“Monthly litterfall, monthly tree band, and annual tree growth of a South Carolina coastal wetland forest”](https://edirepository.org/featured/featured-20190901.00).
+
+
    
 ## Testimonials
 
