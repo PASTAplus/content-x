@@ -41,16 +41,18 @@ EDI successfully completed its first summer fellowship program from June 4 to Au
 
 ## Host projects and mentors
  
-* ##### [Adirondack Ecological Center, State University of New York College of Environmental Science and Forestry](https://www.esf.edu/aec/). Location: Newcomb, NY. Mentor: Stacy McNulty (smcnulty@esf.edu), Fellow: Maureen Lynch
-    * **Project title:** Adirondack Long-Term Ecological Monitoring Program Data – Wildlife, Habitat and Ecosystem Fellowship.
-
-School of Natural Resources, University of Missouri: “Monitoring Program of Missouri’s Water Bodies”.  Mentor: Dr. Alba Argerich; Location: Columbia, MO. Fellow: Abby Pennington.
-University of Michigan Biological Station (UMBS), University of Michigan: “Soil Monitoring Program”; Mentor: Jason Tallant; Location: UMBS, Pellston, MI. Fellow: Alina Drebin.
-Shoals Marine Laboratory, University of New Hampshire: “Rocky Intertidal Monitoring Program”.  Mentor: Dr. David Buck; Location: Appledore Island, ME. Fellow: An Nguyen.
-Archbold Biological Station: “Hydrology Monitoring Program”. Mentor: Vivienne Sclater; Location: Archbold Biological Station, FL. Fellow: Gabriel Kamener.
-Adirondack Ecological Center of SUNY College of Environmental Science and Forestry: “Monitoring Plant, Animal and Lake Phenology”. Mentor: Stacy McNulty; Location: Newcomb, NY. Fellow: Prita Novita.
-New Paltz, State University of New York: “Mohonk Preserve Monitoring (Minnewaska State Park, NY)”.  Mentor: David C. Richardson; Location: New Paltz/Mohonk Preserve, NY. Fellow: Vanessa Morgan.
-
+* ##### [School of Natural Resources, University of Missouri](https://snr.missouri.edu/). Location: Columbia, MO. Mentor: Dr. Alba Argerich, Fellow: Abby Pennington
+    * **Project title:** Monitoring Program of Missouri’s Water Bodies
+* ##### [University of Michigan Biological Station (UMBS), University of Michigan](https://lsa.umich.edu/umbs). Location: UMBS. Mentor: Jason Tallant, Pellston, MI. Fellow: Alina Drebin
+    * **Project title:** Soil Monitoring Program
+* ##### [Shoals Marine Laboratory, University of New Hampshire](https://marine.unh.edu/research-centers/centers/shoals-marine-laboratory). Location: Appledore Island, ME. Mentor: Dr. David Buck, Fellow: An Nguyen
+    * **Project title:** Rocky Intertidal Monitoring Program
+* ##### [Archbold Biological Station](https://www.archbold-station.org/). Location: Archbold Biological Station, FL. Mentor: Vivienne Sclater, Fellow: Gabriel Kamener
+    * **Project title:** Hydrology Monitoring Program
+* ##### [Adirondack Ecological Center of SUNY College of Environmental Science and Forestry](https://www.esf.edu/aec/). Location: Newcomb, NY. Mentor: Stacy McNulty, Fellow: Prita Novita
+    * **Project title:** Monitoring Plant, Animal and Lake Phenology
+* ##### [Mohonk Preserve](https://www.mohonkpreserve.org/). Location: New Paltz/Mohonk Preserve, NY. Mentor: David C. Richardson, Fellow: Vanessa Morgan
+    * **Project title:** Mohonk Preserve Monitoring (Minnewaska State Park, NY)
 
 ## Featured data packages
 Two data packages published by EDI fellows were featured in our “Featured Data Package” series.
