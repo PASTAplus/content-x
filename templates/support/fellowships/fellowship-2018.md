@@ -56,16 +56,8 @@ EDI successfully completed its first summer fellowship program from June 4 to Au
 
 ## Featured data packages
 Two data packages published by EDI fellows were featured in our “Featured Data Package” series.
-*   [“Mohonk Preserve Amphibian and Water Quality Monitoring Dataset at 11 Vernal Pools from 1931-Present”](https://edirepository.org/featured/featured-20190701.00) 
-*   [“Monthly litterfall, monthly tree band, and annual tree growth of a South Carolina coastal wetland forest”](https://edirepository.org/featured/featured-20190901.00).
-*   McNulty S. 2018. Songbird surveys, 1952 – 1964, 1983 – 2008 Adirondack Long-Term Ecological Monitoring Program Project No. 2 Breeding Birds by Adirondack 
-*   Ecological Center of the State University of New York College of Environmental Science and Forestry, Newcomb, New York. Environmental Data Initiative.
-*    https://doi.org/10.6073/pasta/60258aef9640cc5eba87f0c767f4560f.
-
-Sonnier G., P. J. Bohlen, H. M. Swain, S. L. Orzell, E. L. Bridges, E. H. Boughton. 2018. A case study of the effects of wetland restoration on the hydrology, species
-diversity, species composition and floristic quality of restored wetlands within a Central Florida ranchland, 2003 – ongoing. Environmental Data Initiative. 
-https://doi.org/10.6073/pasta/b745934d136ce9ca8de26c5063eee86a.
-
+* [Adirondack Long-Term Ecological Monitoring Program: Songbird surveys (1952 – 1964 and 1983 – 2008](https://environmentaldatainitiative.org/edis-featured-data-contributions/songbird-surveys-aec/)
+* [A case study of the effects of wetland restoration on the hydrology, species diversity, species composition and floristic quality of restored wetlands within a Central Florida ranchland, 2003 – ongoing](https://environmentaldatainitiative.org/edis-featured-data-contributions/case-study-effects-wetland-restoration/)
 
 ## Published data packages
 
