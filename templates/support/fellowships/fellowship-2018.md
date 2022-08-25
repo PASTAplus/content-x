@@ -2,7 +2,7 @@
 
 <div class="figure_featured" style="width: 40%; margin-right: 2em;">
 <figure style="float: right; margin: 3em 1em 1em 4em;">
-<img alt="EDI Fellows 2018" src="/static/images/edi-fellows-2018.jpg"/>
+<img alt="EDI Fellows 2018" src="/static/images/edi_summer_fellows_2018.jpg"/>
 <figcaption class="figure-caption">Fellows and EDI team members at the data publishing workshop at UNM in Albuquerque, NM (June 2018). From left: Susamme Grossman-Clarke (EDI), Kristin Vanderbilt (EDI), Colin Smith (EDI)</figcaption>
 </figure>
 </div>
