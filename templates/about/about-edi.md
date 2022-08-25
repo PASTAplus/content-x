@@ -49,18 +49,6 @@ Previous NSF funding was awarded through grants [#1565103](https://www.nsf.gov/a
 </div>
 <div class="person_row">
     <div class="person_col">
-        <b>Kristin Vanderbilt</b> is an EDI co-PI and supports the Data Management as a Service activity. She
-        is based at the University of New Mexico. Kristin can be reached at
-        <a href="mailto:krvander@fiu.edu">
-            krvander@fiu.edu
-        </a>.
-    </div>
-    <div class="person_col">
-        <img alt="Kristin Vanderbilt" src="/static/images/kristin.jpg"/>
-    </div>
-</div>
-<div class="person_row">
-    <div class="person_col">
         <b>Paul Hanson</b> is an EDI co-PI and involved in project level outreach. He is based at
         the University of Wisconsin-Madison and can be reached at
         <a href="mailto:pchanson@wisc.edu">
@@ -138,7 +126,7 @@ Previous NSF funding was awarded through grants [#1565103](https://www.nsf.gov/a
 <div class="person_row">
     <div class="person_col">
         <b>Roger Dahl</b> is a full stack software developer at the University of New Mexico who focuses on data management for the earth sciences. Roger can be reached at 
-        <a href="roger.dahl.unm@gmail.com">
+        <a href="mailto:roger.dahl.unm@gmail.com">
             dahl@unm.edu
         </a>.
     </div>
@@ -160,21 +148,6 @@ Previous NSF funding was awarded through grants [#1565103](https://www.nsf.gov/a
     </div>
     <div class="person_col">
         <img alt="Colin Smith" src="/static/images/colin.jpg"/>
-    </div>
-</div>
-<div class="person_row">
-    <div class="person_col">
-        <b>Kyle Zollo-Venecek</b> is a part of EDI's data curation team
-        and works with data providers to clean, document, and submit their data to
-        the EDI repository. Kyle works through the University of Wisconsin-Madison
-        and can be reached at
-        <a href="mailto:kylezollo@gmail.com">
-            kylezollo@gmail.com
-        </a>.
-    </div>
-    <div class="person_col">
-        <img alt="Kyle Zollo-Venecek"
-             src="/static/images/kyle.png"/>
     </div>
 </div>
 
