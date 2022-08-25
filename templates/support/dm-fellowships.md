@@ -10,7 +10,7 @@
 <br>
 Our 2022 Fellowship Program is currently ongoing. The Fellows are gaining data publishing experience for specific host sites, spanning diverse ecosystems across the country, from Maine’s Mount Desert Island to Puerto Rico’s Luquillo Mountains to the Palmyra Atoll in the central Pacific.
 
-[More information](https://edirepository.org/news/news-20220511.00).
+[More information](/news/news-20220511.00).
 
 Please contact Susanne Grossman-Clarke, EDI’s Outreach and Training Coordinator with any questions regarding the fellowship program: grossmanclar@wisc.edu.
 
@@ -23,8 +23,8 @@ During the 2-month summer program, the Fellows receive training in environmental
 
 Further information:
 
-* [EDI Fellowship Q&A](https://edirepository.org/support/fellowships/faq-fellowships)
-* Previous years’ programs:  [2018](https://environmentaldatainitiative.org/edi-dm-fellowship-program/2018-fellowships/), [2019](https://environmentaldatainitiative.org/edi-dm-fellowship-program/2019-fellowships/), [2020]([https://environmentaldatainitiative.org/edi-dm-fellowship-program/2020-fellowships/), [2021](https://edirepository.org/support/fellowships/fellowship-2021)
+* [EDI Fellowship Q&A](/support/faq-fellowships)
+* Previous years’ programs:  [2018](/support/fellowship-2018), [2019](/support/fellowship-2019), [2020]([/support/fellowship-2020), [2021](/support/fellowship-2021)
 
 
 ## Schedule
