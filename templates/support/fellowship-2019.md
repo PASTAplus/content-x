@@ -77,9 +77,10 @@ Each fellow made a significant contribution to publishing the host site’s data
     * **Project title:** Greater Yellowstone Ecosystem data: pollinators, small mammals, invertebrates, vegetation and plant communities.
 
 ## Featured data packages
-Two data packages published by EDI fellows were featured in our “Featured Data Package” series.
-*   [“Mohonk Preserve Amphibian and Water Quality Monitoring Dataset at 11 Vernal Pools from 1931-Present”](https://edirepository.org/featured/featured-20190701.00) 
-*   [“Monthly litterfall, monthly tree band, and annual tree growth of a South Carolina coastal wetland forest”](https://edirepository.org/featured/featured-20190901.00).
+Two data packages published by EDI fellows were featured in our “Featured Data Package” series:
+
+* #### [“Mohonk Preserve Amphibian and Water Quality Monitoring Dataset at 11 Vernal Pools from 1931-Present”](/featured/featured-20190701.00) 
+* #### [“Monthly litterfall, monthly tree band, and annual tree growth of a South Carolina coastal wetland forest”](/featured/featured-20190901.00)
 
 ## Published data packages
 

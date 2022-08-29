@@ -55,10 +55,10 @@ EDI successfully completed its first summer fellowship program from June 4 to Au
     * **Project title:** Mohonk Preserve Monitoring (Minnewaska State Park, NY)
 
 ## Featured data packages
-Two data packages published by EDI fellows were featured in our “Featured Data Package” series.
+Two data packages published by EDI fellows were featured in our “Featured Data Package” series:
 
 * ##### [Effects of wetland restoration on hydrology and species diversity of restored wetlands within a Central Florida ranchland, 2003 – ongoing](/featured/featured-20180801.00)
-* #####  [Adirondack Long-Term Ecological Monitoring Program: Songbird surveys (1952 – 1964 and 1983 – 2008](/featured/featured-20180901.00)
+* ##### [Adirondack Long-Term Ecological Monitoring Program: Songbird surveys (1952 – 1964 and 1983 – 2008)](/featured/featured-20180901.00)
 
 ## Published data packages
 
