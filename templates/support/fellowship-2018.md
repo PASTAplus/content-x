@@ -56,8 +56,9 @@ EDI successfully completed its first summer fellowship program from June 4 to Au
 
 ## Featured data packages
 Two data packages published by EDI fellows were featured in our “Featured Data Package” series.
-* [Effects of wetland restoration on hydrology and species diversity of restored wetlands within a Central Florida ranchland, 2003 – ongoing](/support/featured-20180801.00)
-* [Adirondack Long-Term Ecological Monitoring Program: Songbird surveys (1952 – 1964 and 1983 – 2008](/support/featured-20180901.00)
+
+* ##### [Effects of wetland restoration on hydrology and species diversity of restored wetlands within a Central Florida ranchland, 2003 – ongoing](/support/featured-20180801.00)
+* #####  [Adirondack Long-Term Ecological Monitoring Program: Songbird surveys (1952 – 1964 and 1983 – 2008](/support/featured-20180901.00)
 
 ## Published data packages
 
