@@ -24,7 +24,7 @@ During the 2-month summer program, the Fellows receive training in environmental
 Further information:
 
 * [EDI Fellowship Q&A](/support/faq-fellowships)
-* Previous years’ programs:  [2018](/support/fellowship-2018), [2019](/support/fellowship-2019), [2020]([/support/fellowship-2020), [2021](/support/fellowship-2021)
+* Previous years’ programs:  [2018](/support/fellowship-2018), [2019](/support/fellowship-2019), [2020](/support/fellowship-2020), [2021](/support/fellowship-2021)
 
 
 ## Schedule
