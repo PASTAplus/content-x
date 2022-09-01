@@ -9,7 +9,7 @@
 </div>
 <br>
 
-Please contact us with any questions regarding the fellowship program: info@edirepository.org
+Please contact us with any questions regarding our fellowship program at info@edirepository.org
 
 ## Overview
 
