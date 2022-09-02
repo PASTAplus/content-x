@@ -49,24 +49,24 @@ We successfully completed our fourth EDI Fellowship Program (21 June – 19 Augu
 
 ## Published data packages
 
-Anderson, C., M. Brzesinski, D. Caron, M. Carter, J. Jones, R. Kudela, J. Largier, K. Negrey, A. Pasulka, H. Ruhl, R. Shipe, G. Smith, J. Smith, J. Tyburczy, R. Walter, and L. Washburn. 2021. California Harmful Algal Bloom Monitoring and Alert Program Data (Darwin Core Archive format) ver 3. Environmental Data Initiative. https://doi.org/10.6073/pasta/84cc4e1802ead7f88b647303ccb92529.
+Anderson, C., M. Brzesinski, D. Caron, M. Carter, J. Jones, R. Kudela, J. Largier, K. Negrey, A. Pasulka, H. Ruhl, R. Shipe, G. Smith, J. Smith, J. Tyburczy, R. Walter, and L. Washburn. 2021. California Harmful Algal Bloom Monitoring and Alert Program Data (Darwin Core Archive format) ver 3. Environmental Data Initiative. [https://doi.org/10.6073/pasta/84cc4e1802ead7f88b647303ccb92529](https://doi.org/10.6073/pasta/84cc4e1802ead7f88b647303ccb92529).
 
-Craighead, A. and C. Ray. 2021. Talus Subsurface and Surface Temperature Data from Southwestern Montana, USA, 2010-2020 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/6f19d3e6e6bc609ad1aa57b853395f30.
+Craighead, A. and C. Ray. 2021. Talus Subsurface and Surface Temperature Data from Southwestern Montana, USA, 2010-2020 ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/6f19d3e6e6bc609ad1aa57b853395f30](https://doi.org/10.6073/pasta/6f19d3e6e6bc609ad1aa57b853395f30).
 
-Groleger, N. and J. Morreale. 2021. R code for identification and correction of Photosynthetically Active Radiation sensor drift ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/a0d3d2eaba893ec837f483c4afe4d414.
+Groleger, N. and J. Morreale. 2021. R code for identification and correction of Photosynthetically Active Radiation sensor drift ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/a0d3d2eaba893ec837f483c4afe4d414]([https://doi.org/10.6073/pasta/a0d3d2eaba893ec837f483c4afe4d414).
 
-Pepperwood Long-Term Soil and MET Data – Oak and Grass Stations: https://portal.edirepository.org/nis/mapbrowse?packageid=edi.943.1
+Pepperwood Long-Term Soil and MET Data – Oak and Grass Stations: [https://portal.edirepository.org/nis/mapbrowse?packageid=edi.943.1](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.943.1).
 
-Pepperwood MET soil moisture sites 2019 – 2021: https://portal.edirepository.org/nis/mapbrowse?packageid=edi.865.1
+Pepperwood MET soil moisture sites 2019 – 2021: [https://portal.edirepository.org/nis/mapbrowse?packageid=edi.865.1](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.865.1).
 
-Sebestyen, S.D., D.T. Roman, J.M. Burdick, R.L. Kyllander, N.K. Lany, M. Jones, and R.K. Kolka. 2021. Marcell Experimental Forest 15-minute precipitation, 2010 – ongoing ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/73672ec2acdce8355bf8dbd3f4effaea.
+Sebestyen, S.D., D.T. Roman, J.M. Burdick, R.L. Kyllander, N.K. Lany, M. Jones, and R.K. Kolka. 2021. Marcell Experimental Forest 15-minute precipitation, 2010 – ongoing ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/73672ec2acdce8355bf8dbd3f4effaea](https://doi.org/10.6073/pasta/73672ec2acdce8355bf8dbd3f4effaea).
 
-Sebestyen, S.D., D.T. Roman, N.K. Lany, M.W. Jones, J.M. Burdick, and R.K. Kolka. 2021. Marcell Experimental Forest 30-minute resolution meteorological data, 2006 – ongoing ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/998c6c53ee2726978c2ad137f729b0c6.
+Sebestyen, S.D., D.T. Roman, N.K. Lany, M.W. Jones, J.M. Burdick, and R.K. Kolka. 2021. Marcell Experimental Forest 30-minute resolution meteorological data, 2006 – ongoing ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/998c6c53ee2726978c2ad137f729b0c6](https://doi.org/10.6073/pasta/998c6c53ee2726978c2ad137f729b0c6).
 
-Sheehan, N. and L. Weber-Grullon. 2021. Journey North – Hummingbird observations by volunteer community scientists across Central and North America (1996-2020) ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/a4bebd2b5fb5c1fd0757eac254a06357.
+Sheehan, N. and L. Weber-Grullon. 2021. Journey North – Hummingbird observations by volunteer community scientists across Central and North America (1996-2020) ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/a4bebd2b5fb5c1fd0757eac254a06357](https://doi.org/10.6073/pasta/a4bebd2b5fb5c1fd0757eac254a06357).
 
-Sheehan, N. and L. Weber-Grullon. 2021. Journey North – Monarch Butterfly and Milkweed observations by volunteer community scientists across Central and North America (1996-2020) ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/f7d7bef57f94b33b8a18a26954252412.
+Sheehan, N. and L. Weber-Grullon. 2021. Journey North – Monarch Butterfly and Milkweed observations by volunteer community scientists across Central and North America (1996-2020) ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/f7d7bef57f94b33b8a18a26954252412](https://doi.org/10.6073/pasta/f7d7bef57f94b33b8a18a26954252412).
 
-Whipple, A. and C. Ray. 2021. Subsurface Temperature Data from Seven Rock Glaciers in Rocky Mountain National Park and Niwot Ridge LTER, Colorado, USA, 2018-2019 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/929e2f61cb0926cf58ebac09d187148f.
+Whipple, A. and C. Ray. 2021. Subsurface Temperature Data from Seven Rock Glaciers in Rocky Mountain National Park and Niwot Ridge LTER, Colorado, USA, 2018-2019 ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/929e2f61cb0926cf58ebac09d187148f](https://doi.org/10.6073/pasta/929e2f61cb0926cf58ebac09d187148f).
 
-Young, H., A. Miller-ter Kuile, B. Davis, and C. Vargas Poulsen. 2021. Palmyra Atoll Weather Tables and Monthly Rainfall 2008-2017 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/17ff13667493dbaa5f3abaa8a22afec0.
+Young, H., A. Miller-ter Kuile, B. Davis, and C. Vargas Poulsen. 2021. Palmyra Atoll Weather Tables and Monthly Rainfall 2008-2017 ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/17ff13667493dbaa5f3abaa8a22afec0](https://doi.org/10.6073/pasta/17ff13667493dbaa5f3abaa8a22afec0).
