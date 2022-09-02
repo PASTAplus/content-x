@@ -53,7 +53,7 @@ Anderson, C., M. Brzesinski, D. Caron, M. Carter, J. Jones, R. Kudela, J. Largie
 
 Craighead, A. and C. Ray. 2021. Talus Subsurface and Surface Temperature Data from Southwestern Montana, USA, 2010-2020 ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/6f19d3e6e6bc609ad1aa57b853395f30](https://doi.org/10.6073/pasta/6f19d3e6e6bc609ad1aa57b853395f30).
 
-Groleger, N. and J. Morreale. 2021. R code for identification and correction of Photosynthetically Active Radiation sensor drift ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/a0d3d2eaba893ec837f483c4afe4d414]([https://doi.org/10.6073/pasta/a0d3d2eaba893ec837f483c4afe4d414).
+Groleger, N. and J. Morreale. 2021. R code for identification and correction of Photosynthetically Active Radiation sensor drift ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/a0d3d2eaba893ec837f483c4afe4d414](https://doi.org/10.6073/pasta/a0d3d2eaba893ec837f483c4afe4d414).
 
 Pepperwood Long-Term Soil and MET Data – Oak and Grass Stations: [https://portal.edirepository.org/nis/mapbrowse?packageid=edi.943.1](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.943.1).
 
