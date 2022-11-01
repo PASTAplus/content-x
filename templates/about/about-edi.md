@@ -139,6 +139,9 @@ Previous NSF funding was awarded through grants [#1565103](https://www.nsf.gov/a
     </div>
 </div>
 
+## Advisory board
+
+EDI’s advisory board is composed of ecologists and informatics professionals, and we engage with them during regular meetings and reviews, receiving insightful advice and guidance. Terms generally last 3 years, and are renewable. For more information see [EDI Advisory Board](/templates/about/edi-advisory-board.md).
 
 ## Repository infrastructure
 
