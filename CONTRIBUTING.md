@@ -220,3 +220,34 @@ page will be used.-->
 ### [All featured data contributions](/templates/featured/featured-grid)
 
 ```
+
+## Create a Webinar article
+
+To create a webinar article:
+1. Copy the template below and paste into a new file in the `/templates/webinars` directory.
+2. The file name should follow `webinars-YYYYMMDD.XX.md`, where `YYYYMMDD` is the date the article was created, `XX` is the news article created on that date (use `00` if only one article was published on that day).
+3. Update the TITLE, DATE, AUTHOR, and CONTENT placeholders.
+4. Commit changes and push to the content-x GitHub.
+5. Notify the website team that new content has been added and they will integrate your work into the website.
+
+```
+# Webinar
+
+## ADD TITLE HERE
+
+ADD DATE HERE (e.g.October 18, 2022)
+
+### Description
+
+ADD CONTENT HERE
+
+### Speakers
+
+ADD SPEAKERS HERE
+
+### Recording
+
+EMBED YOUTUBE VIDEO RECORDING HERE
+
+<!-- Webinars -->
+```
