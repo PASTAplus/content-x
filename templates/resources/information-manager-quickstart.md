@@ -27,7 +27,7 @@ Communication channels broadcast noteworthy events and facilitate conversation.
 * **Newsletter** - Delivered every other month providing updates to EDI services, community discussions, data stories, and opportunities. [Subscribe to the newsletter](https://environmentaldatainitiative.us14.list-manage.com/subscribe?u=c258a774cbd4d34290410d1ea&id=da346b264c).
 * **Twitter** - Highlights and engages with posts from the EDI community and beyond. Newsletter articles are rebroadcast here. [Visit the EDI Twitter Page](https://twitter.com/edigotdata).
 * **Slack** - Great for quick questions and dialogue ([contact EDI ](/templates/support/contact-us.md) for an invitation).
-* **Office hours** - An ongoing Zoom every Wednesday at 3-4pm ET, 2-3pm CT, 1-2pm MT, 12-1pm PT.
+* **Office hours** - An ongoing [Zoom](https://uwmadison.zoom.us/j/98834296572?pwd=NHZlTmtkTWg3OXBLSzRrMTJyL3NmUT09) every Wednesday at 3-4pm ET, 2-3pm CT, 1-2pm MT, 12-1pm PT.
 * Email - Contact us via email at [info@edirepository.org](mailto:info@edirepository.org)
 
 ## Resources
