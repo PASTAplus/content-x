@@ -152,7 +152,7 @@ By necessity, the original iteration of PASTA was LTER-centric. With the advent 
 
 ## Physical management and curation of digital products
 
-EDI employs industry standard protocols to ensure that all scientific data are well documented, secure, and persist for future use. 
+EDI employs industry standard protocols to ensure that all scientific data are well documented, secure, and preserved for future use. 
 
 
 ### Standards for data, metadata, and software
