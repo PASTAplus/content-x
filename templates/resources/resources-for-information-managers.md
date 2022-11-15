@@ -48,6 +48,9 @@ When a data package has passed evaluation and the metadata render correctly in t
 
 Perform a data package update whenever data or metadata need to be changed or added to an existing data package. Updates may be performed routinely or sporadically and will result in a new "revision". A revision of a data package has the same identifier, but receives a new version number and is assigned a new DOI. All revisions of a data package are linked in the EDI Data Repository. Users who end up on the landing page of an older revision will be notified that they are not viewing the most recent version of the data package. For more information see [Updating a Data Package](/templates/resources/updating-a-data-package.md).
 
+## Deprecating a data package
+
+Deprecation enables data authors to discourage the continued use of a single data package, or series, in favor of a better alternative. It's typically applied when data issues cannot be resolved through a [data package update](/templates/resources/updating-a-data-package.md), or when maintenance of a data package has moved to a new [data package series](/templates/resources/the-data-package.md#versioning-data-packages). For more information see [Deprecating a Data Package](/templates/resources/deprecating-a-data-package.md).
 
 ## Adding citations to a data package
 
