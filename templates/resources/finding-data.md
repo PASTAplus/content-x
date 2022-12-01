@@ -73,7 +73,7 @@ Search for a specific package identifier from the **Identifier** tab.
 
 ### EDIutils
 
-The [`search_data_packages()`](https://ediorg.github.io/EDIutils/reference/search_data_packages.html) function allows programmatic search across the EDI Data Repository using [Apache Solr queries](https://cwiki.apache.org/confluence/display/solr/). See the [Search and Access vignette](https://ediorg.github.io/EDIutils/articles/search_and_access.html) for an example of searching and accessing data using EDIutils.
+The [`search_data_packages()`](https://docs.ropensci.org/EDIutils/reference/search_data_packages.html) function allows programmatic search across the EDI Data Repository using [Apache Solr queries](https://cwiki.apache.org/confluence/display/solr/). See the [Search and Access vignette](https://docs.ropensci.org/EDIutils/articles/search_and_access.html) for an example of searching and accessing data using EDIutils.
 
 For a language-agnostic solution, see the REST API documentation for [Search Data Packages](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#search-data-packages).
 

@@ -15,7 +15,7 @@ Event notifications have two parts: a subscription and a corresponding notificat
 
 ### The subscription
 
-The subscription defines what events to follow and where to send the notification when the event occurs. The create, test, and delete subscription processes outlined below can be performed programmatically using the [EDIutils](https://ediorg.github.io/EDIutils/) R Package or similarly the [REST API](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/about.html).
+The subscription defines what events to follow and where to send the notification when the event occurs. The create, test, and delete subscription processes outlined below can be performed programmatically using the [EDIutils](https://docs.ropensci.org/EDIutils/index.html) R Package or similarly the [REST API](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/about.html).
 
 #### Create a subscription
 

@@ -50,25 +50,25 @@ This summary table also provides a link to the full **Evaluation Report**, which
 
 ## EDIutils
 
-To evaluate a data package using the [EDIutils](https://ediorg.github.io/EDIutils/) R package:
+To evaluate a data package using the [EDIutils](https://docs.ropensci.org/EDIutils/index.html) R package:
 
 ### Login
 
-Use the [`login()`](https://ediorg.github.io/EDIutils/reference/login.html) function with EDI account credentials.
+Use the [`login()`](https://docs.ropensci.org/EDIutils/reference/login.html) function with EDI account credentials.
 
 ### Evaluating the data package
 
-Use the [`evaluate_data_package()`](https://ediorg.github.io/EDIutils/reference/evaluate_data_package.html) function to begin the evaluation process and provide the full path to the EML file and the [repository environment](/templates/resources/repository-environments.md) to evaluate in.
+Use the [`evaluate_data_package()`](https://docs.ropensci.org/EDIutils/reference/evaluate_data_package.html) function to begin the evaluation process and provide the full path to the EML file and the [repository environment](/templates/resources/repository-environments.md) to evaluate in.
 
-This function returns a "transaction identifier" that is used to reference the evaluation in subsequent function calls. After the evaluation process has begun, pass the transaction identifier to the [`check_status_evaluate()`](https://ediorg.github.io/EDIutils/reference/check_status_evaluate.html) function to determine if evaluation has completed.
+This function returns a "transaction identifier" that is used to reference the evaluation in subsequent function calls. After the evaluation process has begun, pass the transaction identifier to the [`check_status_evaluate()`](https://docs.ropensci.org/EDIutils/reference/check_status_evaluate.html) function to determine if evaluation has completed.
 
 ### Viewing the evaluation report summary
 
-Pass the transaction identifier to the [`read_evaluate_report_summary()`](https://ediorg.github.io/EDIutils/reference/read_evaluate_report_summary.html) function to view the evaluation report summary as plain text.
+Pass the transaction identifier to the [`read_evaluate_report_summary()`](https://docs.ropensci.org/EDIutils/reference/read_evaluate_report_summary.html) function to view the evaluation report summary as plain text.
 
 ### Viewing the evaluation report
 
-Pass the transaction identifier to the [`read_evaluate_report()`](https://ediorg.github.io/EDIutils/reference/read_evaluate_report.html) function, which returns raw XML by default, but will return HTML or text by specifying the `as` parameter.
+Pass the transaction identifier to the [`read_evaluate_report()`](https://docs.ropensci.org/EDIutils/reference/read_evaluate_report.html) function, which returns raw XML by default, but will return HTML or text by specifying the `as` parameter.
 
 For a language-agnostic solution, see the REST API documentation for [Evaluate Data Package](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#evaluate-data-package), [Read Data Package Error](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#read-data-package-error), and [Read Evaluate Report](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#read-evaluate-report-1).
 
@@ -78,7 +78,7 @@ Any evaluation check that results in a warning or error status should be resolve
 
 ## Interpreting the evaluation report summary
 
-The evaluation report summary is displayed as part of the evaluation process via the EDI Data Portal or can be generated from the EDIutils [`read_evaluate_report_summary()`](https://ediorg.github.io/EDIutils/reference/read_evaluate_report_summary.html) function.
+The evaluation report summary is displayed as part of the evaluation process via the EDI Data Portal or can be generated from the EDIutils [`read_evaluate_report_summary()`](https://docs.ropensci.org/EDIutils/reference/read_evaluate_report_summary.html) function.
 
 ### Purpose
 

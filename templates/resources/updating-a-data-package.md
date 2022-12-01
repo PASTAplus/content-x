@@ -67,7 +67,7 @@ For more information on this option, watch [this video](https://youtu.be/AS6-m17
 
 ### EDIutils
 
-An updated data package can be uploaded via the [EDIutils](https://ediorg.github.io/EDIutils/) R package using the [`update_data_package()`](https://ediorg.github.io/EDIutils/reference/update_data_package.html) function. For updating with this function, all data files must be web-hosted and be associated with [static data links](/templates/resources/uploading-with-static-data-links.md). When using this function, the `useChecksum` option can be selected.
+An updated data package can be uploaded via the [EDIutils](https://docs.ropensci.org/EDIutils/index.html) R package using the [`update_data_package()`](https://docs.ropensci.org/EDIutils/reference/update_data_package.html) function. For updating with this function, all data files must be web-hosted and be associated with [static data links](/templates/resources/uploading-with-static-data-links.md). When using this function, the `useChecksum` option can be selected.
 
 Set the `useChecksum` argument to TRUE if any of the data objects are unchanged between versions. This allows the EDI Data Repository to forgo reuploading replicate data and can save time and repository space. _Caution: take care to ensure that metadata-documented checksum values are accurate and up to date._
 

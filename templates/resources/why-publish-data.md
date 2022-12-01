@@ -20,7 +20,7 @@ Journals are increasingly requiring submission of supporting data with article p
 >* [Package Tracker](https://dashboard.edirepository.org/dashboard/reports/package_tracker) - List and plot downloads of a published data package.
 >* [Site Report](https://dashboard.edirepository.org/dashboard/reports/site_report) - List references to all data packages published by a research site. Currently only available to LTER sites.
 >* [Upload Report](https://dashboard.edirepository.org/dashboard/reports/upload_report) - List references to all data packages published by a research site within a specified time frame. Currently only available to LTER sites.
->* [Retrieve Citation Metrics](https://ediorg.github.io/EDIutils/articles/retrieve_citations.html) - Get journal citations referencing a data publication.
+>* [Retrieve Citation Metrics](https://docs.ropensci.org/EDIutils/articles/retrieve_citations.html) - Get journal citations referencing a data publication.
 
 ## Improve data management
 
@@ -37,7 +37,7 @@ Without data, science is just philosophy. Many theories require data beyond the 
 
 >EDI tools enable reuse:
 >* Code Generation - Read data into common computational languages (e.g. R, Python, MatLab). This service is available on data package landing pages under the "Code Generation" section.
->* [EDIutils](https://ediorg.github.io/EDIutils/index.html) - An R package for accessing data in the EDI repository.
+>* [EDIutils](https://docs.ropensci.org/EDIutils/index.html) - An R package for accessing data in the EDI repository.
 
 
 ## References

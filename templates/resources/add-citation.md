@@ -59,6 +59,6 @@ Journal citations can be added to data packages manually from the [EDI Data Port
 
 ### EDIutils
 
-Journal citations can be added to data packages programmatically with the [EDIutils R package](https://ediorg.github.io/EDIutils/). Provide the required and optional citation information as arguments to the [`create_journal_citation()`](https://ediorg.github.io/EDIutils/reference/create_journal_citation.html) function.
+Journal citations can be added to data packages programmatically with the [EDIutils R package](https://docs.ropensci.org/EDIutils/index.html). Provide the required and optional citation information as arguments to the [`create_journal_citation()`](https://docs.ropensci.org/EDIutils/reference/create_journal_citation.html) function.
 
 For a language-agnostic solution, see the REST API documentation for [Create Journal Citation](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#create-journal-citation).

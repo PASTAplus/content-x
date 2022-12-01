@@ -68,27 +68,27 @@ Navigate to the **Evaluate/Upload Data Packages**
 
 ## EDIutils
 
-Publishing with the [EDIutils](https://ediorg.github.io/EDIutils/index.html) R package allows each step of the process to be executed from an R environment. For a language-agnostic solution, see the REST API documentation for [Create Reservation](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#create-reservation), [Evaluate Data Package](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#evaluate-data-package), and [Create Data Package](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#create-data-package).
+Publishing with the [EDIutils](https://docs.ropensci.org/EDIutils/index.html) R package allows each step of the process to be executed from an R environment. For a language-agnostic solution, see the REST API documentation for [Create Reservation](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#create-reservation), [Evaluate Data Package](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#evaluate-data-package), and [Create Data Package](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#create-data-package).
 
 >To publish with EDIutils all data objects must be associated with [static data links](/templates/resources/uploading-with-static-data-links.md).
 
 ### Login
 
-Use the [`login()`](https://ediorg.github.io/EDIutils/reference/login.html) function with EDI account credentials.
+Use the [`login()`](https://docs.ropensci.org/EDIutils/reference/login.html) function with EDI account credentials.
 
 
 ### Reserving a data package identifier
 
-Use the [`create_reservation()`](https://ediorg.github.io/EDIutils/reference/create_reservation.html) function to reserve the next available identifier in the specified scope and repository environment.
+Use the [`create_reservation()`](https://docs.ropensci.org/EDIutils/reference/create_reservation.html) function to reserve the next available identifier in the specified scope and repository environment.
 
 
 ### Evaluating the data package
 
-Use the [`evaluate_data_package()`](https://ediorg.github.io/EDIutils/reference/evaluate_data_package.html) function to begin the evaluation process. See [evaluating a data package](/templates/resources/evaluating-a-data-package.md#evaluating-the-data-package) for details.
+Use the [`evaluate_data_package()`](https://docs.ropensci.org/EDIutils/reference/evaluate_data_package.html) function to begin the evaluation process. See [evaluating a data package](/templates/resources/evaluating-a-data-package.md#evaluating-the-data-package) for details.
 
 
 ### Publishing the data package
 
-Use the [`create_data_package()`](https://ediorg.github.io/EDIutils/reference/create_data_package.html) function to publish the data package in the EDI Data Repository.
+Use the [`create_data_package()`](https://docs.ropensci.org/EDIutils/reference/create_data_package.html) function to publish the data package in the EDI Data Repository.
 
-This function returns a "transaction identifier" which can be passed to [`check_status_create()`](https://ediorg.github.io/EDIutils/reference/check_status_create.html) to determine the status of the publication.
+This function returns a "transaction identifier" which can be passed to [`check_status_create()`](https://docs.ropensci.org/EDIutils/reference/check_status_create.html) to determine the status of the publication.

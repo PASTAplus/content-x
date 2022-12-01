@@ -48,9 +48,9 @@ See [Editing EML](/templates/resources/creating-metadata-for-publication.md#edit
 
 ### EDIutils
 
-To create provenance metadata from the [EDIutils](https://ediorg.github.io/EDIutils/) R Package:
+To create provenance metadata from the [EDIutils](https://docs.ropensci.org/EDIutils/index.html) R Package:
 
-1. Run the [`get_provenance_metadata()`](https://ediorg.github.io/EDIutils/reference/get_provenance_metadata.html) function with the corresponding source [data package identifier](/templates/resources/the-data-package.md#data-package-identifier).
+1. Run the [`get_provenance_metadata()`](https://docs.ropensci.org/EDIutils/reference/get_provenance_metadata.html) function with the corresponding source [data package identifier](/templates/resources/the-data-package.md#data-package-identifier).
 2. Add the returned &lt;methodStep> element into an EML R object of a derived data package or write it to file for other use cases.
 
 For a language-agnostic solution, see the REST API documentation for [Get Provenance Metadata](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#get-provenance-metadata).

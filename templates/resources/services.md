@@ -42,7 +42,7 @@ Original data varies greatly in terms of format and structure, thereby making da
 
 ## Workflow automation
 
-Automating workflows have a larger impact with less effort. Our repository [REST API](/templates/resources/rest-api.md), [EDIutils R package](https://ediorg.github.io/EDIutils/), and [data download scripts](/templates/resources/accessing-data.md#data-download-scripts) provides programmatic access to data and services for automation of common data curation tasks, reporting to stakeholders, and enables automation of fully open and reproducible science analysis workflows.
+Automating workflows have a larger impact with less effort. Our repository [REST API](/templates/resources/rest-api.md), [EDIutils R package](https://docs.ropensci.org/EDIutils/index.html), and [data download scripts](/templates/resources/accessing-data.md#data-download-scripts) provides programmatic access to data and services for automation of common data curation tasks, reporting to stakeholders, and enables automation of fully open and reproducible science analysis workflows.
 
 ## Training & skill building
 

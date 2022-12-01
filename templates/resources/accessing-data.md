@@ -30,13 +30,13 @@ Data download scripts, read data directly from the EDI Repository into common pr
 
 ## EDIutils
 
-The [EDIutils R package](https://ediorg.github.io/EDIutils/) allows data to be read directly from the EDI Repository into the R environment. This option serves a similar use case as the data download scripts but provides full access to the [REST API](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/about.html), which is useful when constructing automated workflows.
+The [EDIutils R package](https://docs.ropensci.org/EDIutils/index.html) allows data to be read directly from the EDI Repository into the R environment. This option serves a similar use case as the data download scripts but provides full access to the [REST API](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/about.html), which is useful when constructing automated workflows.
 
-1. Download the metadata of a data package using the [`read_metadata()`](https://ediorg.github.io/EDIutils/reference/read_metadata.html) function.
-2. Download individual resources from a data package using the [`read_data_entity()`](https://ediorg.github.io/EDIutils/reference/read_data_entity.html) function.
-3. Download an entire data package as a zip archive using the [`create_data_package_archive()`](https://ediorg.github.io/EDIutils/reference/create_data_package_archive.html) and [`read_data_package_archive()`](https://ediorg.github.io/EDIutils/reference/read_data_package_archive.html) functions.
+1. Download the metadata of a data package using the [`read_metadata()`](https://docs.ropensci.org/EDIutils/reference/read_metadata.html) function.
+2. Download individual resources from a data package using the [`read_data_entity()`](https://docs.ropensci.org/EDIutils/reference/read_data_entity.html) function.
+3. Download an entire data package as a zip archive using the [`create_data_package_archive()`](https://docs.ropensci.org/EDIutils/reference/create_data_package_archive.html) functions.
 
-See the [Search and Access Data vignette](https://ediorg.github.io/EDIutils/articles/search_and_access.html) for examples.
+See the [Search and Access Data vignette](https://docs.ropensci.org/EDIutils/articles/search_and_access.html) for examples.
 
 For a language-agnostic solution, see the REST API documentation on [Read Metadata](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#read-metadata), [Read Data Entity](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#read-data-entity), [Create Data Package Archive](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#create-data-package-archive), and [Read Data Package Archive](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html#read-data-package-archive-1).
 

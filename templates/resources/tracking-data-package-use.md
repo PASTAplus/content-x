@@ -20,6 +20,6 @@ Each data package [landing page](/templates/resources/data-package-pages.md) pro
 
 ## EDIutils
 
-Using the functions provided by the [EDIutils](https://ediorg.github.io/EDIutils/) R Package, it is possible to easily retrieve download and citation metrics for a data package. These processes have been detailed in [Retrieve Download Metrics](https://ediorg.github.io/EDIutils/articles/retrieve_downloads.html) and [Retrieve Citation Metrics](https://ediorg.github.io/EDIutils/articles/retrieve_citations.html) vignettes that accompany the package.
+Using the functions provided by the [EDIutils](https://docs.ropensci.org/EDIutils/index.html) R Package, it is possible to easily retrieve download and citation metrics for a data package. These processes have been detailed in [Retrieve Download Metrics](https://docs.ropensci.org/EDIutils/articles/retrieve_downloads.html) and [Retrieve Citation Metrics](https://ediorg.github.io/EDIutils/articles/retrieve_citations.html) vignettes that accompany the package.
 
 For a language agnostic solution follow a similar process using the [REST API](https://pastaplus-core.readthedocs.io/en/latest/doc_tree/about.html) documentation.
