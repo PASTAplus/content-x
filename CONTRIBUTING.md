@@ -46,6 +46,7 @@ Content is organized into stand alone pages cross referencing each other. This m
     * Hyperlinked text to the target URL
     * The wikipedia reference format (i.e. The item being referenced is super scripted in square brackets<sup>[1]</sup> and the citation is listed in a "References" section at the bottom of the page).
 
+  > Note, any instance of the string '.md' (as in the markdown file extension) will be removed in the web-x build process. To preserve '.md' please use '%2Emd' instead. [See here](https://github.com/PASTAplus/web-x/issues/45#issuecomment-1340255892) for more details. 
 
 ## Images
 
