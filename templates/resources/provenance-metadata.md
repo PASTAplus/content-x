@@ -14,12 +14,16 @@ Provenance metadata for data sources both internal and external to the EDI Data 
 
 To create provenance metadata using [ezEML](https://ezeml.edirepository.org/eml/):
 
-1. From the **Methods** tab, click the **Add Method Step** button. 
-2. In the **Data Sources** textbox, enter as much information about the source dataset(s) as possible. At minimum, provide the DOI or a URL linking to the data source. The name and email for the data creator and contact are valuable information that should be provided, if available.
-3. Click **Save and Continue**
+1. From the **Methods** tab, click the **Add Method Step** button, and either: 
+   1. _For datasets not published in the EDI Data Repository_ - In the **Data Sources** textbox, enter a data source title and click **Add Data Source**. Fill out as much information about the source dataset as possible.
+   2. _For datasets in the EDI Data Repository_ - In the **Data Sources** textbox click **Fetch Data Source Info from EDI**. Navigate to the dataset of interest and click on it. ezEML will automatically gather the metadata for the specified dataset.
+2. Click **Save and Continue**
 
->Provenance metadata submitted via ezEML is converted by data curators to the EML formatted provenance &lt;methodStep> before publishing in the EDI Data Repository. Data curators processing an ezEML submission should see the EDI Data Portal section below for an example of the EML provenance format.
-
+<div class="p-2">
+  <div class="w-50 ratio ratio-16x9">
+      <iframe src="https://youtube.com/embed/LkCA_qgDwhc" title="YouTube video" allowfullscreen=""></iframe>
+  </div>
+</div>
 
 ### EMLassemblyline
 
