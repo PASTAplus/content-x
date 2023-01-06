@@ -12,6 +12,8 @@ Data packages in the EDI Data Repository are findable by the EDI, DataONE, and G
 
 Analysis ready data, from EDI [Thematic Standardization](/templates/resources/thematic-standardization.md) projects, can be discovered in the EDI Search Engine and the supporting R packages.
 
+Another way to find data of interest is through browsing articles that cite EDI data packages. For a list of articles, see [EDI Data Package Citations](/templates/resources/edi-data-citations.md). 
+
 
 ## Understanding data
 
