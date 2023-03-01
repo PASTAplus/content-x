@@ -2,13 +2,12 @@
 
 ### _With heavy hearts, we have decided to discontinue the EDI fellowship program. However, the future is bright, and we look forward to alternative approaches of supporting information management and data science in the community. Please subscribe to our newsletter for opportunities._
 
-<div class="figure_featured" style="width: 40%; margin-right: 2em;">
-<figure style="float: right; margin: 3em 1em 1em 4em;">
-<img alt="EDI Fellows 2019" src="/static/images/edi-fellows-2019.jpg"/>
-<figcaption class="figure-caption">Fellows and EDI team members at the data publishing workshop at UNM in June 2019</figcaption>
-</figure>
+<div class="figure_featured" style="width: 25%;">
+  <figure>
+    <img src="/static/images/edi-fellows-2019.jpg" alt="EDI Fellows 2019"/>
+    <figcaption class="figure-caption">Fellows and EDI team members at the data publishing workshop at UNM in June 2019</figcaption>
+  </figure>
 </div>
-<br>
 
 ## Overview
 
