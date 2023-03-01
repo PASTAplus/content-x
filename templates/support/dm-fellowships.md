@@ -1,5 +1,6 @@
 # EDI Data Management Fellowship Program
 
+### _With heavy hearts, we have decided to discontinue the EDI fellowship program. However, the future is bright, and we look forward to alternative approaches of supporting information management and data science in the community. Please subscribe to our newsletter for opportunities._
 
 <div class="figure_featured" style="width: 40%; margin-right: 2em;">
 <figure style="float: right; margin: 3em 1em 1em 4em;">
@@ -8,8 +9,6 @@
 </figure>
 </div>
 <br>
-
-Please contact us with any questions regarding our fellowship program at info@edirepository.org
 
 ## Overview
 
