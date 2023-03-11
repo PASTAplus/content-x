@@ -70,6 +70,8 @@ Content is organized into stand alone pages cross referencing each other. This m
 
    2. Figures with captions - Example:
    
+   > Note: This type will be deprecated in favor of option 3 below, which allows the reader to click on the image to get a full sized resolution, which can help with image viewing when they are small.
+
    ```
    <div class="figure_featured" style="width: 25%;">
      <figure>
@@ -89,7 +91,39 @@ Content is organized into stand alone pages cross referencing each other. This m
    > </div>
    > ```
 
-   3. All other image types - Example:
+   3. Figures with captions that enlarge on mouse click - Example:
+   ```
+   <div class="figure_featured" style="width: 75%;">
+      <figure>
+        <a href="/static/images/featured_data/aquatic-microcosm.png">
+          <img src="/static/images/featured_data/aquatic-microcosm.png" alt="aquatic microcosm"/>
+        </a>
+        <figcaption class="figure-caption">Fig. 1: Principal components of a Standardized Aquatic Microcosm ...</figcaption>
+      </figure>
+    </div>
+   ```
+   
+   4. Gallery of images for when a group of images belong together - Example:
+   ```
+   <div>
+     <div class="gallery">
+       <a href="/static/images/featured_data/msp_garden_plots.png">
+         <img src="/static/images/featured_data/msp_garden_plots.png" alt="This is the image alternate title">
+       </a>
+       <a href="/static/images/featured_data/msp_lysimeter_sampling.jpg">
+         <img id="pickme" src="/static/images/featured_data/msp_lysimeter_sampling.jpg" alt="Image 2">
+       </a>
+       <a href="/static/images/featured_data/msp_weighing_cabbage.png">
+         <img src="/static/images/featured_data/msp_weighing_cabbage.png" alt="Image 3">
+       </a>
+     </div>
+     <div>
+       <p class="figure-caption" style="color: #6c757d">Scenes from the garden plots at the MSP experimental community garden: 1.) Site plots; 2.) Lysimeter sampling; 3.) Measuring harvest wet mass.</p>
+     </div>
+   </div>
+   ```
+   
+   5. All other image types - Example:
 
    `<img src="/static/images/metadata-in-the-research-life-cycle.png" alt="Creating metadata in the research life cycle" width="55%">`
 
