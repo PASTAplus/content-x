@@ -178,41 +178,62 @@ ADD CONTENT HERE
 ## Create a Featured Data article
 
 To create a new featured data article:
-1. Copy the template below and paste into a new file in the `/templates/featured` directory.
-2. The file name should follow `featured-YYYYMMDD.XX.md`, where `YYYYMMDD` is the date the article was created, `XX` is the news article created on that date (use `00` if only one article was published on that day).
-3. Update the TITLE, DATE, AUTHOR, and CONTENT placeholders.
-4. Images should be added to the `/static/images/featured_data` directory and referenced from there.
-5. Commit changes and push to the content-x GitHub.
-6. Notify the website team that new content has been added and they will integrate your work into the website.
+1. Create a markdown file for the new featured data article in the `/templates/featured` directory. Name it following the pattern `featured-ID.md` where `ID` uniquely identifies the article.
+2. Copy the template below and paste into the new file.
+3. Update the `TITLE`, `DATE`, `AUTHOR`, `CITATION`, and `CONTENT` placeholders. Note, the final date of publication will be added later. Do not add a date here or else the article will be listed in the featured data article index.
+4. Compress article images using a service like [tinypng.com](https://tinypng.com/). Add images to the `/static/images/featured_data` directory and reference from within display type HTML blocks (`gallery` and/or `figure_featured`; see below). Replicate these HTML blocks as needed.
+5. Commit changes to the development branch and push to the content-x GitHub. Notify the website team that new content has been added, they will integrate your work into the development side of the web-x server (i.e. web-d) and will send you a link to the article proof. Note, the article will only be referencable from the link since it is unattached to other website pages. This keeps the WIP hidden from public view. 
+6. Send the article author a proof for review and comment. Apply any requested changes and repeat step 5 above.
+7. When ready to publish, update the file name to follow the pattern `featured-YYYYMMDD.XX.md`, where `YYYYMMDD` is the date the article was created, `XX` is the news article created on that date (use `00` if only one article was published on that day). Repeat step 5 above.
+8. Notify article authors of the publication.
 
 ```
 # Featured Data
 
-## ADD TITLE HERE
+## TITLE
 
-ADD DATE HERE (e.g. March 1, 2021)
+DATE (e.g. March 1, 2021)
 
-ADD ARTICLE AUTHOR HERE
+AUTHOR
 
 ### Citation
 
-ADD CITATION HERE
+CITATION
 
 ### Description
 
-ADD CONTENT HERE
+CONTENT
 
 <!-- Images used in articles follow the HTML format below. Adjust the "width" parameter to resize. 
 Identify the primary image to use with the featured data display on web-x home page and on the featured 
-data grid page by adding an id="pickme" parameter to the HTML, if not specified, the first image of the 
-page will be used.-->
+data grid page by adding an id="pickme" parameter to the HTML, if not specified, the first image of the page will be used. Note, there are two ways to display images.-->
 
-<div class="figure_featured" style="width: 25%;">
-    <figure>
-       <img id="pickme" src="/static/images/featured_data/MYIMAGE.png" alt="ADD DESCRIPTION OF IMAGE"/>
-       <figcaption class="figure-caption">ADD CAPTION HERE</figcaption>
-    </figure>
+<div class="figure_featured" style="width: 75%;">
+   <figure>
+     <a href="/static/images/featured_data/FILE.EXT">
+       <img src="/static/images/featured_data/FILE.EXT" alt="ADD DESCRIPTION OF IMAGE"/>
+     </a>
+     <figcaption class="figure-caption">ADD CAPTION HERE</figcaption>
+   </figure>
 </div>
+
+<div>
+  <div class="gallery">
+    <a href="/static/images/featured_data/IMAGE.EXT">
+      <img src="/static/images/featured_data/IMAGE.EXT" alt="ADD DESCRIPTION OF IMAGE">
+    </a>
+    <a href="/static/images/featured_data/IMAGE.EXT">
+      <img src="/static/images/featured_data/IMAGE.EXT" alt="ADD DESCRIPTION OF IMAGE">
+    </a>
+    <a href="/static/images/featured_data/IMAGE.EXT">
+      <img src="/static/images/featured_data/IMAGE.EXT" alt="ADD DESCRIPTION OF IMAGE">
+    </a>
+  </div>
+  <div>
+    <p class="figure-caption" style="color: #6c757d">ADD CAPTION HERE FOR ALL IMAGES REFERENCED ABOVE</p>
+  </div>
+</div>
+
 
 #### Data sources for the database include
 
