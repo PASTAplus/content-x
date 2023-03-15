@@ -107,14 +107,14 @@ Content is organized into stand alone pages cross referencing each other. This m
    ```
    <div>
      <div class="gallery">
-       <a href="/static/images/featured_data/msp_garden_plots.png">
-         <img src="/static/images/featured_data/msp_garden_plots.png" alt="This is the image alternate title">
+       <a href="/static/images/featured_data/aquatic-microcosm.png">
+         <img src="/static/images/featured_data/aquatic-microcosm.png" alt="This is the image alternate title">
        </a>
-       <a href="/static/images/featured_data/msp_lysimeter_sampling.jpg">
-         <img id="pickme" src="/static/images/featured_data/msp_lysimeter_sampling.jpg" alt="Image 2">
+       <a href="/static/images/featured_data/aquatic-microcosm.png">
+         <img id="pickme" src="/static/images/featured_data/aquatic-microcosm.png" alt="Image 2">
        </a>
-       <a href="/static/images/featured_data/msp_weighing_cabbage.png">
-         <img src="/static/images/featured_data/msp_weighing_cabbage.png" alt="Image 3">
+       <a href="/static/images/featured_data/aquatic-microcosm.png">
+         <img src="/static/images/featured_data/aquatic-microcosm.png" alt="Image 3">
        </a>
      </div>
      <div>
