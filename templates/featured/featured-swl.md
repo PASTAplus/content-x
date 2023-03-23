@@ -2,13 +2,13 @@
 
 ## NEON soil inorganic nitrogen measurements 2017-2020, derived data and code for Earth's Future manuscript
 
-July XX, 2023
+June XX, 2023
 
 EDI
 
 ### Citation
 
-Weintraub-Leff, S.R., S.J. Hall, and M. Craig. 2023. NEON soil inorganic nitrogen measurements 2017-2020, derived data and code for Earth's Future manuscript ver 2. Environmental Data Initiative. https://doi.org/10.6073/pasta/ec9e2e7c1fa40f2b61c2e930bd5a4ad1 (Accessed 2023-03-22).
+Weintraub-Leff, S.R., S.J. Hall, and M. Craig. 2023. NEON soil inorganic nitrogen measurements 2017-2020, derived data and code for Earth's Future manuscript ver 2. Environmental Data Initiative. [https://doi.org/10.6073/pasta/ec9e2e7c1fa40f2b61c2e930bd5a4ad1](https://doi.org/10.6073/pasta/ec9e2e7c1fa40f2b61c2e930bd5a4ad1) (Accessed 2023-03-22).
 
 ### Description
 
