@@ -2,7 +2,7 @@
 
 ## Influence of soil amendment and crop species on nutrient cycling in a St. Paul urban garden
 
-March XX, 2023
+April XX, 2023
 
 EDI
 
@@ -16,33 +16,21 @@ Urban agriculture is expanding globally and can recycle food waste nutrients. Ho
 
 The project collected data from urban farms and community gardens and analyzed nutrient budgets and soil and leachate nutrient levels. Additionally, the research conducted a controlled experiment on compost type and application rate and simulated rainfall intensity. One of the studies aims was to estimate cumulative nutrient fluxes from urban agriculture at a city scale and provided research opportunities for undergraduate students and high school interns.
 
-Below are some scenes from the experiment conducted between 2017-2021 at the University of St. Thomas research garden (Saint Paul, MN) to determine rates of nutrient recycling and loss from compost applied to urban gardens. 
-
-<div class="figure_featured" style="width: 75%;">
-   <figure>
-     <a href="/static/images/featured_data/msp-1.png">
-       <img src="/static/images/featured_data/msp-1.png" alt="Experimental garden plots."/>
-     </a>
-     <figcaption class="figure-caption">Thirty-two 4 square-meter study plots received one of six different soil amendment treatments, with four different crops growing on each plot.</figcaption>
-   </figure>
-</div>
-
-<div class="figure_featured" style="width: 55%;">
-   <figure>
-     <a href="/static/images/featured_data/msp-2.png">
-       <img src="/static/images/featured_data/msp-2.png" alt="Measuring nutrient leachate with lysimeters."/>
-     </a>
-     <figcaption class="figure-caption">Leachate was collected from lysimeters installed in each of the 132 subplots weekly from June-October of each year.</figcaption>
-   </figure>
-</div>
-
-<div class="figure_featured" style="width: 45%;">
-   <figure>
-     <a href="/static/images/featured_data/msp-3.png">
-       <img src="/static/images/featured_data/msp-3.png" alt="Measuring cabbage wet mass."/>
-     </a>
-     <figcaption class="figure-caption">Measuring annual crop harvest total wet mass from each subplot.</figcaption>
-   </figure>
+<div>
+  <div class="gallery">
+    <a href="/static/images/featured_data/msp-1.png">
+      <img src="/static/images/featured_data/msp-1.png" alt="Measuring nutrient leachate with lysimeters.">
+    </a>
+    <a href="/static/images/featured_data/msp-2.png">
+      <img src="/static/images/featured_data/msp-2.png" alt="Measuring nutrient leachate with lysimeters.">
+    </a>
+    <a href="/static/images/featured_data/msp-3.png">
+      <img src="/static/images/featured_data/msp-3.png" alt="Measuring cabbage wet mass.">
+    </a>
+  </div>
+  <div>
+    <p class="figure-caption" style="color: #6c757d">Scenes from the experiment conducted between 2017-2021 at the University of St. Thomas research garden (Saint Paul, MN) to determine rates of nutrient recycling and loss from compost applied to urban gardens: 1.) Thirty-two 4 square-meter study plots received one of six different soil amendment treatments, with four different crops growing on each plot; 2.) Leachate was collected from lysimeters installed in each of the 132 subplots weekly from June-October of each year; 3.) Measuring annual crop harvest total wet mass from each subplot.</p>
+  </div>
 </div>
 
 ### [All featured data contributions](/templates/featured/featured-grid)
