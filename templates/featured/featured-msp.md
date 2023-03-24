@@ -12,9 +12,9 @@ Small, G.E. and P. Shrestha. 2023. Influence of soil amendment and crop species 
 
 ### Description
 
-Urban agriculture is expanding globally and can recycle food waste nutrients. However, imbalanced compost application can cause nutrient losses and pollution. This dataset is a part of a larger study investigating nutrient dynamics in urban agriculture and quantifying its impact on the ecosystem in Minnesota. 
+Urban agriculture is expanding globally and can recycle nutrients from food waste back into the human food system. However, imbalanced compost application can cause nutrient losses and pollution. This dataset is a part of a larger study investigating nutrient dynamics in urban agriculture and quantifying its impact on the Minneapolis-Saint Paul urban ecosystem. This study has provided research opportunities for more than 60 undergraduate students and high school interns.
 
-The project collected data from urban farms and community gardens and analyzed nutrient budgets and soil and leachate nutrient levels. Additionally, the research conducted a controlled experiment on compost type and application rate and simulated rainfall intensity. One of the studies aims was to estimate cumulative nutrient fluxes from urban agriculture at a city scale and provided research opportunities for undergraduate students and high school interns.
+Data archived here are from a 6-year experiment in which replicated garden plots receive annual inputs of different types and amounts of compost, and fluxes of water and nutrients were quantified.
 
 <div>
   <div class="gallery">
@@ -29,7 +29,7 @@ The project collected data from urban farms and community gardens and analyzed n
     </a>
   </div>
   <div>
-    <p class="figure-caption" style="color: #6c757d">Scenes from the experiment conducted between 2017-2021 at the University of St. Thomas research garden (Saint Paul, MN) to determine rates of nutrient recycling and loss from compost applied to urban gardens: 1.) Thirty-two 4 square-meter study plots received one of six different soil amendment treatments, with four different crops growing on each plot; 2.) Leachate was collected from lysimeters installed in each of the 132 subplots weekly from June-October of each year; 3.) Measuring annual crop harvest total wet mass from each subplot.</p>
+    <p class="figure-caption" style="color: #6c757d">Scenes from the experiment conducted between 2017-2022 at the University of St. Thomas research garden (Saint Paul, MN) to determine rates of nutrient recycling and loss from compost applied to urban gardens: 1.) Thirty-two 4 square-meter study plots received one of six different soil amendment treatments, with four different crops growing on each plot; 2.) Leachate was collected from lysimeters installed in each of the 132 subplots weekly from June-October of each year; 3.) Measuring annual crop harvest total wet mass from each subplot.</p>
   </div>
 </div>
 
