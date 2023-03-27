@@ -2,7 +2,7 @@
 
 ## Influence of soil amendment and crop species on nutrient cycling in a St. Paul urban garden
 
-April XX, 2023
+March 28, 2023
 
 EDI
 
@@ -12,7 +12,7 @@ Small, G.E. and P. Shrestha. 2023. Influence of soil amendment and crop species 
 
 ### Description
 
-Urban agriculture is expanding globally and can recycle nutrients from food waste back into the human food system. However, imbalanced compost application can cause nutrient losses and pollution. This dataset is a part of a larger study investigating nutrient dynamics in urban agriculture and quantifying its impact on the Minneapolis-Saint Paul urban ecosystem. This study has provided research opportunities for more than 60 undergraduate students and high school interns.
+Urban agriculture is expanding globally and can recycle nutrients from food waste back into the human food system. However, imbalanced compost application can cause nutrient losses and pollution. This dataset is a part of a larger study investigating nutrient dynamics in urban agriculture and quantifying its impact on the Minneapolis-Saint Paul urban ecosystem ([NSF #1651361](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1651361&HistoricalAwards=false)). This study has provided research opportunities for more than 60 undergraduate students and high school interns.
 
 Data archived here are from a 6-year experiment in which replicated garden plots receive annual inputs of different types and amounts of compost, and fluxes of water and nutrients were quantified.
 
