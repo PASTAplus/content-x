@@ -33,4 +33,10 @@ Data archived here are from a 6-year experiment in which replicated garden plots
   </div>
 </div>
 
+### Journal Citations
+
+1. [Quantifying nutrient recovery efficiency and loss from compost-based urban agriculture](https://doi.org/10.1371/journal.pone.0230996).
+2. [Investigating potential hydrological ecosystem services in urban gardens through soil amendment experiments and hydrologic models](https://doi.org/10.1007/s11252-021-01191-7).
+3. [Urban Heat Island Mitigation Due to Enhanced Evapotransporation in an Urban Garden in Saint Paul, Minnesota, USA](https://doi.org/10.2495/UA200041).
+
 ### [All featured data contributions](/templates/featured/featured-grid)
