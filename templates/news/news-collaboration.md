@@ -2,7 +2,7 @@
 
 ## New ezEML Collaboration Features Allow Multiple Users to Edit the Same Data Package 
 
-[Date TBD]
+May 17, 2023
 
 Jon Ide
 
