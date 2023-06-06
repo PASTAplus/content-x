@@ -15,7 +15,7 @@ To check permissions on a current date a package:
 1. Go to the [full metadata page](/templates/resources/data-package-pages) of the data package.
 2. Click the **View EML as XML** button at the lower left-hand corner of the page.
 3. Search for the `<access>` element in the EML XML. 
-4. Each `<allow>` element nested within `<access>` represents a user and their associated permissions. In the example below, the users `EDI` and `sbashevkin` have permissions set to `all` (i.e. read and write) and the user `public` (i.e. the general public) has only read permission.
+4. Each `<allow>` element nested within `<access>` represents a user ID and the associated permissions. In the example below, the users `EDI` and `sbashevkin` have permissions set to `all` (i.e. read and write) and the user `public` (i.e. the general public) has only read permission.
  
     <img class="screen-shot" src="/static/images/eml-list-of-allow-3-users.png" width="70%">
 
@@ -27,21 +27,21 @@ To change permissions, the EML metadata will need to be modified using one of th
 
 1. Login to your ezEML account.
 2. [Fetch the data package from the EDI data repository](https://ezeml.edirepository.org/static/user_guide/fetch.pdf).
-3. Go to the Data Package ID page, and increment the version number by 1.
+3. Go to the Data Package ID page, and increment the data package [version number](/templates/resources/the-data-package#data-package-identifier) by 1.
 4. Download the EML file.
 5. Open the EML file in a text editor.
 6. Search for the `<access>` element.
-7. Each `<allow>` element nested within `<access>` represents a user and their associated permissions. In the example below, the users `EDI` and `sbashevkin` have permissions set to `all` (i.e. read and write) and the user `public` (i.e. the general public) has only read permission.
+7. Each `<allow>` element nested within `<access>` represents a user ID and the associated permissions. In the example below, the users `EDI` and `sbashevkin` have permissions set to `all` (i.e. read and write) and the user `public` (i.e. the general public) has only read permission.
  
     <img class="screen-shot" src="/static/images/eml-list-of-allow-3-users.png" width="70%">
    
-8. To add a new user `dbosworth` with `all` permissions, simply copy and paste an existing `<allow>` element and modify the uid to `dbosworth` and the permission to `all`. The revised `<access>` element should look like the following:
+8. To add a new user `dbosworth` with `all` permissions, simply copy and paste an existing `<allow>` element and modify the `uid` to `dbosworth` and the permission to `all`. The revised `<access>` element should look like the following:
  
     <img class="screen-shot" src="/static/images/eml-list-of-allow-4-users.png" width="70%">
    
 9. To remove a user, delete the `<allow>` element for that user.
 10. Save the file.
-11. Proceed to the [publishing](#publish-the-updates) section below.
+11. Proceed to the publishing section below.
 
 ### EMLassemblyline
 
