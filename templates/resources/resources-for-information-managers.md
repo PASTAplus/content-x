@@ -56,6 +56,10 @@ Deprecation enables data authors to discourage the continued use of a single dat
 
 Adding citations to data packages allows authors to measure the impact that their data publications are making and allows potential users to see the context in which the data have been previously applied. For more information see [Adding Journal Citations to a Data Package](/templates/resources/add-citation.md).
 
+## Permissions on a data package
+
+The permissions governing who can make changes to a data package are set in the access control rules of the EML metadata file of the most recent version of a data package. To change the permissions on a data package (add/remove users), the access control rules of the current EML metadata file must be edited and uploaded in a data package revision by one of the users in current list of access control rules. For more information see [Permissions on a Data Package](/templates/resources/access-control.md).
+
 
 ## The EDI Dashboard
 
