@@ -1,6 +1,6 @@
-# Changing Permissions on a Data Package
+# Permissions on a Data Package
 
-The permissions governing who can make changes to a data package are set in access control rules of the EML metadata file of the most recent data package version. To change the permissions, the current EML file must be edited as a revision to the data package and uploaded by one of the users in current list of access control rules.
+The permissions governing who can make changes to a data package are set in the access control rules of the EML metadata file of the most recent version of a data package. To change the permissions (add/remove users), the access control rules of the current EML must be edited and uploaded as a data package revision by one of the users in current list of access control rules.
 
 > Only EDI user accounts are allowed to upload directly to the repository. Google, GitHub, and ORCID accounts are not EDI user accounts. If you are not an EDI user, you will need to work with someone who is to upload the updated EML file.
 > 
@@ -19,6 +19,28 @@ To check permissions on a current date a package:
  
     <img class="screen-shot" src="/static/images/eml-list-of-allow-3-users.png" width="70%">
 
+### How to determine if a user is an EDI user?
+
+EDI users, who can upload directly to the data repository (i.e. bypassing the EDI Data Curation Team) can be identified by the structure of the value in the `<principal>` element. These values are structured as:
+
+```uid=[USER_NAME],o=EDI,dc=edirepository,dc=org```
+
+where `USER_NAME` is the EDI user ID. Anything else is not an EDI user. For example the following allow elements represent two non-EDI users:
+
+```
+<allow>
+   <principal>https://orcid.org/XXXX-XXXX-XXXX-XXXX</principal>
+   <permission>all</permission>
+</allow>
+
+<allow>
+   <principal>person@domain.edu</principal>
+   <permission>all</permission>
+</allow>
+```
+
+where the first principle is an [ORCID](https://orcid.org/) and a second is an email address. These types of principle values are added to an EML document by the ezEML metadata editor based on what credentials the user logged in with.
+
 ## Changing permissions
 
 To change permissions, the EML metadata will need to be modified using one of the following approaches:
@@ -27,7 +49,7 @@ To change permissions, the EML metadata will need to be modified using one of th
 
 1. Login to your ezEML account.
 2. [Fetch the data package from the EDI data repository](https://ezeml.edirepository.org/static/user_guide/fetch.pdf).
-3. Go to the Data Package ID page, and increment the data package [version number](/templates/resources/the-data-package#data-package-identifier) by 1.
+3. Go to the **Data Package ID** page, and increment the data package [version number](/templates/resources/the-data-package#data-package-identifier) by 1.
 4. Download the EML file.
 5. Open the EML file in a text editor.
 6. Search for the `<access>` element.
