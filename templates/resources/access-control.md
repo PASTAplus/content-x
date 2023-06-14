@@ -15,7 +15,7 @@ To check permissions on a current date a package:
 1. Go to the [full metadata page](/templates/resources/data-package-pages) of the data package.
 2. Click the **View EML as XML** button at the lower left-hand corner of the page.
 3. Search for the `<access>` element in the EML XML. 
-4. Each `<allow>` element nested within `<access>` represents a user ID and the associated permissions. In the example below, the users `EDI` and `sbashevkin` have permissions set to `all` (i.e. read and write) and the user `public` (i.e. the general public) has only read permission.
+4. Each `<allow>` element nested within `<access>` represents a user ID and the associated permissions. In the example below, the users `EDI` and `USER_1` have permissions set to `all` (i.e. read and write) and the user `public` (i.e. the general public) has only read permission.
  
     <img class="screen-shot" src="/static/images/eml-list-of-allow-3-users.png" width="70%">
 
@@ -31,11 +31,11 @@ To change permissions, the EML metadata will need to be modified using one of th
 4. Download the EML file.
 5. Open the EML file in a text editor.
 6. Search for the `<access>` element.
-7. Each `<allow>` element nested within `<access>` represents a user ID and the associated permissions. In the example below, the users `EDI` and `sbashevkin` have permissions set to `all` (i.e. read and write) and the user `public` (i.e. the general public) has only read permission.
+7. Each `<allow>` element nested within `<access>` represents a user ID and the associated permissions. In the example below, the users `EDI` and `USER_1` have permissions set to `all` (i.e. read and write) and the user `public` (i.e. the general public) has only read permission.
  
     <img class="screen-shot" src="/static/images/eml-list-of-allow-3-users.png" width="70%">
    
-8. To add a new user `dbosworth` with `all` permissions, simply copy and paste an existing `<allow>` element and modify the `uid` to `dbosworth` and the permission to `all`. The revised `<access>` element should look like the following:
+8. To add a new user `USER_2` with `all` permissions, simply copy and paste an existing `<allow>` element and modify the `uid` to `USER_2` and the permission to `all`. The revised `<access>` element should look like the following:
  
     <img class="screen-shot" src="/static/images/eml-list-of-allow-4-users.png" width="70%">
    
