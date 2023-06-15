@@ -17,22 +17,7 @@ To check the current permissions on a data package:
 3. Search for the `<access>` element in the EML XML. 
 4. Each `<allow>` element nested within `<access>` represents a user ID and the associated permissions. In the example below, the users `EDI` and `USER_1` have permissions set to `all` (i.e. read and write) and the user `public` (i.e. the general public) has only read permission.
  
-```
-  <access authSystem="https://pasta.edirepository.org/authentication" order="allowFirst" scope="document" system="https://pasta.edirepository.org">
-    <allow>
-      <principal>uid=EDI,o=EDI,dc=edirepository,dc=org</principal>
-      <permission>all</permission>
-    </allow>
-    <allow>
-      <principal>uid=USER_1,o=EDI,dc=edirepository,dc=org</principal>
-      <permission>all</permission>
-    </allow>
-    <allow>
-      <principal>public</principal>
-      <permission>read</permission>
-    </allow>
-  </access>
-```
+<img class="screen-shot" src="/static/images/eml-allow-list-3-users.png" width="65%">
 
 ### How to determine if a user is an EDI user?
 
@@ -42,17 +27,7 @@ EDI users, who can upload directly to the data repository can be identified by t
 
 where `USER_NAME` is the EDI user ID. Anything else is not an EDI user. For example the following allow elements represent two non-EDI users:
 
-```
-<allow>
-   <principal>https://orcid.org/XXXX-XXXX-XXXX-XXXX</principal>
-   <permission>all</permission>
-</allow>
-
-<allow>
-   <principal>person@domain.edu</principal>
-   <permission>all</permission>
-</allow>
-```
+<img class="screen-shot" src="/static/images/eml-allow-list-2-non-edi-users.png" width="65%">
 
 where the first principle is an [ORCID](https://orcid.org/) and a second is an email address. These types of principle values are added to an EML document by the ezEML metadata editor based on what credentials the user logged in with. _Note, even though the users in the example above have permissions set to `all`, they are not EDI users and cannot upload directly to the data repository._
 
@@ -70,45 +45,11 @@ To change permissions, the EML metadata will need to be modified using one of th
 6. Search for the `<access>` element.
 7. Each `<allow>` element nested within `<access>` represents a user ID and the associated permissions. In the example below, the users `EDI` and `USER_1` have permissions set to `all` (i.e. read and write) and the user `public` (i.e. the general public) has only read permission.
  
-```
-  <access authSystem="https://pasta.edirepository.org/authentication" order="allowFirst" scope="document" system="https://pasta.edirepository.org">
-    <allow>
-      <principal>uid=EDI,o=EDI,dc=edirepository,dc=org</principal>
-      <permission>all</permission>
-    </allow>
-    <allow>
-      <principal>uid=USER_1,o=EDI,dc=edirepository,dc=org</principal>
-      <permission>all</permission>
-    </allow>
-    <allow>
-      <principal>public</principal>
-      <permission>read</permission>
-    </allow>
-  </access>
-```
+<img class="screen-shot" src="/static/images/eml-allow-list-3-users.png" width="65%">
    
 8. To add a new user `USER_2` with `all` permissions, simply copy and paste an existing `<allow>` element and modify the `uid` to `USER_2` and the permission to `all`. The revised `<access>` element should look like the following:
  
-```
-  <access authSystem="https://pasta.edirepository.org/authentication" order="allowFirst" scope="document" system="https://pasta.edirepository.org">
-    <allow>
-      <principal>uid=EDI,o=EDI,dc=edirepository,dc=org</principal>
-      <permission>all</permission>
-    </allow>
-    <allow>
-      <principal>uid=USER_1,o=EDI,dc=edirepository,dc=org</principal>
-      <permission>all</permission>
-    </allow>
-    <allow>
-      <principal>uid=USER_2,o=EDI,dc=edirepository,dc=org</principal>
-      <permission>all</permission>
-    </allow>
-    <allow>
-      <principal>public</principal>
-      <permission>read</permission>
-    </allow>
-  </access>
-```
+<img class="screen-shot" src="/static/images/eml-allow-list-4-users.png" width="65%">
    
 9. To remove a user, delete the `<allow>` element for that user.
 10. Save the file.
