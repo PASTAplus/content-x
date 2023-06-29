@@ -14,6 +14,17 @@ The Environmental Data Initiative (EDI) provides key services and technical expe
 
 We provide support, training, and resources to help archive and publish high-quality data and metadata. We operate a secure data repository and work closely with other leaders in information management, like the [LTER Network Communications Office](https://lternet.edu/nco/) and [DataONE](https://www.dataone.org/), to promote data management best practices and stewardship. Our team consists of highly motivated and experienced data practitioners, software developers, and research scientists.
 
+## Certifications
+
+<div class="certification_row">
+    <div class="person_col">
+        EDI is certified as a Trustworthy Data Repository by the <a href="https://www.coretrustseal.org/">CoreTrustSeal</a> Standards and Certification Board. Member repositories comply with <a href="https://www.coretrustseal.org/why-certification/requirements/">rigorous requirements</a> related to organizational infrastructure, digital object management, curation and reusability, technology, security and sustained access. The assessment is designed to provide assurance to data producers, users and funding bodies. CoreTrustSeal is a community based non-profit administered by the <a href="https://www.rd-alliance.org/groups/coretrustseal-maintenance-wg">Research Data Alliance (RDA)</a> with review by expert, independent volunteers. See our CoreTrustSeal certification <a href="/static/files/core-trust-seal-2023-06-06-University-of-New-Mexico-Environmental-Data-Initiative_final.pdf">here</a>.
+    </div>
+    <div class="person_col">
+        <img alt="CoreTrustSeal logo" src="/static/images/coretrustseal-logo.png"/>
+    </div>
+</div>
+
 ## Funding
 
 This material is based upon work supported by the National Science Foundation under grants [#1931143](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931143&HistoricalAwards=false) and [#1931174](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931174&HistoricalAwards=false). Any opinions, findings, conclusions, or recommendations expressed in the material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
