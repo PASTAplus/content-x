@@ -10,8 +10,7 @@ Michael Vlah
 
 Vlah, M., S. Rhea, W. Slaughter, E. Bernhardt, N. Gubbins, A. DelVecchia, A. Thellman, and M.R. Ross. 2023. MacroSheds:
 a synthesis of long-term biogeochemical, hydroclimatic, and geospatial data from small watershed ecosystem studies
-ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/c8d6d29703f14735bf24cd8cebe91f24](https://doi.org/10.6073/pasta/c8d6d29703f14735bf24cd8cebe91f24)
-(Accessed 2023-09-03).
+ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/c8d6d29703f14735bf24cd8cebe91f24](https://doi.org/10.6073/pasta/c8d6d29703f14735bf24cd8cebe91f24).
 
 ### Description
 
