@@ -116,6 +116,44 @@ EDI records customer identity information, if available, within EDI's activity a
 
 EDI retains the aforementioned personal data within EDI's computational infrastructure for an indefinite period of time. Upon written request to support@edirepository.org and with proper identification, EDI will provide the requested with a report of all recorded instances of personal data in digital format and or remove all instances of personal data.
 
+## Language Internationalization Policy
+
+
+### Introduction
+
+At the Environmental Data Initiative, we are committed to advancing environmental research and facilitating global collaboration through our data repository. To ensure the broadest accessibility and usability of the data we curate, this policy outlines our approach to internationalizing language within the repository.
+
+
+### Base Language and Metadata
+
+Our recommended data curation practice entails publishing datasets within our repository accompanied by metadata written in U.S. English. By establishing a standardized language for metadata, we enhance the discoverability and accessibility of environmental data for users worldwide. While we accept data in any language, we do not have the resources to be fully multilingual. English as a base language enables efficient indexing while still allowing cross-lingual search (see below). 
+
+
+### Multilingual Access
+
+Full understanding of data requires accessibility in multiple languages. To bridge language barriers we recommend widely available translation tools, such as Google Chrome Translate (or an extension for your browser). Users seeking to interact with the repository in their preferred language can follow these steps:
+
+1. **Browser Settings:** Configure the browser to interpret content from English to the user's preferred language. This step ensures that the interface elements are displayed in the desired language.
+
+2. **Search Interface:** Access the repository's search interface while the browser is set to the preferred language. This will enable users to navigate the interface comfortably.
+
+3. **Translation of Queries:** Utilize a Google translation service to convert search queries from the user's preferred language into English. This step allows for effective communication with the repository's search engine.
+
+4. **Executing Searches:** Paste the translated English query into the repository's search engine and initiate the search. The results returned will be displayed in the user's preferred language.
+
+These practices empower researchers and stakeholders from anywhere in the world to access and engage with valuable data resources in their preferred languages.
+
+
+### Flexibility and Ongoing Improvement
+
+We acknowledge that language preferences and technology evolve over time. We also acknowledge that translation services don’t cover all languages and  remain open to refining our language internationalization approach to accommodate specific and/or changing user needs as well as advancements in language technology. As part of our commitment to excellence, we will continually assess the effectiveness of our practices, explore opportunities to further enhance language accessibility within the repository, and welcome user feedback.
+
+
+### Conclusion
+
+At the Environmental Data Initiative, our environmental data repository stands as a gateway to global environmental insights. By upholding our language internationalization policy, we ensure that language barriers do not hinder the exchange of knowledge and collaboration across borders. We invite all users to embrace these practices and contribute to our shared mission of addressing environmental challenges on a global scale.
+
+
 ## Code of conduct
 
 The Environmental Data Initiative (EDI) is an NSF funded project helping to accelerate the curation and archive of environmental data. We operate and maintain a reliable, registered, and certified trustworthy data repository for ecological research data. EDI provides training on the data archiving process as well as data management best practices through events such as webinars, workshops and fellowships as well as individual support by EDI's information managers.
