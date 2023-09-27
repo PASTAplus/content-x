@@ -20,6 +20,8 @@ This data package is an excellent example of using merging remote sensing,
 *in situ*, national-scale sampling campaigns, and discipline-specific
 expertise to expand the spatial and temporal scope of freshwater science.
 
+Recently, the LTS-US has been highlighted as a [U.S. Geological Survey Open Science Success Story](https://www.usgs.gov/special-topics/year-of-open-science/news/lake-trophic-state-us-dataset), an initiative stemming from the White House's Office of Science and Technology's declaration of 2023 as the [Year of Open Science](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/). In particular, the LTS-US dataset's highly detailed metadata and scripts in tandem with a completely reproducible compute environment earned the LTS-US dataset accolades among USGS data librarian and curation specialists. 
+
 The LTS-US dataset brings together over 35 years of Landsat surface
 reflectance data with the U.S. Environmental Protection Agency's National
 Lake Assessment's data to both construct and apply models that discriminate
