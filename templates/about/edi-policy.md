@@ -189,6 +189,8 @@ If you are the subject of unacceptable behavior or have witnessed any such behav
 
 Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to individual or public safety at any of the events organized by EDI is advised to contact venue security or local law enforcement.
 
+<hr style="width: 100%; height: 0.1em;">
 <div id="footnotes"></div>
-1. Access to science metadata and data must be granted explicitly within the data package metadata (access is denied by default). Data packages containing restricted data (i.e., not publicly accessible) will not be shared with DataONE. [[back]](#data-package-accessibility)
+1. Access to science metadata and data must be granted explicitly within the data package metadata (access is 
+denied by default). Data packages containing restricted data (i.e., not publicly accessible) will not be shared with DataONE. [[back]](#data-package-accessibility)
 2. The restriction of an entire data package (both metadata and data) should be arranged with EDI prior to submitting the data package to the data repository. Data packages that do not allow public access to both science metadata and data will not receive a Digital Object Identifier. [[back]](#data-package-accessibility)
