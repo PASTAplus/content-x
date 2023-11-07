@@ -147,6 +147,20 @@ Previous NSF funding was awarded through grants [#1565103](https://www.nsf.gov/a
         <img alt="Colin Smith" src="/static/images/colin.jpg"/>
     </div>
 </div>
+<div class="person_row">
+    <div class="person_col">
+        <b>Greg Maurer</b> supports EDI data curation, outreach, and training activities and 
+        promotes the re-use of EDI data. He also serves as an EDI liaison to the LTER Network 
+        and its Information Managers. Greg is based at New Mexico State University and can be 
+        reached at
+        <a href="mailto:gmaurer@nmsu.edu">
+            gmaurer@nmsu.edu
+        </a>.
+    </div>
+    <div class="person_col">
+        <img alt="Greg Maurer" src="/static/images/greg.jpg"/>
+    </div>
+</div>
 
 ## Advisory board
 
