@@ -12,7 +12,7 @@ _We preserve environmental data for open and reproducible science, to promote sy
 
 The Environmental Data Initiative (EDI) provides key services and technical expertise to the scientific community that ensure environmental and ecological data are well curated and accessible for discovery and re-use well into the future. We assist researchers from field stations, individual laboratories, and research projects of all sizes to archive and publish their environmental data. EDI is committed to make data Findable, Accessible, Interoperable, and Reusable ([FAIR](https://www.go-fair.org/fair-principles/)).
 
-We provide support, training, and resources to help archive and publish high-quality data and metadata. We operate a secure data repository and work closely with other leaders in information management, like the [LTER Network Communications Office](https://lternet.edu/nco/) and [DataONE](https://www.dataone.org/), to promote data management best practices and stewardship. Our team consists of highly motivated and experienced data practitioners, software developers, and research scientists.
+We provide support, training, and resources to help archive and publish high-quality data and metadata. We operate a secure data repository and work closely with other leaders in information management, like the [LTER Network Communications Office](https://lternet.edu/contact-us/) and [DataONE](https://www.dataone.org/), to promote data management best practices and stewardship. Our team consists of highly motivated and experienced data practitioners, software developers, and research scientists.
 
 ## Certifications
 
