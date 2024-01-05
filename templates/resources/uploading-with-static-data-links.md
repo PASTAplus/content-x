@@ -4,7 +4,7 @@ A static URL resolving to a data file can be inserted into the physical/distribu
 
 Any static download URLs that do not offer redirects can serve as the data source in an EML document. A locally managed web server or cloud hosting service are both viable options for generating these links. [Box Cloud Storage](https://www.box.com/) is an example cloud service that allows for generating links that do not offer any redirects and are static.
 
-<img src="/static/images/download-links.png" width="15%">
+<img src="/static/images/download-links.png" width="10%">
 
 > Is your data link static? Use the [Redirect Detective](https://redirectdetective.com/index.html) service to find out.
 
