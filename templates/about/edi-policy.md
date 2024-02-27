@@ -81,7 +81,7 @@ The following definitions are used throughout this Privacy Policy:
 
 **EDI workshop**. An organized and scheduled effort by EDI (or scientific partner) personnel to disseminate educational materials related to scientific data publication and archive to EDI customers.
 
-**Identity provider (IdP)**. A registered service that performs user identity verification and authentication. In some cases, an IdP may provide information (e.g., email address) about the user in addition to identity verification. 
+**Identity provider (IdP)**. A registered service that performs customer identity verification and authentication. In some cases, an IdP may provide information (e.g., email address) about the customer in addition to performing identity verification. 
 
 **PASTA+ software**. [The software](https://github.com/PASTAplus/PASTA) developed, maintained, and used by EDI to provide its data publication and archive service.
 
