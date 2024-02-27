@@ -59,7 +59,7 @@ _This data package is released to the "public domain" under [Creative Commons CC
 
 ## Privacy policy
 
-Version 1.0, Adopted 10 October 2019
+Version 2.0, Adopted 10 October 2019; Updated 27 February 2024
 
 The Environmental Data Initiative (herein EDI) publishes this Privacy Policy to inform you, our customers, of the collection, use, and disclosure ("Processing") of personal data by the EDI project, its computational infrastructure, and scientific partners during the operation of data publication and archive (collectively, our "services"). This Privacy Policy is effective 2 October 2019, and may be amended in the future.
 
