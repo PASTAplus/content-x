@@ -190,8 +190,8 @@ To create a news article:
 1. Copy the template below and paste into a new file in the `/templates/news` directory.
 2. The file name should follow `news-YYYYMMDD.XX.md`, where `YYYYMMDD` is the date the article was created, `XX` is the news article created on that date (use `00` if only one article was published on that day).
 3. Update the TITLE, DATE, AUTHOR, and CONTENT placeholders.
-4. Commit changes and push to the content-x GitHub.
-5. Notify the website team that new content has been added and they will integrate your work into the website.
+4. Submit a pull request, or push directly to the `development` branch.
+5. Notify the website team that new content has been added and they will finalize the upload.
 
 ```
 # News

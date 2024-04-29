@@ -12,7 +12,7 @@ _We preserve environmental data for open and reproducible science, to promote sy
 
 The Environmental Data Initiative (EDI) provides key services and technical expertise to the scientific community that ensure environmental and ecological data are well curated and accessible for discovery and re-use well into the future. We assist researchers from field stations, individual laboratories, and research projects of all sizes to archive and publish their environmental data. EDI is committed to make data Findable, Accessible, Interoperable, and Reusable ([FAIR](https://www.go-fair.org/fair-principles/)).
 
-We provide support, training, and resources to help archive and publish high-quality data and metadata. We operate a secure data repository and work closely with other leaders in information management, like the [LTER Network Communications Office](https://lternet.edu/nco/) and [DataONE](https://www.dataone.org/), to promote data management best practices and stewardship. Our team consists of highly motivated and experienced data practitioners, software developers, and research scientists.
+We provide support, training, and resources to help archive and publish high-quality data and metadata. We operate a secure data repository and work closely with other leaders in information management, like the [LTER Network Office](https://lternet.edu/contact-us/) and [DataONE](https://www.dataone.org/), to promote data management best practices and stewardship. Our team consists of highly motivated and experienced data practitioners, software developers, and research scientists.
 
 ## Certifications
 
@@ -59,39 +59,16 @@ Previous NSF funding was awarded through grants [#1565103](https://www.nsf.gov/a
 </div>
 <div class="person_row">
     <div class="person_col">
-        <b>Corinna Gries</b> serves in ex officio capacity as former Principal Investigator of EDI and is based at the University of Wisconsin-Madison. Corinna leads the data curation, outreach and training activities of EDI and can be reached at
-        <a href="mailto:cgries@wisc.edu">
-            cgries@wisc.edu
-        </a>.
-    </div>
-    <div class="person_col">
-        <img alt="Corinna Gries" src="/static/images/corinna.jpg"/>
-    </div>
-</div>
-<div class="person_row">
-    <div class="person_col">
-        <b>Margaret O'Brien</b> assists in the design and development of efficient means to
-        assure data submission by community members based on needs assessments and community science
-        priorities. Margaret is based at the University of California at Santa Barbara and may be
+        <b>Greg Maurer</b> supports EDI data curation, outreach, and training activities and 
+        promotes the re-use of EDI data. He also serves as an EDI liaison to the LTER Network 
+        and its Information Managers. Greg is based at New Mexico State University and can be 
         reached at
-        <a href="mailto:margaret.obrien@ucsb.edu">
-            margaret.obrien@ucsb.edu
+        <a href="mailto:gmaurer@nmsu.edu">
+            gmaurer@nmsu.edu
         </a>.
     </div>
     <div class="person_col">
-        <img alt="Margaret O'Brien" src="/static/images/margaret.jpg"/>
-    </div>
-</div>
-<div class="person_row">
-    <div class="person_col">
-        <b>Robert B. Waide</b> is involved in project level outreach. He is based at
-        the University of New Mexico and can be reached at
-        <a href="mailto:rbwaide@unm.edu">
-            rbwaide@unm.edu
-        </a>.
-    </div>
-    <div class="person_col">
-        <img alt="Robert Waide" src="/static/images/bob.jpg"/>
+        <img alt="Greg Maurer" src="/static/images/greg.jpg"/>
     </div>
 </div>
 <div class="person_row">
@@ -149,16 +126,39 @@ Previous NSF funding was awarded through grants [#1565103](https://www.nsf.gov/a
 </div>
 <div class="person_row">
     <div class="person_col">
-        <b>Greg Maurer</b> supports EDI data curation, outreach, and training activities and 
-        promotes the re-use of EDI data. He also serves as an EDI liaison to the LTER Network 
-        and its Information Managers. Greg is based at New Mexico State University and can be 
-        reached at
-        <a href="mailto:gmaurer@nmsu.edu">
-            gmaurer@nmsu.edu
+        <b>Corinna Gries</b> serves in ex officio capacity as former Principal Investigator of EDI and is based at the University of Wisconsin-Madison. Corinna leads the data curation, outreach and training activities of EDI and can be reached at
+        <a href="mailto:cgries@wisc.edu">
+            cgries@wisc.edu
         </a>.
     </div>
     <div class="person_col">
-        <img alt="Greg Maurer" src="/static/images/greg.jpg"/>
+        <img alt="Corinna Gries" src="/static/images/corinna.jpg"/>
+    </div>
+</div>
+<div class="person_row">
+    <div class="person_col">
+        <b>Margaret O'Brien</b> assists in the design and development of efficient means to
+        assure data submission by community members based on needs assessments and community science
+        priorities. Margaret is based at the University of California at Santa Barbara and may be
+        reached at
+        <a href="mailto:margaret.obrien@ucsb.edu">
+            margaret.obrien@ucsb.edu
+        </a>.
+    </div>
+    <div class="person_col">
+        <img alt="Margaret O'Brien" src="/static/images/margaret.jpg"/>
+    </div>
+</div>
+<div class="person_row">
+    <div class="person_col">
+        <b>Robert B. Waide</b> is involved in project level outreach. He is based at
+        the University of New Mexico and can be reached at
+        <a href="mailto:rbwaide@unm.edu">
+            rbwaide@unm.edu
+        </a>.
+    </div>
+    <div class="person_col">
+        <img alt="Robert Waide" src="/static/images/bob.jpg"/>
     </div>
 </div>
 

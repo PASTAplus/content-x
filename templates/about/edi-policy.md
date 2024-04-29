@@ -59,7 +59,7 @@ _This data package is released to the "public domain" under [Creative Commons CC
 
 ## Privacy policy
 
-Version 1.0, Adopted 10 October 2019
+Version 2.0, Adopted 10 October 2019; Updated 27 February 2024
 
 The Environmental Data Initiative (herein EDI) publishes this Privacy Policy to inform you, our customers, of the collection, use, and disclosure ("Processing") of personal data by the EDI project, its computational infrastructure, and scientific partners during the operation of data publication and archive (collectively, our "services"). This Privacy Policy is effective 2 October 2019, and may be amended in the future.
 
@@ -81,6 +81,8 @@ The following definitions are used throughout this Privacy Policy:
 
 **EDI workshop**. An organized and scheduled effort by EDI (or scientific partner) personnel to disseminate educational materials related to scientific data publication and archive to EDI customers.
 
+**Identity provider (IdP)**. A registered service that performs customer identity verification and authentication. In some cases, an IdP may provide information (e.g., email address) about the customer in addition to performing identity verification. 
+
 **PASTA+ software**. [The software](https://github.com/PASTAplus/PASTA) developed, maintained, and used by EDI to provide its data publication and archive service.
 
 **Personal data**. Data relating to an identified or identifiable natural person, which may include: common name, surname, given name, email address, organizational associations (name, address, phone), and or unique identifier (such as ORCID or GitHub identity).
@@ -89,15 +91,48 @@ The following definitions are used throughout this Privacy Policy:
 
 **Science Metadata**. Textual metadata describing scientific data that is published and archived by EDI
 
-
 ### Why and how we collect personal data
 
-
-
 1. Dissemination of EDI news and updates. EDI sends news items and updates about our project, operation, and services to EDI customers who subscribe to such information. Customers must actively submit personal data, including: email (required), surname (optional), given name (optional), organization (optional), and organizational role (optional), to EDI's [MailChimp](https://mailchimp.com) account. These personal data are not shared with any 3rd party or partner.
-2. Customer identity information for authorization to EDI data repository services and scientific data and metadata. EDI restricts access to some data repository services (e.g., publishing and archiving scientific data) to a subset of customers who have agreed to our data publication policy. In addition, customers who contribute science data and metadata have the option to apply access control to their data and metadata to limit distribution of their products. Customers who identify through an EDI accepted authentication protocol can be filtered against one or more rules used to allow or deny access to EDI data repository services or scientific data and metadata. Customers who require the ability to publish and archive science data and metadata must request an EDI LDAP account through an EDI representative. An EDI LDAP account requires a unique customer identifier composed into an LDAP distinguished name, given name, surname, and valid email address. Customers who only require identification to access controlled science data or metadata may use a third party identity service (either Google, GitHub, or ORCID) to verify their identity; successful authentication through the third party stores either the customer's gmail email address, GitHub home location, or ORCID identifier, respectively, into the active EDI web browser session, in addition to the customer's common name.
+2. Customer identity information for authorization to EDI data repository services and scientific data and metadata. EDI restricts access to some data repository services (e.g., publishing and archiving scientific data) to a subset of customers who have agreed to our data publication policy. In addition, customers who contribute science data and metadata have the option to apply access control to their data and metadata to limit distribution of their products. Customers who identify through an EDI accepted authentication protocol can be filtered against one or more rules used to allow or deny access to EDI data repository services or scientific data and metadata. Customers who require the ability to publish and archive science data and metadata must request an EDI LDAP account through an EDI representative. An EDI LDAP account requires a unique customer identifier composed into an LDAP distinguished name, given name, surname, and valid email address. Customers who only require identification to access controlled science data or metadata or use EDI's ezEML metadata editor may use a third-party identity provider (IdP) service to verify their identity. See [below](/about/edi-policy#third-party-identity-provider-customer-information) for information about the third-party identity providers EDI uses and the personal data they release to EDI.
 3. Customer email or other contact information. EDI customers may register contact information with EDI for the purpose of notification when the creation, addition, or modification of science data and metadata that is curated by EDI occurs within the EDI data repository. Notifications of this type serve to inform customers when new or updated science data are added to the system or to alert customers when science data are found to be suspect or erroneous post-publication. The collection of customer contact information is an option provided to EDI customers during an authenticated web browser session. Customer contact information includes only an email address.
 4. Web browser session cookies and authentication tokens. EDI websites utilize web browser session cookies and authentication tokens to maintain an authenticated state between the customer's web browser and EDI's website services. Session cookies are generated by the EDI website and authentication tokens are generated by the EDI authentication service at the point a customer self-identifies. EDI authentication tokens include the customer's unique identifier, a token time-to-live, and any membership in recognized roles or groups.
+
+### Third-party identity provider customer information
+
+The Environmental Data Initiative utilizes third-party identity providers, [GitHub](https://github.com), [Google](https://google.com), [Microsoft](https://microsoft.com), and [ORCID](https://orcid.org), to authenticate and uniquely identify customers who (1) require access to authentication controlled science data and metadata; (2) use EDI’s “ezEML” metadata editor web application, which requires a unique customer identifier for retaining application history; or (3) wish to create a unique customer profile within the suite of EDI web applications. This form of identity authentication relies on the OAuth2.0/OpenId Connect protocols used to communicate between your client browser, EDI, and the identity provider (IdP). EDI does not store customer authentication (“sign-on”) credentials on any EDI host server. However, in addition to securely verifying your identity, the IdP allows EDI access to minimal information they maintain about you: a string value that uniquely identifies you within their system (e.g., an email address) and your common name (if available). EDI may store this information in a web-based session cookie for customer identification on websites, in database applications maintained by EDI that are related to customer profiles or to match customer interactions with an EDI data product, or within an EDI authentication token that is used to convey customer identity information to one of EDI’s web services that implements access control. By selecting authentication through a third-party IdP, you consent to releasing this information for the above purposes. The following sections list detailed information that each IdP releases to EDI:
+
+#### GitHub
+
+The information released about you from GitHub includes:
+
+1. the GitHub URL used to identify your personal GitHub repository,
+2. your given name, and
+3. your surname.
+
+#### Google
+
+The information released about you from Google includes:
+
+1. the email address provided to Google when you signed up for Google services,
+2. your given name, and
+3. your surname.
+
+#### Microsoft
+
+The information released about you from Microsoft includes:
+
+1. the email address provided to Microsoft when you signed up for Microsoft services,
+2. your given name, and
+3. your surname.
+
+#### ORCID
+
+The information released about you from ORCID includes:
+
+1. your fully qualified ORCID identifier,
+2. your given name, and
+3. your surname.
 
 
 ### Security of collected personal data
