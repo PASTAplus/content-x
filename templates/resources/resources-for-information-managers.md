@@ -77,7 +77,8 @@ Data in the EDI Repository are thematically and structurally diverse. Converting
 
 More "Best Practice" recommendations for ecological and environmental data packages are available [here](https://ediorg.github.io/data-package-best-practices/).
 
-## Defining data package replication
+[//]: # (## Defining data package replication)
 
-Ensuring data consumers are aware of replicated data across repositories is crucial for reducing data user confusion, data misuse and errors, and inefficiencies for data harvesters. For more information see [Defining Data Package Replication](/templates/resources/defining-data-replication.md).
+[//]: # ()
+[//]: # (Ensuring data consumers are aware of replicated data across repositories is crucial for reducing data user confusion, data misuse and errors, and inefficiencies for data harvesters. For more information see [Defining Data Package Replication]&#40;/templates/resources/defining-data-replication.md&#41;.)
 
