@@ -12,12 +12,7 @@ EML provides two locations to express `schema:sameAs` relationships through anno
 
 This location indicates relationships between data packages. Semantic RDF structures the data package as the subject, related to another package as the object. The annotation element is inserted at the XPath: `/eml/dataset/annotation`. For example:
 
-```xml
-<annotation>
-      <propertyURI label="sameAs">https://schema.org/sameAs</propertyURI>
-      <valueURI label="Data used to …">https://doi.org/10.5066/F7VX0DMQ</valueURI>
-</annotation>
-```
+<img class="screen-shot" src="/static/images/replicating-dataset-type.png" width="65%">
 
 Where the `valueURI` label is the dataset title and the value is the dataset Digital Object Identifier (DOI). This annotation reads: "This dataset is the same as the dataset identified by [https://doi.org/10.5066/F7VX0DMQ](https://doi.org/10.5066/F7VX0DMQ)".
 
@@ -26,12 +21,7 @@ Where the `valueURI` label is the dataset title and the value is the dataset Dig
 
 This location is used to indicate relationships between data entities (e.g. dataTable or otherEntity). RDF expresses the data entity as the subject, related to another entity as the object. The annotation element is inserted within the EntityGroup. For example:
 
-```xml
-<annotation>
-      <propertyURI label="sameAs">https://schema.org/sameAs</propertyURI>
-      <valueURI label="black_sand_phe …">https://pasta.lternet.edu/package/data/eml/…</valueURI>
-</annotation>
-```
+<img class="screen-shot" src="/static/images/replicating-entitygroup-type.png" width="75%">
 
 Where the `valueURI` label is the data entity name. This annotation reads: "This data entity is the same as the entity defined by [https://pasta.lternet.edu/package/data/eml/knb-lter-nwt/237/1/39dbac0784a042fcda990797377e27ee](https://pasta.lternet.edu/package/data/eml/knb-lter-nwt/237/1/39dbac0784a042fcda990797377e27ee), which is a download link to a data entity in the EDI repository.
 
