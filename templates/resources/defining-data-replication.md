@@ -2,7 +2,7 @@
 
 Ensuring data consumers are aware of replicated data across repositories is crucial for reducing data user confusion, data misuse and errors, and inefficiencies for data harvesters.
 
-The [Ecological Metadata Language](https://eml.ecoinformatics.org/eml-ecological-metadata-language) (EML v2.2.0) offers a semantic annotation feature suitable for defining data replication, applicable to both entire data packages and specific data entities within a package. This functionality in combination with the [schema:sameAs](https://schema.org/sameAs) property enables a solution for indicating replicated data resources that align with [Science-On-Schema.Org](https://github.com/ESIPFed/science-on-schema.org/blob/master/guides/Dataset.md) conventions, promoting dataset discovery and interoperability.
+The [Ecological Metadata Language](https://eml.ecoinformatics.org/eml-ecological-metadata-language) (EML v2.2.0) offers a semantic annotation feature suitable for defining data replication, applicable to both entire data packages and specific data entities within a package. This functionality in combination with the [schema:sameAs](https://schema.org/sameAs) property enables a solution for indicating replicated data resources that align with [Science-On-Schema.Org](https://github.com/ESIPFed/science-on-schema.org) conventions, promoting dataset discovery and interoperability.
 
 EML provides two locations to express `schema:sameAs` relationships through annotations, within a [DatasetType](https://eml.ecoinformatics.org/schema/eml-dataset_xsd#DatasetType), and an [EntityGroup](https://eml.ecoinformatics.org/schema/eml-entity_xsd.html#EntityGroup).
 
