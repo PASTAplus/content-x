@@ -22,12 +22,20 @@ Once the metadata edits are complete, the changes will have to be uploaded via [
 
 ## Step 2 - "Soft delete" the data package
 
-Execute a "soft delete" of the data package. Any data package owner can perform this operation using [curl](https://en.wikipedia.org/wiki/CURL) or another HTTP-based application that can send a "DELETE" request. The delete method is described in the [API documentation](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdocs%2Fapi%23DELETE%2520%3A%2520%2Feml%2F%257Bscope%257D%2F%257Bidentifier%257D&data=05%7C01%7Cjfutrelle%40whoi.edu%7C4786c822c02c43dedc0d08dabce50e7e%7Cd44c5cc6d18c46cc8abd4fdf5b6e5944%7C0%7C0%7C638029989235147987%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ewGg%2BUuazIME6VLxGHE2hjVBXr51p8uVdXxRmSZeEE8%3D&reserved=0). Note that the entire series will be "soft deleted", so use only the data package scope and identifier in the DELETE request. For example the command
+Execute a "soft delete" of the data package. Any data package owner can perform this operation using [cURL](https://en.wikipedia.org/wiki/CURL) or another HTTP-based application that can send a "DELETE" request. The delete method is described in the [API documentation](https://pasta.lternet.edu/package/docs/api#DELETE%20:%20/eml/%7Bscope%7D/%7Bidentifier%7D). Note that the entire series will be "soft deleted", so use only the data package scope and identifier in the DELETE request. To perform a "soft delete" using `cURL` you would need to set the "user" and "request method" parameters to identify the owner of the data package and the `DELETE` mehtod. The full `cURL` command would look like
 
 ```
-curl --user 'uid=NES,o=EDI,dc=edirepository,dc=org:<PASSWORD>' -X DELETE 'https://pasta.lternet.edu/package/eml/knb-lter-nes/7'
+curl --user <USER>:<PASSWORD> -X DELETE <URL>
 ```
 
-will "soft delete" all data package revisions in the **knb-lter-nes.7** series.
+The PASTA API requires the "user" parameter to be the full EDI LDAP distinguished name (e.g., `uid=ecoridge,o=EDI,dc=edirepository,dc=org`), where the "uid" field is the identifier used to login into the Data Portal when publishing a data package.
+
+For example, the command
+
+```
+curl --user 'uid=ecoridge,o=EDI,dc=edirepository,dc=org:asd9wkjas38' -X DELETE 'https://pasta.lternet.edu/package/eml/edi/7'
+```
+
+will "soft delete" all data package revisions of the **edi.7** series in the EDI production environment. To perform a "soft delete" on your data package replace the identifier "ecoridge" and the password "asd9wkjas38" with your own user identifier and password. You may also perform a "soft delete" in the EDI staging environment by replacing `pasta.lternet.edu` with `pasta-s.lternet.edu` in the URL.
 
 > Please [contact us](/templates/support/contact-us.md) if you need help deleting a data package.
