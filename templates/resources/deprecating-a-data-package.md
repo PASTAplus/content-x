@@ -28,14 +28,14 @@ Execute a "soft delete" of the data package. Any data package owner can perform 
 curl --user <USER>:<PASSWORD> -X DELETE <URL>
 ```
 
-The PASTA API requires the "user" parameter to be the full EDI LDAP distinguished name (e.g., `uid=ecoridge,o=EDI,dc=edirepository,dc=org`), where the "uid" field is the identifier used to login into the Data Portal when publishing a data package.
+The PASTA API requires the "user" parameter to be the full EDI LDAP distinguished name (e.g., `uid=NIN,o=EDI,dc=edirepository,dc=org`), where the "uid" field is the identifier used to login into the Data Portal when publishing a data package.
 
 For example, the command
 
 ```
-curl --user 'uid=ecoridge,o=EDI,dc=edirepository,dc=org:asd9wkjas38' -X DELETE 'https://pasta.lternet.edu/package/eml/edi/7'
+curl --user 'uid=NIN,o=EDI,dc=edirepository,dc=org:asd9wkjas38' -X DELETE 'https://pasta.lternet.edu/package/eml/knb-lter-nin/7'
 ```
 
-will "soft delete" all data package revisions of the **edi.7** series in the EDI production environment. To perform a "soft delete" on your data package replace the identifier "ecoridge" and the password "asd9wkjas38" with your own user identifier and password. You may also perform a "soft delete" in the EDI staging environment by replacing `pasta.lternet.edu` with `pasta-s.lternet.edu` in the URL.
+will "soft delete" all data package revisions of the **knb-lter-nin.7** series in the EDI production environment. To perform a "soft delete" on your data package replace the identifier "NIN" and the password "asd9wkjas38" with your own user identifier and password. You may also perform a "soft delete" in the EDI staging environment by replacing `pasta.lternet.edu` with `pasta-s.lternet.edu` in the URL.
 
 > Please [contact us](/templates/support/contact-us.md) if you need help deleting a data package.
