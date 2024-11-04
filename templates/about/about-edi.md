@@ -10,7 +10,9 @@ _We preserve environmental data for open and reproducible science, to promote sy
 
 ## Project
 
-The Environmental Data Initiative (EDI) provides key services and technical expertise to the scientific community that ensure environmental and ecological data are well curated and accessible for discovery and re-use well into the future. We assist researchers from field stations, individual laboratories, and research projects of all sizes to archive and publish their environmental data. EDI is committed to make data Findable, Accessible, Interoperable, and Reusable ([FAIR](https://www.go-fair.org/fair-principles/)).
+The Environmental Data Initiative (EDI) is a collaboration between the University of New Mexico and the University of Wisconsin – Madison, Center for Limnology. Their commitment to open environmental data has enabled EDI to become a leading resource for researchers and educators worldwide. By fostering collaboration and providing essential infrastructure, these institutions empower the advancement of ecological understanding and promote informed decision-making for a sustainable future.
+
+EDI provides key services and technical expertise to the scientific community that ensure environmental and ecological data are well curated and accessible for discovery and re-use well into the future. We assist researchers from field stations, individual laboratories, and research projects of all sizes to archive and publish their environmental data. EDI is committed to make data Findable, Accessible, Interoperable, and Reusable ([FAIR](https://www.go-fair.org/fair-principles/)).
 
 We provide support, training, and resources to help archive and publish high-quality data and metadata. We operate a secure data repository and work closely with other leaders in information management, like the [LTER Network Office](https://lternet.edu/contact-us/) and [DataONE](https://www.dataone.org/), to promote data management best practices and stewardship. Our team consists of highly motivated and experienced data practitioners, software developers, and research scientists.
 
@@ -27,7 +29,7 @@ We provide support, training, and resources to help archive and publish high-qua
 
 ## Funding
 
-This material is based upon work supported by the National Science Foundation under grants [#1931143](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931143&HistoricalAwards=false) and [#1931174](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931174&HistoricalAwards=false). Any opinions, findings, conclusions, or recommendations expressed in the material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+This material is based upon work supported by the U.S. National Science Foundation (NSF) under grants [#1931143](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931143&HistoricalAwards=false) and [#1931174](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931174&HistoricalAwards=false). Any opinions, findings, conclusions, or recommendations expressed in the material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
 Previous NSF funding was awarded through grants [#1565103](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1565103&HistoricalAwards=false) and [#1629233](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1629233&HistoricalAwards=false).
 
