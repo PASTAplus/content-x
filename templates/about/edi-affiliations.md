@@ -21,7 +21,7 @@ The US LTER Network was founded in 1980 by the National Science Foundation with 
 
 <br>
 
-<img src="/static/images/neon-logo.png" alt="The National Ecological Observatory Network Logo" width="12%">
+<img src="/static/images/neon-logo.png" alt="The National Ecological Observatory Network Logo" width="30%">
 
 The National Ecological Observatory Network (NEON) is a continental-scale observation facility operated by Battelle and designed to collect long-term open access ecological data to better understand how U.S. ecosystems are changing.
 [Learn more about NEON.](https://data.neonscience.org/)
@@ -85,6 +85,13 @@ Founded in 1889 as New Mexico’s flagship institution, The University of New Me
 
 Offering a distinctive campus environment with a Pueblo Revival architectural theme, the campus buildings echo nearby Pueblo Indian villages. The nationally recognized campus arboretum and the popular duck pond offer an outstanding botanical experience in the midst of one of New Mexico's great public open spaces.
 [Learn more about UNM.](https://www.unm.edu/)
+
+<br>
+
+<img src="/static/images/nmsu-logo.png" alt="The New Mexico State University Logo" width="10%">
+
+We are New Mexico’s land-grant institution and a comprehensive research university dedicated to teaching, research public service and outreach at all levels. NMSU is a welcoming community of talented faculty, staff and students who are working together to make a difference. We are a NASA Space Grant College, a Hispanic-serving institution (HSI), a minority-serving institution (MSI) and home to the first Honors College in New Mexico. We offer an accessible education that shapes bright futures.
+[Learn more about NMSU.](https://nmsu.edu/)
 
 <br>
 
