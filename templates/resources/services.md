@@ -16,7 +16,7 @@ We support research with tools to revise a dataset, create a [personalized data 
 
 ## Secure & persistent archive
 
-We assign [Digital Object Identifiers (DOIs)](/templates/resources/the-data-package.md#digital-object-identifier-doi) and guarantee immutability for all data for long-term access, transparency, and reuse. The EDI data repository satisfies [DataCite](https://datacite.org/) standards for accurate and consistent identification of digital resources for citation and retrieval purposes and are actively working towards [Core Trust Seal](https://www.coretrustseal.org/) requirements of trustworthy repositories. We participate in the development of data standards (e.g. [FAIR](https://www.go-fair.org/fair-principles/), [TRUST](https://www.nature.com/articles/s41597-020-0486-7), [CARE](https://www.gida-global.org/care)) and adopt their recommendations.
+We assign [Digital Object Identifiers (DOIs)](/templates/resources/the-data-package.md#digital-object-identifier-doi) and guarantee immutability for all data for long-term access, transparency, and reuse. The EDI data repository satisfies [DataCite](https://datacite.org/) standards for accurate and consistent identification of digital resources for citation and retrieval purposes and is a [CoreTrustSeal](https://www.coretrustseal.org/) certified repository. We participate in the development of data standards (e.g. [FAIR](https://www.go-fair.org/fair-principles/), [TRUST](https://www.nature.com/articles/s41597-020-0486-7), [CARE](https://www.gida-global.org/care)) and adopt their recommendations.
 
 ## Timely one-on-one support
 
