@@ -38,7 +38,7 @@ All published data are immediately made open access, and only under specific cir
 
 ## Upload size limit
 
-There is a soft limit of 500 MB and hard limit of 100 GB per data package. The 500 MB limit can be relaxed by contacting the EDI Data Curation Team and avoided entirely by information managers with an EDI account and [uploading with static data links](https://docs.google.com/document/d/1DC403Wd6PfssjPXl-ToRNlC97xcr6kVoTWoFE4R2_bk/edit#heading=h.3yagd380wsrl). For data packages exceeding 100 GB please see the recommendations for [publishing large datasets](https://ediorg.github.io/data-package-best-practices/large-data-sets.html) or [contact us](/templates/support/contact-us.md) to find a solution.
+There is a soft limit of 500 MB and hard limit of 100 GB per data package. The 500 MB limit can be relaxed by contacting the EDI Data Curation Team and avoided entirely by information managers with an EDI account and [uploading with static data links](https://docs.google.com/document/d/1DC403Wd6PfssjPXl-ToRNlC97xcr6kVoTWoFE4R2_bk/edit#heading=h.3yagd380wsrl). For data packages exceeding 100 GB please see the recommendations for [publishing large datasets](https://ediorg.github.io/data-package-best-practices/guide-special-cases/large-offline.html) or [contact us](/templates/support/contact-us.md) to find a solution.
 
 
 ## Fees

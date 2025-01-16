@@ -14,7 +14,7 @@ If publishing data in support of a manuscript, then include the data and process
 
 ### Duplicated data
 
-Have these exact data been published elsewhere? If so, then don't republish unless [the duplication is warranted](https://ediorg.github.io/data-package-best-practices/datapackage-design/data-in-other-repositories.html). Duplicates create maintenance issues for data managers and confusion for users. If data published elsewhere is used to create a derived dataset, reference these data via [provenance metadata](/templates/resources/provenance-metadata.md). Derived data are not exact copies and can be archived. Mutable data licensed under the public domain can be archived. When in doubt, consult the data authors before republishing.
+Have these exact data been published elsewhere? If so, then don't republish unless [the duplication is warranted](https://ediorg.github.io/data-package-best-practices/guide-special-cases/other-repositories.html). Duplicates create maintenance issues for data managers and confusion for users. If data published elsewhere is used to create a derived dataset, reference these data via [provenance metadata](/templates/resources/provenance-metadata.md). Derived data are not exact copies and can be archived. Mutable data licensed under the public domain can be archived. When in doubt, consult the data authors before republishing.
 
 <img src="/static/images/organize-duplication.png" width="25%"> 
 

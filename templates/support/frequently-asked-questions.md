@@ -26,7 +26,7 @@ Both the EDI Data Repository and our data curation services are currently free o
 
 ## Is there a limit to the amount of data I may archive?
 
-No. However, large data volumes will require planning and may require some cost sharing between your project and EDI. For more on publishing large data see [the data package best practices for large datasets](https://ediorg.github.io/data-package-best-practices/large-data-sets.html).
+No. However, large data volumes will require planning and may require some cost sharing between your project and EDI. For more on publishing large data see [the data package best practices for large datasets](https://ediorg.github.io/data-package-best-practices/guide-special-cases/large-offline.html).
 
 ## How do I obtain an EDI user account?
 
