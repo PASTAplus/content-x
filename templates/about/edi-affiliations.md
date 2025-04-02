@@ -97,7 +97,7 @@ We are New Mexico’s land-grant institution and a comprehensive research univer
 
 ## Municipal Partners
 
-<img src="/static/images/seattle-logo.png" alt="The City of Seattle Logo" width="50%">
+<img src="/static/images/seattle-logo.png" alt="The City of Seattle Logo" width="40%">
 
 [Seattle Public Utilities (SPU)](https://www.seattle.gov/utilities) is a community-centered utility delivering essential drinking water, drainage, wastewater, and solid waste services to Seattle residents and businesses. SPU’s mission is to foster healthy people, environment, and economy by partnering with communities to equitably manage water and waste resources for today and future generations.  
  
