@@ -8,6 +8,11 @@ _The Environmental Data Initiative envisions a future of scientific discovery fu
 
 _We preserve environmental data for open and reproducible science, to promote synthesis across space and time, and to aid in the assessment of environmental change and its consequences._
 
+## Data Sustainability
+
+The Environmental Data Initiative (EDI) is deeply committed to the long-term sustainability of the ecological and environmental data entrusted to our care. As our community grows, both in the diversity of scientists we serve and the increasing reliance on our data services, so too does our responsibility to ensure the enduring availability, integrity, and utility of these valuable scientific assets. Sustaining data for the long haul is central to EDI’s mission and essential to the future of science. In partnership with our funders and collaborators, we are advancing this commitment through three core operational priorities ... ([read more](/templates/about/data-sustainability.md)).
+
+
 ## Project
 
 The Environmental Data Initiative (EDI) is a collaboration between the University of New Mexico and the University of Wisconsin – Madison, Center for Limnology. Their commitment to open environmental data has enabled EDI to become a leading resource for researchers and educators worldwide. By fostering collaboration and providing essential infrastructure, these institutions empower the advancement of ecological understanding and promote informed decision-making for a sustainable future.
