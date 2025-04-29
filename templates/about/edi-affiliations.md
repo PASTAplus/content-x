@@ -6,7 +6,7 @@ At the Environmental Data Initiative, we believe in the power of collaboration t
 
 * Enhance the quality and accessibility of environmental data.
 * Foster innovative research and scientific discovery.
-* Promote sustainable practices and environmental stewardship.
+* Promote sustainable management and stewardship practices for environmental data.
 
 To learn more about our partnerships and collaborations, please contact us at [info@edirepository.org](mailto:info@edirepository.org).
 

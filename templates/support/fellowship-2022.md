@@ -24,7 +24,7 @@ We awarded 14 fellowships for our fifth ecological data management training prog
 
 * #### [Charleston Community Research to Action Board (CCRAB)](https://www.facebook.com/CCRABSC/) . Location: Charleston, SC/Remote . Mentors: Omar Muhammad (ccrabej@gmail.com) and Chloe Stuber (chloe.e.stuber@gmail.com) . Fellow: Malayna Nesbitt
 
-    * **Project description:** CCRAB conducts citizen science projects that lead and fund sampling of air and water quality data. The data are used to address environmental justice challenges and health disparities. The Fellow will clean and publish the data in EDI as well as build a CCRAB data catalog through which community scientists can easily and readily access the data and information from ongoing research related to physical/social environmental hazards and associated health disparities.
+    * **Project description:** CCRAB conducts citizen science projects that lead and fund sampling of air and water quality data. The data are used to address environmental challenges and health disparities. The Fellow will clean and publish the data in EDI as well as build a CCRAB data catalog through which community scientists can easily and readily access the data and information from ongoing research related to physical/social environmental hazards and associated health disparities.
 
 * #### [Florida International University, Department of Biological Sciences](https://case.fiu.edu/biology/) . Location: Miami, FL/Remote . Mentor: Dr. Sparkle Malone (smalone@fiu.edu) . Fellow: Sabrina Lopez
 
