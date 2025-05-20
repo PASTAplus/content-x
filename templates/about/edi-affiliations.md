@@ -106,4 +106,16 @@ The U.S. National Science Foundation (NSF) is an independent federal agency that
 
 <br>
 
+<img src="/static/images/seattle-logo.png" alt="The City of Seattle Logo" width="40%">
+
+Seattle Public Utilities (SPU) is a community-centered utility delivering essential drinking water, drainage, wastewater, and solid waste services to Seattle residents and businesses. SPU’s mission is to foster healthy people, environment, and economy by partnering with communities to equitably manage water and waste resources for today and future generations.  
+ 
+The Utility’s drinking water system serves more than 1.6 million people in the Seattle region. With a system of this size, SPU is required to manage complicated scientific information to make evidence-based policy decisions. SPU also uses data to meet regulatory commitments in compliance with the Endangered Species Act, Clean Water Act, Safe Drinking Water Act, Washington State Noxious Weed Control and Public Records Act, and City of Seattle Secondary Use of the Cedar River Municipal Watershed.   
+ 
+In partnership with the Environmental Data Initiative (EDI), SPU is advancing the way it collects, shares, and leverages data to better address multi-dimensional problems. The goal is to advance data literacy, governance, and best practices while improving the effectiveness and efficiencies of City services in the most equitable way. 
+
+Learn more about [Seattle Public Utilities](https://www.seattle.gov/utilities).
+
+<br>
+
 
