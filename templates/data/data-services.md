@@ -1,96 +1,136 @@
-# Data Services
+# EDI Data Services
 
-We provide **comprehensive data support** for research groups, projects (including for proposal writing and grant execution) and public sector entities.
+**Accelerate your research with expert data support.** \
+From planning to publication, our team helps environmental and ecological science projects, administrative institutions, as well as individual researchers manage, structure, and share their data efficiently and professionally.
 
-Managing data for new scientific research and value enhancement requires specialized expertise and considerable human effort. EDI offers efficient support with data scientists trained in environmental science and a certified data repository.
-
-**Our services** are available through support packages with costs related to the complexity of the project. **Ask for a free consultation.**
-
+Whether you're writing a proposal, executing a funded project, or working with public-sector data, **EDI offers tailored services** backed by certified infrastructure and experienced data scientists who understand the demands of environmental research.
 
 
-1. **Data management plan development **(at no cost).
-2. **Data publication support: **Publication of research data, create personalized data catalogs, and reports to funders. (~10K)
-3. **Data for analysis:** Harmonize format and structure of data from diverse sources to ensure that the data are compatible for scientific analysis. **Costs are determined by project complexity:**
+---
 
-<table border="1" style="border-collapse: collapse;">
-  <tr style="background-color: #f2f2f2;">
-   <td style="border: 1px solid black; font-weight: bold;">
-Service
+
+## What We Offer
+
+Our services are available through support packages, with pricing based on the size and complexity of your project. **Start with a free consultation** (info@edirepository.org) to explore how we can support your research.
+
+
+### Data Management Plan (Free)
+
+Crafted to meet funder requirements and improve project planning. \
+We’ll help you write a clear, actionable plan that sets you up for success.
+
+
+### Data Publication Support (~$10K)
+
+We help you publish your data with confidence:
+
+
+
+* Prepare and curate your research data
+* Create **personalized data catalogs**
+* Generate **reports to funders** \
+[View example catalog »](https://edirepository.org/resources/create-a-data-catalog) \
+[Learn about funder reports »](https://edirepository.org/resources/reporting-to-funders)
+
+
+### Data for Analysis (Cost varies by project)
+
+Get your data ready for rigorous, reproducible science. We harmonize data from multiple sources to make them compatible for analysis.
+
+
+<table>
+  <tr>
+   <td><strong>Service</strong>
    </td>
-   <td style="border: 1px solid black; font-weight: bold;">Small project (2 published datasets)
+   <td><strong>Small (2 datasets)*</strong>
    </td>
-   <td style="border: 1px solid black; font-weight: bold;">Medium project (6 published datasets)
+   <td><strong>Medium (6 datasets)*</strong>
    </td>
-   <td style="border: 1px solid black; font-weight: bold;">Large project (12+ published datasets)
+   <td><strong>Large (12+ datasets)*</strong>
    </td>
   </tr>
   <tr>
-   <td style="border: 1px solid black;">Discovery
+   <td>Discovery
    </td>
-   <td style="border: 1px solid black;">10 hrs.
+   <td>10 hrs
    </td>
-   <td style="border: 1px solid black;">30 hrs.
+   <td>30 hrs
    </td>
-   <td style="border: 1px solid black;">60 hrs.
-   </td>
-  </tr>
-  <tr style="background-color: #f2f2f2;">
-   <td style="border: 1px solid black;">Data cleaning
-   </td>
-   <td style="border: 1px solid black;">50 hrs.
-   </td>
-   <td style="border: 1px solid black;">150 hrs.
-   </td>
-   <td style="border: 1px solid black;">300 hrs.
+   <td>60 hrs
    </td>
   </tr>
   <tr>
-   <td style="border: 1px solid black;">Data harmonization
+   <td>Data Cleaning
    </td>
-   <td style="border: 1px solid black;">30 hrs.
+   <td>50 hrs
    </td>
-   <td style="border: 1px solid black;">90 hrs.
+   <td>150 hrs
    </td>
-   <td style="border: 1px solid black;">180 hrs.
-   </td>
-  </tr>
-  <tr style="background-color: #f2f2f2;">
-   <td style="border: 1px solid black;">Data publication
-   </td>
-   <td style="border: 1px solid black;">4 hrs.
-   </td>
-   <td style="border: 1px solid black;">12 hrs.
-   </td>
-   <td style="border: 1px solid black;">24 hrs.
+   <td>300 hrs
    </td>
   </tr>
   <tr>
-   <td style="border: 1px solid black;">Documentation
+   <td>Data Harmonization
    </td>
-   <td style="border: 1px solid black;">8 hrs.
+   <td>30 hrs
    </td>
-   <td style="border: 1px solid black;">8 hrs.
+   <td>90 hrs
    </td>
-   <td style="border: 1px solid black;">8 hrs.
+   <td>180 hrs
    </td>
   </tr>
-  <tr style="background-color: #f2f2f2;">
-   <td style="border: 1px solid black;">TOTAL Hrs ($100/hr)
+  <tr>
+   <td>Data Publication
    </td>
-   <td style="border: 1px solid black;">102  hrs. ($10k)
+   <td>4 hrs
    </td>
-   <td style="border: 1px solid black;">290  hrs. ($30k)
+   <td>12 hrs
    </td>
-   <td style="border: 1px solid black;">572  hrs. ($55k)
+   <td>24 hrs
+   </td>
+  </tr>
+  <tr>
+   <td>Documentation
+   </td>
+   <td>8 hrs
+   </td>
+   <td>8 hrs
+   </td>
+   <td>8 hrs
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Total Hours (@$100/hr)</strong>
+   </td>
+   <td><strong>102 hrs (~$10K)</strong>
+   </td>
+   <td><strong>290 hrs (~$30K)</strong>
+   </td>
+   <td><strong>572 hrs (~$55K)</strong>
    </td>
   </tr>
 </table>
 
 
-**Additional services are available for a fee for LARGE PROJECTS**
+*EDI reserves the right to adjust fees if the project scope changes or if the datasets prove to be more complex than initially anticipated.
 
-Scripted and automated workflows,** **GitHub repository management, Large amounts of data, Data manager to participate in workshops as needed, Training of collaborators in workflow and github use, Multiple papers as results, Prepare for repeating analysis when more data are available, Uncover (possibly digitize) historic data sources (creator is not available).
 
-[Personalized data catalogs](https://edirepository.org/resources/create-a-data-catalog)
+---
 
-[Reports to funders](https://edirepository.org/resources/reporting-to-funders)
+
+## Additional Services for a Fee
+
+
+
+* Scripted and automated workflows
+* GitHub repository setup and management
+* Support for large or legacy datasets (including digitization)
+* Data manager participation in project workshops
+* Team training (workflow, GitHub, documentation)
+* Support for multi-paper outputs
+* Repeatable analysis setup for future data collection
+
+
+---
+
+**Let’s talk!** Contact us for a no-cost consultation to discuss your project needs and how we can help (info@edirepository.org).
