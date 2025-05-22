@@ -37,8 +37,8 @@ We help you publish your data with confidence:
 Get your data ready for rigorous, reproducible science. We harmonize data from multiple sources to make them compatible for analysis.
 
 
-<table>
-  <tr>
+<table border="1" style="border-collapse: collapse;">
+  <tr style="background-color: #f2f2f2;">
    <td><strong>Service</strong>
    </td>
    <td><strong>Small (2 datasets)*</strong>
@@ -58,7 +58,7 @@ Get your data ready for rigorous, reproducible science. We harmonize data from m
    <td>60 hrs
    </td>
   </tr>
-  <tr>
+  <tr style="background-color: #f2f2f2;">
    <td>Data Cleaning
    </td>
    <td>50 hrs
@@ -78,7 +78,7 @@ Get your data ready for rigorous, reproducible science. We harmonize data from m
    <td>180 hrs
    </td>
   </tr>
-  <tr>
+  <tr style="background-color: #f2f2f2;">
    <td>Data Publication
    </td>
    <td>4 hrs
@@ -98,7 +98,7 @@ Get your data ready for rigorous, reproducible science. We harmonize data from m
    <td>8 hrs
    </td>
   </tr>
-  <tr>
+  <tr style="background-color: #f2f2f2;">
    <td><strong>Total Hours (@$100/hr)</strong>
    </td>
    <td><strong>102 hrs (~$10K)</strong>
@@ -110,10 +110,7 @@ Get your data ready for rigorous, reproducible science. We harmonize data from m
   </tr>
 </table>
 
-<br>
-
-
-*EDI reserves the right to adjust fees if the project scope changes or if the datasets prove to be more complex than initially anticipated.
+*_EDI reserves the right to adjust fees if the project scope changes or if the datasets prove to be more complex than initially anticipated._
 
 ## Additional Services for a Fee
 
@@ -125,4 +122,6 @@ Get your data ready for rigorous, reproducible science. We harmonize data from m
 * Support for multi-paper outputs
 * Repeatable analysis setup for future data collection
 
-> **Let’s talk!** Contact us for a no-cost consultation to discuss your project needs and how we can help (info@edirepository.org).
+## Let’s talk!
+
+Contact us for a no-cost consultation to discuss your project needs and how we can help (info@edirepository.org).
