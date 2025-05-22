@@ -1,13 +1,10 @@
 # EDI Data Services
 
-**Accelerate your research with expert data support.** \
+**Accelerate your research with expert data support.**
+
 From planning to publication, our team helps environmental and ecological science projects, administrative institutions, as well as individual researchers manage, structure, and share their data efficiently and professionally.
 
 Whether you're writing a proposal, executing a funded project, or working with public-sector data, **EDI offers tailored services** backed by certified infrastructure and experienced data scientists who understand the demands of environmental research.
-
-
----
-
 
 ## What We Offer
 
@@ -28,8 +25,10 @@ We help you publish your data with confidence:
 
 * Prepare and curate your research data
 * Create **personalized data catalogs**
-* Generate **reports to funders** \
-[View example catalog »](https://edirepository.org/resources/create-a-data-catalog) \
+* Generate **reports to funders**
+
+[View example catalog »](https://edirepository.org/resources/create-a-data-catalog)
+
 [Learn about funder reports »](https://edirepository.org/resources/reporting-to-funders)
 
 
@@ -111,16 +110,12 @@ Get your data ready for rigorous, reproducible science. We harmonize data from m
   </tr>
 </table>
 
+<br>
+
 
 *EDI reserves the right to adjust fees if the project scope changes or if the datasets prove to be more complex than initially anticipated.
 
-
----
-
-
 ## Additional Services for a Fee
-
-
 
 * Scripted and automated workflows
 * GitHub repository setup and management
@@ -130,7 +125,4 @@ Get your data ready for rigorous, reproducible science. We harmonize data from m
 * Support for multi-paper outputs
 * Repeatable analysis setup for future data collection
 
-
----
-
-**Let’s talk!** Contact us for a no-cost consultation to discuss your project needs and how we can help (info@edirepository.org).
+> **Let’s talk!** Contact us for a no-cost consultation to discuss your project needs and how we can help (info@edirepository.org).
