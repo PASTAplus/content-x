@@ -4,7 +4,7 @@
 
 ## Data policy
 
-Version 0.0, Adopted 25 November 2019
+Version 2.0, Adopted 25 November 2019, ammended 1 April 2026
 
 The Environmental Data Initiative (herein EDI) provides services defined as publication and archive of science data to communities world-wide. In accordance with the EDI scope and mission, the following Data Policy statement declares an agreed upon understanding between EDI and the individual or individuals responsible for any and all data submitted to the EDI data repository for the purposes of publication and archive.
 
@@ -29,6 +29,15 @@ The following definitions are used throughout this Data Contributor Policy
 
 **Science Metadata**. Textual metadata describing scientific data that is published and archived by EDI
 
+### Data contributor responsibilities
+
+As a contributor to the EDI repository, you are the primary steward of the information you share. Your commitment to high-quality data and robust documentation ensures that your research is FAIR (Findable, Accessible, Interoperable, and Reusable). 
+
+To maintain the integrity of the repository, all contributors must uphold the following responsibilities:
+
+* Contributors must ensure that data are of the highest scientific quality before submission.
+* Data must be accompanied by a full narrative of its "life cycle" using science metadata that is clear, comprehensive, and standardized.
+* It is the responsibility of the contributor to ensure that the data does not contain sensitive information.
 
 ### Data package accessibility
 
@@ -56,6 +65,12 @@ There is an option to declare data "offline" within the distribution field of th
 EDI makes every effort to ensure that all data are curated with intellectual rights defined by the data provider as found in the data package metadata. Although EDI advocates for open and unfettered access to data packages without use restrictions, we do not forbid data providers from declaring more restrictive licensing agreements for use of their data packages. Data providers should include a statement of Intellectual Rights in the metadata of their submissions. If they do not, EDI reserves the right to add a default declaration of intellectual rights to the data package metadata. The default declaration of intellectual rights used by EDI is based on the Creative Commons CC0 "No Rights Reserved" waiver. See below for the full default statement:
 
 _This data package is released to the "public domain" under [Creative Commons CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) "No Rights Reserved". It is considered professional etiquette to provide attribution of the original work if this data package is shared in whole or by individual components. A generic citation is provided for this data package on [the website](https://portal.edirepository.org) (herein "website") in the summary metadata page. Communication (and collaboration) with the creators of this data package is recommended to prevent duplicate research or publication. This data package (and its components) is made available "as is" and with no warranty of accuracy or fitness for use. The creators of this data package and the website shall not be liable for any damages resulting from misinterpretation or misuse of the data package or its components. Periodic updates of this data package may be available from the website. Thank you._
+
+
+### Right of refusal
+
+EDI reserves the right, at its sole discretion, to decline or remove any data submission for any reason. This includes, but is not limited to, datasets that do not meet our quality standards, contain insufficient metadata, violate privacy or ethical guidelines, or fall outside the scope of the repository’s mission.
+
 
 ## Privacy policy
 
