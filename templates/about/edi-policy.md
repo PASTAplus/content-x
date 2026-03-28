@@ -4,7 +4,7 @@
 
 ## Data policy
 
-Version 2.0, Adopted 25 November 2019, ammended 1 April 2026
+Version 2.0, Adopted 25 November 2019; Updated 1 April 2026
 
 The Environmental Data Initiative (herein EDI) provides services defined as publication and archive of science data to communities world-wide. In accordance with the EDI scope and mission, the following Data Policy statement declares an agreed upon understanding between EDI and the individual or individuals responsible for any and all data submitted to the EDI data repository for the purposes of publication and archive.
 
@@ -65,6 +65,23 @@ There is an option to declare data "offline" within the distribution field of th
 EDI makes every effort to ensure that all data are curated with intellectual rights defined by the data provider as found in the data package metadata. Although EDI advocates for open and unfettered access to data packages without use restrictions, we do not forbid data providers from declaring more restrictive licensing agreements for use of their data packages. Data providers should include a statement of Intellectual Rights in the metadata of their submissions. If they do not, EDI reserves the right to add a default declaration of intellectual rights to the data package metadata. The default declaration of intellectual rights used by EDI is based on the Creative Commons CC0 "No Rights Reserved" waiver. See below for the full default statement:
 
 _This data package is released to the "public domain" under [Creative Commons CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) "No Rights Reserved". It is considered professional etiquette to provide attribution of the original work if this data package is shared in whole or by individual components. A generic citation is provided for this data package on [the website](https://portal.edirepository.org) (herein "website") in the summary metadata page. Communication (and collaboration) with the creators of this data package is recommended to prevent duplicate research or publication. This data package (and its components) is made available "as is" and with no warranty of accuracy or fitness for use. The creators of this data package and the website shall not be liable for any damages resulting from misinterpretation or misuse of the data package or its components. Periodic updates of this data package may be available from the website. Thank you._
+
+
+### Right of curatorial amendment
+
+The Repository reserves the Right of Curatorial Amendment over all deposited materials and associated documentation. This right is exercised to ensure the long-term utility, discoverability, and integrity of the data.
+
+Under this provision, the Repository may perform the following actions:
+
+* Metadata Normalization: Standardizing dates, file formats, and taxonomic headers to comply with global interoperability standards (e.g., ISO 8601, Dublin Core).
+
+* Metadata Augmentation: Modifying or expanding metadata to improve clarity, fix typographical errors, or provide necessary context for future researchers.
+
+* Fidelity Enhancement: Updating data formatting or correcting obvious errors within data to increase the overall accuracy and technical fidelity of the record.
+
+* Non-Destructive Versioning: Where significant modifications are made to primary data, the Repository shall maintain a record of the original submission to ensure a transparent "chain of custody" and to protect the scientific intent of the depositor.
+
+Note to contributor: These interventions are performed strictly to enhance the value and reach of the data. The Repository will not alter the fundamental intellectual conclusions or the raw experimental results of a dataset without explicit consultation with the original author.
 
 
 ### Right of refusal
