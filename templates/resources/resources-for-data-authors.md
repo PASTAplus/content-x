@@ -8,7 +8,9 @@ Information managers serving a research group should check out the [resources fo
 
 ## Types of contributions
 
-EDI publishes data from the ecological and environmental sciences irrespective of funding origin. Contributions serve many use cases and are published with an open access license unless a compelling reason warrants an embargo ([data policy](/templates/about/edi-policy.md#data-policy)). Limits on size of publications are typically not a concern, but if the data are > 100 GB in size please contact us, so we can find a workable solution. For more information see [Types of Contributions](/templates/resources/types-of-contributions.md).
+EDI publishes data from the ecological and environmental sciences irrespective of funding origin. Contributions serve many use cases and are published with an open access license unless a compelling reason warrants an embargo ([data policy](/templates/about/edi-policy.md#data-policy)). Limits on size of publications are typically not a concern, but if the data are > 50 GB in size please contact us, so we can find a workable solution. For more information see [Types of Contributions](/templates/resources/types-of-contributions.md).
+
+EDI recognizes two publication pathways: 1) curator supported (see Steps 1–4 below) and 2) self-publication. Self-publication means that EDI grants you, the contributor, the privilege to publish data in the EDI data repository without direct oversight by an EDI curator. To learn about self-publishing, see [Self-Publishing](/templates/resources/self-publishing.md).
 
 ## Step 1 - Preparing for submission
 
