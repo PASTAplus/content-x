@@ -31,13 +31,14 @@ The following definitions are used throughout this Data Contributor Policy
 
 ### Data contributor responsibilities
 
-As a contributor to the EDI repository, you are the primary steward of the information you share. Your commitment to high-quality data and robust documentation ensures that your research is FAIR (Findable, Accessible, Interoperable, and Reusable). 
+As a valued contributor to the EDI repository, you are the primary steward of the information you share. Your partnership in providing high-quality data and robust metadata ensures that your research remains FAIR (Findable, Accessible, Interoperable, and Reusable).
 
-To maintain the integrity of the repository, all contributors must uphold the following responsibilities:
+To foster a valuable and reliable repository, we ask contributors to:
 
-* Contributors must ensure that data are of the highest scientific quality before submission.
-* Data must be accompanied by a full narrative of its "life cycle" using science metadata that is clear, comprehensive, and standardized.
-* It is the responsibility of the contributor to ensure that the data does not contain sensitive information.
+* Prepare data to meet the highest scientific quality standards prior to submission.  
+* Create complete and accurate descriptive metadata.  
+* Provide sufficient documentation to help future users understand the dataset and assess its fitness for use.  
+* Confirm that the data do not contain any sensitive or restricted information.
 
 ### Data package accessibility
 
@@ -67,26 +68,41 @@ EDI makes every effort to ensure that all data are curated with intellectual rig
 _This data package is released to the "public domain" under [Creative Commons CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) "No Rights Reserved". It is considered professional etiquette to provide attribution of the original work if this data package is shared in whole or by individual components. A generic citation is provided for this data package on [the website](https://portal.edirepository.org) (herein "website") in the summary metadata page. Communication (and collaboration) with the creators of this data package is recommended to prevent duplicate research or publication. This data package (and its components) is made available "as is" and with no warranty of accuracy or fitness for use. The creators of this data package and the website shall not be liable for any damages resulting from misinterpretation or misuse of the data package or its components. Periodic updates of this data package may be available from the website. Thank you._
 
 
-### Right of curatorial amendment
+### EDI Repository Responsibilities
 
-The Repository reserves the Right of Curatorial Amendment over all deposited materials and associated documentation. This right is exercised to ensure the long-term utility, discoverability, and integrity of the data.
+#### **Curatorial Assistance**
 
-Under this provision, the Repository may perform the following actions:
+The EDI Repository partners with data contributors to maximize the quality and impact of their data. We offer comprehensive curatorial consultation and assistance to help submitters optimize their data package prior to final publication and DOI assignment. Once published, the data package is considered immutable with all updates, edits, or additions handled as new versions. Furthermore, the entire data package series, which encompasses all revised versions, remains under the strict authority of the original creator(s) or any individuals they have authorized to implement changes.
 
-* Metadata Normalization: Standardizing dates, file formats, and taxonomic headers to comply with global interoperability standards (e.g., ISO 8601, Dublin Core).
+EDI’s data curators and repository managers are responsible for:
 
-* Metadata Augmentation: Modifying or expanding metadata to improve clarity, fix typographical errors, or provide necessary context for future researchers.
+* **Providing advice and assistance with metadata,** including modifying or expanding metadata to improve clarity and provide necessary context for future data users; fixing typographical errors; and standardizing dates, file formats, geographic coordinates, and taxonomic metadata to comply with global interoperability standards (e.g., ISO 8601, Dublin Core).  
+* **Enhancing contributed data** by identifying obvious errors in the data, and suggesting improvements to the accuracy and fidelity of the data.  
+* **Augmenting contributed metadata** with standardized terms, annotations, or tags that enhance data discovery and re-use at the repository or community level.  
+* **Providing a proof or pre-print of the data package** for the contributor to review prior to final publication.  
+* **Publishing an immutable version of the data package**, which has been approved by the contributor during the curation process. 
 
-* Fidelity Enhancement: Updating data formatting or correcting obvious errors within data to increase the overall accuracy and technical fidelity of the record.
+#### **Protocols for Data Enhancement**
 
-* Non-Destructive Versioning: Where significant modifications are made to primary data, the Repository shall maintain a record of the original submission to ensure a transparent "chain of custody" and to protect the scientific intent of the depositor.
+The EDI Repository recognizes that data packages vary in quality and can often be enhanced through non-destructive augmentations. When EDI invests resources into improving metadata or data entities in a way that alters the formatting or content of an existing data package series, we commit to the following protocols:
 
-Note to contributor: These interventions are performed strictly to enhance the value and reach of the data. The Repository will not alter the fundamental intellectual conclusions or the raw experimental results of a dataset without explicit consultation with the original author.
+* **Prioritize collaboration:** Before creating a new data package series, we will attempt to contact the original creators and primary point of contact. We will provide an outline of the intended changes and their rationale, inviting them to collaborate on a new revision within the original, creator-governed series.  
+* **Establish a derived series if necessary:** If the governing party is unreachable or declines to collaborate, EDI will create a separate, distinct data package series to publish these improvements, provided there are no restrictions within the original intellectual property rights or licensing.  
+* **Maintain clear provenance:** The new data package series will be linked to the source series using robust provenance metadata, explicitly detailing the chain of custody and the clear relationship between the source and derived products.  
+* **Ensure accountability:** To preserve accountability and transparency, EDI and the specific personnel involved in the modifications will be explicitly designated as the creators of the derived data package series.  
+* **Document modifications:** We will include clarifying metadata that describes the broad scope of changes made to the original data package to produce the derived version.
 
 
-### Right of refusal
+### EDI Repository Rights
 
-EDI reserves the right, at its sole discretion, to decline or remove any data submission for any reason. This includes, but is not limited to, datasets that do not meet our quality standards, contain insufficient metadata, violate privacy or ethical guidelines, or fall outside the scope of the repository’s mission.
+EDI reserves the right to decline a submission or remove a published data package based on policy violations. This action is reserved for cases where the data submission constitutes a fundamental breach of the repository's governing principles, ***including, but not limited to***:
+
+* Violation of established privacy laws, ethical guidelines, or established legal code.  
+* Inclusion of sensitive personally identifiable information (PII).  
+* Content that falls demonstrably outside the defined scope of the repository's mission.  
+* Corrupted or malicious files.
+
+In these cases, data contributors retain any rights to publish the data and metadata elsewhere.
 
 
 ## Privacy policy
