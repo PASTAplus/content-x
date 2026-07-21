@@ -48,4 +48,4 @@ The EDI Data Repository uses the [Ecological Metadata Language (EML)](/templates
 
 ## Is there an API for the EDI Data Repository?
 
-Yes! Anything you can manually do in the repository can also be done via the EDI [REST API](/templates/resources/rest-api.md).
+Yes! Most anything you can do on the Data Portal can also be done via the EDI [REST API](/templates/resources/rest-api.md).

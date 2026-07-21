@@ -133,7 +133,7 @@ The following definitions are used throughout this Privacy Policy:
 
 **PASTA+ software**. [The software](https://github.com/PASTAplus/PASTA) developed, maintained, and used by EDI to provide its data publication and archive service.
 
-**Personal data**. Data relating to an identified or identifiable natural person, which may include: common name, surname, given name, email address, organizational associations (name, address, phone), and or unique identifier (such as ORCID or GitHub identity).
+**Personal data**. Data relating to an identified or identifiable natural person, which may include: common name, surname, given name, email address, organizational associations (name, address, phone), and or unique identifier (such as ORCiD or GitHub identity).
 
 **Science Data**. Data collected by external parties that is published and archived by EDI.
 
@@ -148,7 +148,7 @@ The following definitions are used throughout this Privacy Policy:
 
 ### Third-party identity provider customer information
 
-The Environmental Data Initiative utilizes third-party identity providers, [GitHub](https://github.com), [Google](https://google.com), [Microsoft](https://microsoft.com), and [ORCID](https://orcid.org), to authenticate and uniquely identify customers who (1) require access to authentication controlled science data and metadata; (2) use EDI’s “ezEML” metadata editor web application, which requires a unique customer identifier for retaining application history; or (3) wish to create a unique customer profile within the suite of EDI web applications. This form of identity authentication relies on the OAuth2.0/OpenId Connect protocols used to communicate between your client browser, EDI, and the identity provider (IdP). EDI does not store customer authentication (“sign-on”) credentials on any EDI host server. However, in addition to securely verifying your identity, the IdP allows EDI access to minimal information they maintain about you: a string value that uniquely identifies you within their system (e.g., an email address) and your common name (if available). EDI may store this information in a web-based session cookie for customer identification on websites, in database applications maintained by EDI that are related to customer profiles or to match customer interactions with an EDI data product, or within an EDI authentication token that is used to convey customer identity information to one of EDI’s web services that implements access control. By selecting authentication through a third-party IdP, you consent to releasing this information for the above purposes. The following sections list detailed information that each IdP releases to EDI:
+The Environmental Data Initiative utilizes third-party identity providers, [GitHub](https://github.com), [Google](https://google.com), [Microsoft](https://microsoft.com), and [ORCiD](https://orcid.org), to authenticate and uniquely identify customers who (1) require access to authentication controlled science data and metadata; (2) use EDI’s “ezEML” metadata editor web application, which requires a unique customer identifier for retaining application history; or (3) wish to create a unique customer profile within the suite of EDI web applications. This form of identity authentication relies on the OAuth2.0/OpenId Connect protocols used to communicate between your client browser, EDI, and the identity provider (IdP). EDI does not store customer authentication (“sign-on”) credentials on any EDI host server. However, in addition to securely verifying your identity, the IdP allows EDI access to minimal information they maintain about you: a string value that uniquely identifies you within their system (e.g., an email address) and your common name (if available). EDI may store this information in a web-based session cookie for customer identification on websites, in database applications maintained by EDI that are related to customer profiles or to match customer interactions with an EDI data product, or within an EDI authentication token that is used to convey customer identity information to one of EDI’s web services that implements access control. By selecting authentication through a third-party IdP, you consent to releasing this information for the above purposes. The following sections list detailed information that each IdP releases to EDI:
 
 #### GitHub
 
@@ -174,11 +174,11 @@ The information released about you from Microsoft includes:
 2. your given name, and
 3. your surname.
 
-#### ORCID
+#### ORCiD
 
-The information released about you from ORCID includes:
+The information released about you from ORCiD includes:
 
-1. your fully qualified ORCID identifier,
+1. your fully qualified ORCiD identifier,
 2. your given name, and
 3. your surname.
 

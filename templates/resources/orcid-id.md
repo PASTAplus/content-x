@@ -1,47 +1,47 @@
-# Track Attribution with an ORCID iD
+# Track Attribution with an ORCiD iD
 
-An [ORCID iD](https://orcid.org/) is a free, unique, persistent identifier for researchers. Having an ORCID distinguishes researchers with similar names, ensures that scientific output is correctly attributed, and improves the overall discoverability of scientific products. Linking data publications to an ORCID profile ensures that research contributions are correctly attributed across scholarly databases.
+An [ORCiD iD](https://orcid.org/) is a free, unique, persistent identifier for researchers. Having an ORCiD distinguishes researchers with similar names, ensures that scientific output is correctly attributed, and improves the overall discoverability of scientific products. Linking data publications to an ORCiD profile ensures that research contributions are correctly attributed across scholarly databases.
 
 <img src="/static/images/attribution.png" width="50%">
 
-Along with the general benefits of having an ORCID, EDI allows the ORCID iD to stand in as a login across web applications. While this currently serves to ease the login process, in the future it will allow for user profiles highlighting data publications, improved collaboration between data authors, and the ability to push new data publications to an ORCID profile through [DataCite](https://datacite.org/).
+Along with the general benefits of having an ORCiD, EDI allows the ORCiD iD to stand in as a login across web applications. While this currently serves to ease the login process, in the future it will allow for user profiles highlighting data publications, improved collaboration between data authors, and the ability to push new data publications to an ORCiD profile through [DataCite](https://datacite.org/).
 
-[Register for an ORCID iD](https://orcid.org/register)
+[Register for an ORCiD iD](https://orcid.org/register)
 
 [TOC]
 
-## Linking data publications to an ORCID profile
+## Linking data publications to an ORCiD profile
 
 Data packages can be linked automatically through Search and Link "wizard" interfaces or manually from its DOI. 
 
->EDI is currently working to automate the ORCID **Update Profile** process by adding Creators' ORCID iDs to DataCite metadata.
+>EDI is currently working to automate the ORCiD **Update Profile** process by adding Creators' ORCiD iDs to DataCite metadata.
 
 
 ### Allowing "Search and Link" through DataCite
 
-Allow DataCite to add newly published data packages that contain your ORCID iD directly to your ORCID profile. Additionally, you can search DataCite metadata to find published data packages that are associated with your ORCID.
+Allow DataCite to add newly published data packages that contain your ORCiD iD directly to your ORCiD profile. Additionally, you can search DataCite metadata to find published data packages that are associated with your ORCiD.
 
-1. Access an ORCID profile page at https://orcid.org/&lt;YOUR_ORCID> or by searching on your name from the ORCID site.
+1. Access an ORCiD profile page at https://orcid.org/&lt;YOUR_ORCiD> or by searching on your name from the ORCiD site.
 2. Login and navigate to the **Works** section at the bottom of the profile.
 
     <img class="screen-shot" src="/static/images/orcid-works.png" width="90%">
 
 3. In the **Works** section click the **Add** button, and then choose **Search & Link** from the dropdown list. 
 4. From the **Available Search & Link Wizards** pop-up, select **DataCite**. This will take you to the DataCite Profiles page.
-5. From the DataCite Profiles page, next to ORCID permissions, click the green **Get ORCID token** button.
+5. From the DataCite Profiles page, next to ORCiD permissions, click the green **Get ORCiD token** button.
 6. Click the **Update** button on the bottom of the page and ensure that the Auto-Update is enabled option is selected.
 
     <img class="screen-shot" src="/static/images/orcid-works-datacite.png" width="70%">
 
-For more see the ORCID video [Use the Search & Link Wizard to Import Works](https://vimeo.com/236776451) or read the article [adding works by direct import](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems).
+For more see the ORCiD video [Use the Search & Link Wizard to Import Works](https://vimeo.com/236776451) or read the article [adding works by direct import](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems).
 
 ### Manually updating
 
-If you would prefer not to allow DataCite to automatically update your ORCID profile when new works with your ORCID iD are published, you can opt to manually update your profile.
+If you would prefer not to allow DataCite to automatically update your ORCiD profile when new works with your ORCiD iD are published, you can opt to manually update your profile.
 
 
 
-1. Access an ORCID profile page at https://orcid.org/&lt;YOUR_ORCID> or by searching on your name from the ORCID site.
+1. Access an ORCiD profile page at https://orcid.org/&lt;YOUR_ORCiD> or by searching on your name from the ORCiD site.
 2. Login and navigate to the **Works** section at the bottom of the profile.
 
     <img class="screen-shot" src="/static/images/orcid-works.png" width="90%">
@@ -62,4 +62,4 @@ If you would prefer not to allow DataCite to automatically update your ORCID pro
 
     <img class="screen-shot" src="/static/images/orcid-works3.png" width="70%">
 
-For more see the ORCID documentation on [adding works using an identifier](https://support.orcid.org/hc/en-us/articles/360022298153-Add-works-using-an-identifier).
+For more see the ORCiD documentation on [adding works using an identifier](https://support.orcid.org/hc/en-us/articles/360022298153-Add-works-using-an-identifier).
