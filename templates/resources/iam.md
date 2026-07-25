@@ -92,7 +92,7 @@ EDI uses a tiered permission structure (mapped to standard read, write, and admi
 - **Owner (Admin):** Inherits all Editor privileges, plus the ability to grant or revoke permissions for other subjects.
 - **None (Explicit Deny):** A special system level applied exclusively to the Public Access profile to negate all privileges.
 
-How it works in practice: If you are the Owner of a data package, you hold the administrative privilege required to grant another Subject Reader permission, authorizing them to access and download that data. See [here](/resources/create-permissions) for adding permissions to your data packages.
+How it works in practice: If you are the Owner of a data package, you hold the administrative privilege required to grant another Subject Reader permission, authorizing them to access and download that data. See [here](/resources/working-with-permissions) for adding permissions to your data packages.
 
 ### Working with Groups
 
@@ -107,11 +107,11 @@ Instead of assigning access rights to individual users repeatedly, you can group
 
 #### How They Work
 
-Groups function like individual user profiles and can be assigned any of the standard permission levels (Reader, Editor, or Owner). All members inherit the group’s assigned permissions to perform their work. Constraint: Nesting is not supported—groups cannot be added as members of other groups.
+Groups function like individual user profiles and can be assigned any of the standard permission levels (Reader, Editor, or Owner). All members inherit the group’s assigned permissions to perform their work. Constraint: Nesting is not supported—groups cannot be added as members of other groups. See [here](/resources/working-with-groups) to learn more about groups.
 
 Like individual user profiles, groups can be assigned an API access key and generate an EDI authentication token, allowing them to act as an "authenticated" user within the system.
 
-You can also create _zero-member groups_—groups with no individual users—to serve as a scoped security tool for API access keys in automated scripts or external data catalog integrations. However, to keep your system secure, a zero-member group paired with an access key should never be assigned permissions to data packages or other protected resources. See [here](/resources/keys-and-catalogs) for data catalog best practices.
+You can also create _zero-member groups_—groups with no individual users—to serve as a scoped security tool for API access keys in automated scripts or external data catalog integrations. However, to keep your system secure, a zero-member group paired with an access key should never be assigned permissions to data packages or other protected resources.
 
 ### Working with Authentication Tokens
 
@@ -143,7 +143,7 @@ When you append your access key to an API request as a query parameter (?key=YOU
 
 ```https://pasta.lternet.edu/package/eml/icarus/1/1?key=ACCESS_KEY_GOES_HERE```
 
-For step-by-step instructions on generating an API Access Key, see [here](/resources/creating-access-keys).
+For step-by-step instructions on generating an API Access Key, see [here](/resources/working-with-access-keys).
 
 #### Group Access Keys (Recommended for Security)
 
