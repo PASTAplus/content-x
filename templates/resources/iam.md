@@ -2,7 +2,7 @@
 
 [TOC]
 
-The **Identity and Access Manager (IAM)** is a security framework designed to protect resources across all EDI applications. Built on industry-standard OAuth protocols, IAM integrates directly with identity partners including GitHub, Google, Microsoft, and ORCID.
+The **Identity and Access Manager (IAM)** is a security framework designed to protect resources across all EDI applications. Built on industry-standard OAuth protocols, IAM integrates directly with identity partners including GitHub, Google, Microsoft, and ORCiD.
 
 ### Access Control & Profiles
 
