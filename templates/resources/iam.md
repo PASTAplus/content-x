@@ -92,6 +92,8 @@ EDI uses a tiered permission structure (mapped to standard read, write, and admi
 - **Owner (Admin):** Inherits all Editor privileges, plus the ability to grant or revoke permissions for other subjects.
 - **None (Explicit Deny):** A special system level applied exclusively to the Public Access profile to negate all privileges.
 
+When you publish a data package with EDI, default access is strictly limited. Only the user who submits the package (designated as the *Owner*) and any subjects or principals explicitly listed in the metadata's access control list are granted permissions. All other users are implicitly denied access.
+
 How it works in practice: If you are the Owner of a data package, you hold the administrative privilege required to grant another Subject Reader permission, authorizing them to access and download that data. See [here](/resources/working-with-permissions) for adding permissions to your data packages.
 
 ### Working with Groups
