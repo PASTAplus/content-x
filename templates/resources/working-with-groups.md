@@ -28,11 +28,11 @@ In the "Create a new group" pop-up window, enter a new group name and an optiona
 
 ### 4. Add a Member to the New Group
 
-Once you have the "Sol Worshiper" group created, it is time to add one or more members to the group. Select the radio button to left of the "Sol Worshiper" group entry. In the "Add Users" field, search for "msobol" and select him in the search result.
+Once you have the "Sol Worshiper" group created, it is time to add one or more members to the group. Select the radio button to left of the "Sol Worshiper" group entry in the "Group Details" panel. In the "Add Users and Groups" field of the "Members" panel, search for "msobol" and select him in the search result.
 
 Notes:
 
-- The "Add Users" search field allows you to search for a user by name, email or EDI identifier.
+- The "Add Users or Groups" search field allows you to search for a user by name, email or EDI identifier.
 - You cannot add a group to another group. Only individual user profiles can be added to a group.
 
 ### 5. Remove a Member from the Group
