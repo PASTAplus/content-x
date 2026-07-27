@@ -1,4 +1,4 @@
-# How to Obfuscate a URL
+# How to Obfuscate a URL with an Access Key
 
 One method to obsfuscate a URL that shows up on an HTML web page as an anchor link:
 
@@ -7,14 +7,22 @@ One method to obsfuscate a URL that shows up on an HTML web page as an anchor li
 
 For example:
 
-When working with a URL, such as `https://pasta.lternet.edu/package/eml/icarus/13/1`, convert it to its Base 64 equivalent  `aHR0cHM6Ly9wYXN0YS5sdGVybmV0LmVkdS9wYWNrYWdlL2VtbC9pY2FydXMvMTMvMQ==` and place it as the data payload of the button:
+When working with a URL with an API access key, such as
+
+`https://pasta.lternet.edu/package/eml/icarus/13/1?key=npOZcUcCTDRcf0y38wfCWEMqoHo`,
+
+convert it to its Base 64 equivalent
+
+`aHR0cHM6Ly9wYXN0YS5sdGVybmV0LmVkdS9wYWNrYWdlL2VtbC9pY2FydXMvMTMvMT9rZXk9bnBP`
+
+and place it as the data payload of the button:
 
 HTML
 
 ```html
 <button 
   id="download-btn" 
-  data-url="aHR0cHM6Ly9wYXN0YS5sdGVybmV0LmVkdS9wYWNrYWdlL2VtbC9pY2FydXMvMTMvMQ==">
+  data-url="aHR0cHM6Ly9wYXN0YS5sdGVybmV0LmVkdS9wYWNrYWdlL2VtbC9pY2FydXMvMTMvMT9rZXk9bnBP">
   Download Dataset
 </button>
 ```
@@ -44,7 +52,7 @@ Try me...
 
 <button 
   id="download-btn" 
-  data-url="aHR0cHM6Ly9wYXN0YS5sdGVybmV0LmVkdS9wYWNrYWdlL2VtbC9pY2FydXMvMTMvMQ==">
+  data-url="aHR0cHM6Ly9wYXN0YS5sdGVybmV0LmVkdS9wYWNrYWdlL2VtbC9pY2FydXMvMTMvMT9rZXk9bnBP">
   Download Dataset
 </button>
 
