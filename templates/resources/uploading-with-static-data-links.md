@@ -94,16 +94,6 @@ To insert download links manually:
 
 ## Uploading to EDI
 
->If creating a data package with ezEML, the easiest way to upload to the EDI Repository is by using the **Send to EDI** tab.
+- If creating a data package with ezEML, the easiest way to upload to the EDI Repository is by using the **Send to EDI** tab.
 
->If you've manually added download links to an EML file or have created a data package with EMLassemblyline, and don't have an EDI User Account, you can submit the EML document by emailing the EDI Curation Team and requesting that they upload it on your behalf. Make sure that every data file in the data package has a direct download link associated with it. There is no need to attach the data files in the email since the download links are listed.
-
-If publishing a data package via the EDI Data Portal note:
-
-
-
-1. In order to skip manual upload, all objects must have links (all or nothing).
-2. Remember to **NOT** check the "Manually upload data" checkbox.
-3. If some of the objects in the data package package are already in the EDI Repository, remember to check the **Allow PASTA+ to skip …** checkbox.
-
-    <img class="screen-shot" src="/static/images/upload-link.png" width="70%">
+- If you've manually added download links to an EML file or have created a data package with EMLassemblyline, and don't have an EDI User Account, you can submit the EML document by emailing the EDI Curation Team and requesting that they upload it on your behalf. Make sure that every data file in the data package has a direct download link associated with it. There is no need to attach the data files in the email since the download links are listed.

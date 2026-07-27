@@ -4,7 +4,7 @@
 
 ## Data policy
 
-Version 0.0, Adopted 25 November 2019
+Version 2.0, Adopted 25 November 2019; Updated 1 April 2026
 
 The Environmental Data Initiative (herein EDI) provides services defined as publication and archive of science data to communities world-wide. In accordance with the EDI scope and mission, the following Data Policy statement declares an agreed upon understanding between EDI and the individual or individuals responsible for any and all data submitted to the EDI data repository for the purposes of publication and archive.
 
@@ -29,6 +29,16 @@ The following definitions are used throughout this Data Contributor Policy
 
 **Science Metadata**. Textual metadata describing scientific data that is published and archived by EDI
 
+### Data contributor responsibilities
+
+As a valued contributor to the EDI repository, you are the primary steward of the information you share. Your partnership in providing high-quality data and robust metadata ensures that your research remains FAIR (Findable, Accessible, Interoperable, and Reusable).
+
+To foster a valuable and reliable repository, we ask contributors to:
+
+* Prepare data to meet the highest scientific quality standards prior to submission.  
+* Create complete and accurate descriptive metadata.  
+* Provide sufficient documentation to help future users understand the dataset and assess its fitness for use.  
+* Confirm that the data do not contain any sensitive or restricted information.
 
 ### Data package accessibility
 
@@ -56,6 +66,44 @@ There is an option to declare data "offline" within the distribution field of th
 EDI makes every effort to ensure that all data are curated with intellectual rights defined by the data provider as found in the data package metadata. Although EDI advocates for open and unfettered access to data packages without use restrictions, we do not forbid data providers from declaring more restrictive licensing agreements for use of their data packages. Data providers should include a statement of Intellectual Rights in the metadata of their submissions. If they do not, EDI reserves the right to add a default declaration of intellectual rights to the data package metadata. The default declaration of intellectual rights used by EDI is based on the Creative Commons CC0 "No Rights Reserved" waiver. See below for the full default statement:
 
 _This data package is released to the "public domain" under [Creative Commons CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) "No Rights Reserved". It is considered professional etiquette to provide attribution of the original work if this data package is shared in whole or by individual components. A generic citation is provided for this data package on [the website](https://portal.edirepository.org) (herein "website") in the summary metadata page. Communication (and collaboration) with the creators of this data package is recommended to prevent duplicate research or publication. This data package (and its components) is made available "as is" and with no warranty of accuracy or fitness for use. The creators of this data package and the website shall not be liable for any damages resulting from misinterpretation or misuse of the data package or its components. Periodic updates of this data package may be available from the website. Thank you._
+
+
+### EDI Repository Responsibilities
+
+#### **Curatorial Assistance**
+
+The EDI Repository partners with data contributors to maximize the quality and impact of their data. We offer comprehensive curatorial consultation and assistance to help submitters optimize their data package prior to final publication and DOI assignment. Once published, the data package is considered immutable with all updates, edits, or additions handled as new versions. Furthermore, the entire data package series, which encompasses all revised versions, remains under the strict authority of the original creator(s) or any individuals they have authorized to implement changes.
+
+EDI’s data curators and repository managers are responsible for:
+
+* **Providing advice and assistance with metadata,** including modifying or expanding metadata to improve clarity and provide necessary context for future data users; fixing typographical errors; and standardizing dates, file formats, geographic coordinates, and taxonomic metadata to comply with global interoperability standards (e.g., ISO 8601, Dublin Core).  
+* **Enhancing contributed data** by identifying obvious errors in the data, and suggesting improvements to the accuracy and fidelity of the data.  
+* **Augmenting contributed metadata** with standardized terms, annotations, or tags that enhance data discovery and re-use at the repository or community level.  
+* **Providing a proof or pre-print of the data package** for the contributor to review prior to final publication.  
+* **Publishing an immutable version of the data package**, which has been approved by the contributor during the curation process. 
+
+#### **Protocols for Data Enhancement**
+
+The EDI Repository recognizes that data packages vary in quality and can often be enhanced through non-destructive augmentations. When EDI invests resources into improving metadata or data entities in a way that alters the formatting or content of an existing data package series, we commit to the following protocols:
+
+* **Prioritize collaboration:** Before creating a new data package series, we will attempt to contact the original creators and primary point of contact. We will provide an outline of the intended changes and their rationale, inviting them to collaborate on a new revision within the original, creator-governed series.  
+* **Establish a derived series if necessary:** If the governing party is unreachable or declines to collaborate, EDI will create a separate, distinct data package series to publish these improvements, provided there are no restrictions within the original intellectual property rights or licensing.  
+* **Maintain clear provenance:** The new data package series will be linked to the source series using robust provenance metadata, explicitly detailing the chain of custody and the clear relationship between the source and derived products.  
+* **Ensure accountability:** To preserve accountability and transparency, EDI and the specific personnel involved in the modifications will be explicitly designated as the creators of the derived data package series.  
+* **Document modifications:** We will include clarifying metadata that describes the broad scope of changes made to the original data package to produce the derived version.
+
+
+### EDI Repository Rights
+
+EDI reserves the right to decline a submission or remove a published data package based on policy violations. This action is reserved for cases where the data submission constitutes a fundamental breach of the repository's governing principles, ***including, but not limited to***:
+
+* Violation of established privacy laws, ethical guidelines, or established legal code.  
+* Inclusion of sensitive personally identifiable information (PII).  
+* Content that falls demonstrably outside the defined scope of the repository's mission.  
+* Corrupted or malicious files.
+
+In these cases, data contributors retain any rights to publish the data and metadata elsewhere.
+
 
 ## Privacy policy
 
@@ -85,7 +133,7 @@ The following definitions are used throughout this Privacy Policy:
 
 **PASTA+ software**. [The software](https://github.com/PASTAplus/PASTA) developed, maintained, and used by EDI to provide its data publication and archive service.
 
-**Personal data**. Data relating to an identified or identifiable natural person, which may include: common name, surname, given name, email address, organizational associations (name, address, phone), and or unique identifier (such as ORCID or GitHub identity).
+**Personal data**. Data relating to an identified or identifiable natural person, which may include: common name, surname, given name, email address, organizational associations (name, address, phone), and or unique identifier (such as ORCiD or GitHub identity).
 
 **Science Data**. Data collected by external parties that is published and archived by EDI.
 
@@ -100,7 +148,7 @@ The following definitions are used throughout this Privacy Policy:
 
 ### Third-party identity provider customer information
 
-The Environmental Data Initiative utilizes third-party identity providers, [GitHub](https://github.com), [Google](https://google.com), [Microsoft](https://microsoft.com), and [ORCID](https://orcid.org), to authenticate and uniquely identify customers who (1) require access to authentication controlled science data and metadata; (2) use EDI’s “ezEML” metadata editor web application, which requires a unique customer identifier for retaining application history; or (3) wish to create a unique customer profile within the suite of EDI web applications. This form of identity authentication relies on the OAuth2.0/OpenId Connect protocols used to communicate between your client browser, EDI, and the identity provider (IdP). EDI does not store customer authentication (“sign-on”) credentials on any EDI host server. However, in addition to securely verifying your identity, the IdP allows EDI access to minimal information they maintain about you: a string value that uniquely identifies you within their system (e.g., an email address) and your common name (if available). EDI may store this information in a web-based session cookie for customer identification on websites, in database applications maintained by EDI that are related to customer profiles or to match customer interactions with an EDI data product, or within an EDI authentication token that is used to convey customer identity information to one of EDI’s web services that implements access control. By selecting authentication through a third-party IdP, you consent to releasing this information for the above purposes. The following sections list detailed information that each IdP releases to EDI:
+The Environmental Data Initiative utilizes third-party identity providers, [GitHub](https://github.com), [Google](https://google.com), [Microsoft](https://microsoft.com), and [ORCiD](https://orcid.org), to authenticate and uniquely identify customers who (1) require access to authentication controlled science data and metadata; (2) use EDI’s “ezEML” metadata editor web application, which requires a unique customer identifier for retaining application history; or (3) wish to create a unique customer profile within the suite of EDI web applications. This form of identity authentication relies on the OAuth2.0/OpenId Connect protocols used to communicate between your client browser, EDI, and the identity provider (IdP). EDI does not store customer authentication (“sign-on”) credentials on any EDI host server. However, in addition to securely verifying your identity, the IdP allows EDI access to minimal information they maintain about you: a string value that uniquely identifies you within their system (e.g., an email address) and your common name (if available). EDI may store this information in a web-based session cookie for customer identification on websites, in database applications maintained by EDI that are related to customer profiles or to match customer interactions with an EDI data product, or within an EDI authentication token that is used to convey customer identity information to one of EDI’s web services that implements access control. By selecting authentication through a third-party IdP, you consent to releasing this information for the above purposes. The following sections list detailed information that each IdP releases to EDI:
 
 #### GitHub
 
@@ -126,11 +174,11 @@ The information released about you from Microsoft includes:
 2. your given name, and
 3. your surname.
 
-#### ORCID
+#### ORCiD
 
-The information released about you from ORCID includes:
+The information released about you from ORCiD includes:
 
-1. your fully qualified ORCID identifier,
+1. your fully qualified ORCiD identifier,
 2. your given name, and
 3. your surname.
 
