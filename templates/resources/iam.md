@@ -2,32 +2,31 @@
 
 [TOC]
 
-The **Identity and Access Manager (IAM)** is a security framework designed to protect resources across all EDI applications. Built on industry-standard OAuth protocols, IAM integrates directly with identity partners including GitHub, Google, Microsoft, and ORCiD.
-
-### Access Control & Profiles
-
-IAM manages access to system and user resources using a straight-forward permission hierarchy: READER, EDITOR, and OWNER.
-
-- **Creating Profiles:** Signing in to [IAM](https://auth.edirepository.org) automatically generates a free profile for you and issues you a unique EDI identifier. This identifier distinguishes you across all EDI applications.
-- **Multiple Accounts:** Each profile is linked to a single identity provider account. You can create multiple profiles by signing in with different accounts—even from the same provider.
-- **Linking Profiles:** Separate profiles can be linked together to represent a single user, automatically combining the permission sets of all linked profiles into one.
-
-### Additional Capabilities
-
-Beyond simple authentication, IAM provides tools to manage your data and account:
-
-- **Permissions Management:** Directly control who can view or modify your published data packages.
-- **User Groups:** Create groups and assign colleagues to streamline permissions across multiple resources at once.
-- **Profile Administration:** Update your account details, such as your display name or email address.
-- **API Access Keys:** Generate and manage access keys for programmatic interaction and automated API workflows.
+The **Identity and Access Manager (IAM)** is a security framework designed to protect resources across all EDI applications. Built on the industry-standard OAuth2 authorization protocol, IAM integrates directly with identity providers including ORCiD, Google, Microsoft, and GitHub.
 
 <img class="screen-shot" src="/static/images/IAM-Sign-In.png" width="95%"> 
 
-The IAM website is divided into five major sections: **Profile**, **Accounts**, **Groups**, **Memberships**, and **Permissions**, along with a drop-down **Profile menu** from the avatar button at the upper right. Each of these sections and the drop-down menu are described below:
+## Profiles & Access Control
+
+- **Create a profile automatically:** IAM enables you to authenticate in EDI applications using your preferred identity provider. When you sign in to [IAM](https://auth.edirepository.org), IAM creates a free profile and assigns you a unique EDI identifier (EDI-ID). This identifier represents you across EDI applications.
+- **Manage resource access:** IAM lets you grant **Reader**, **Editor**, and **Owner** permissions to control who can view, modify, or administer your resources.
+
+## Additional Capabilities
+
+In addition to authentication, IAM provides tools for account and data management:
+
+- **Permissions management:** Control who can view or modify your published data packages.
+- **User groups:** Create groups and assign colleagues to simplify permissions across multiple resources.
+- **Profile administration:** Update profile details such as display name and email address.
+- **API Access Keys:** Create and manage keys for automated programmatic access.
+
+# Main Pages
+
+The IAM website has five main pages: **Profile**, **Accounts**, **Groups**, **Memberships**, and **Permissions**, along with a drop-down Profile menu from the avatar button at the upper right. Each of these pages and the drop-down menu are described below.
 
 ## Profile
 
-The *Profile* page displays information about you, the signed-in user, including your username, EDI identifier (EDI-ID), email address (if set), and whether you have consented to notification by email of relevant information. The important element of this page is the EDI identifier, which can be copied using the copy button (<svg class="icon-char" viewBox="0 0 16 16">
+The **Profile** page displays information about you, the signed-in user, including your username, EDI identifier (EDI-ID), email address (if set), and whether you have consented to notification by email of relevant information. The main element of this page is your EDI identifier, which can be copied using the copy button (<svg class="icon-char" viewBox="0 0 16 16">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z" />
     <path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z" />
   </svg>) for use in other applications.
@@ -36,44 +35,52 @@ The *Profile* page displays information about you, the signed-in user, including
 
 ## Accounts
 
-The *Accounts* page displays your primary profile along with the identity provider used to sign in. It also lists any linked accounts. Account linking lets you combine profiles from different identity providers into a single identity, ensuring seamless access to your data packages no matter how you sign in. You can unlink accounts at any time; however, permissions for specific data packages will remain tied to the primary profile under which they were originally created.
+The **Accounts** page displays your primary profile and any linked profiles, along with the identity providers used to sign in.
 
 <img class="screen-shot" src="/static/images/IAM-Accounts.png" width="95%"> 
 
+- **Multiple Accounts:** Each profile is associated  with a single identity provider account. You can create multiple profiles by signing in with different accounts — even from the same provider.
+
+- **Linking Profiles:** If you have multiple profiles, you can link them to gain combined access to all resources across those profiles. You may sign in with your primary profile or any of the linked profiles.
+
+- **Unlinking Profiles:** You can unlink profiles at any time. Unlinking a profile enables you to sign in to it separately again. An unlinked profile retains all permissions that have been specifically granted to it, but will no longer have permissions from the profiles to which it was previously linked. 
+
+
 ## Groups
 
-The _Groups_ page allows any user with a profile to create and manage user groups for more efficient access control. Instead of granting permissions to individual users one by one—a process that can quickly become cumbersome and error-prone—you can assign permissions directly to a group in a single step. Adding a user to a group immediately grants them access to all resources associated with that group, while removing them revokes that access instantly.
+The **Groups** page enables you to create and manage user groups for more efficient access control. Instead of granting permissions to individuals one by one — a process that can quickly become cumbersome and error-prone — you can assign permissions directly to a group in a single step. Adding a member to a group immediately grants them access to all resources associated with that group, while removing them revokes that access instantly.
 
 <img class="screen-shot" src="/static/images/IAM-Groups.png" width="95%"> 
 
 ## Memberships
 
-The *Memberships* page shows you the groups of which you are a member, and it gives you the option to leave any group by clicking the "Leave" button.  
+The **Memberships** page shows you the groups of which you are a member, and it gives you the option to leave any group.  
 
 <img class="screen-shot" src="/static/images/IAM-GroupMembership.png" width="95%"> 
 
 ## Permissions
 
-The Permissions page enables you to assign and manage access levels for the resources you own, specifically data packages and their individual components. Permissions can be granted to either an individual user profile or a group across three distinct tiers:
+The **Permissions** page enables you to assign and manage permissions for the resources you own, specifically data packages and their individual components. Access  can be granted to either an individual user profile or a group across three distinct tiers:
 
-- **Reader** provides read-only access, making it ideal when you want others to view or download your data and metadata without the ability to modify it.
-- **Editor** inherits all Reader capabilities and adds the ability to modify the resource, including deleting it or uploading new revisions.
-- **Owner** includes full Editor privileges while granting administrative rights to add, modify, or revoke permissions for other users.
+- **Reader (Read-only access)**: Enables viewing or downloading your data and metadata both through the web interface and API without the ability to modify it.
+- **Editor (Write access)**: Inherits all Reader access and grants access to modify the resource, including deleting it or uploading new revisions.
+- **Owner (Admin access)**: Inherits all Editor access and grants access to add, modify, or revoke permissions for other users.
+- **None (No access):** Disable explicit access. Access may still be granted through other permissions, e.g., if the resource has Public or Authenticated access, or the subject is a member of a group that has access, the subject will still have access.
 
-_Caution_: Exercise care when granting Editor or Owner privileges, as these allow other users to alter your data or alter who has access to it. 
+_Caution_: Exercise care when granting Editor or Owner access, as these allow other users to alter your data or alter who has access to it.
 
 <img class="screen-shot" src="/static/images/IAM-Permissions.png" width="95%">
 
 ## Profile Menu
 
-The *Profile menu* is accessed by selecting your avatar button near the top-right of the toolbar. The menu itself provides you with four options: **Edit Profile**, **Select Avatar**, **Access Keys**, and **Authentication Token**. 
+The **Profile menu** is accessed by selecting your avatar button near the top-right of the toolbar. The menu provides four options: **Edit Profile**, **Select Avatar**, **Access Keys**, and **Authentication Token**.
 
 <img class="screen-shot" src="/static/images/IAM-Avatar.png" width="95%">
 
-- **Edit Profile** - This menu item will allow you to modify attributes of your profile. These include changing your profile visible name, your active email address, and consenting to receive low-volume notification emails from EDI. You may also delete your profile if you desire. This last action will prohibit you from accessing EDI applications that require authentication.
-- **Select Avatar** - This menu item will allow you to select available avatars to display on avatar enabled applications. Only avatars associated with your primary and linked profiles are available for selection.
-- **Access Keys** - This menu item will allow you to create and manage EDI API Access Keys.
-- **Authentication Token** - This menu item will allow you to view and copy your current EDI authentication token.
+- **Edit Profile** - Modify attributes of your profile. These include changing your profile visible name, your active email address, and consenting to receive low-volume notification emails from EDI. You may also delete your profile if you desire. This last action will prohibit you from accessing EDI applications that require authentication.
+- **Select Avatar** - Select available avatars to display on avatar enabled applications. Only avatars associated with your primary and linked profiles are available for selection.
+- **Access Keys** - Create and manage EDI API Access Keys.
+- **Authentication Token** - View and copy your current EDI authentication token.
 
 ## Additional Information
 
@@ -81,20 +88,20 @@ The *Profile menu* is accessed by selecting your avatar button near the top-righ
 
 In EDI, access control revolves around three core concepts: Resources, Subjects, and Permissions.
 
-- **Resource:** Any asset that requires protection—specifically data packages or service API methods.
+- **Resource:** Any asset that requires protection — specifically data packages or service API methods.
 - **Subject:** An entity attempting to interact with a resource, such as a user, group, or software process.
-- **Permission:** The authorization level granted to a subject over a resource.
+- **Permission:** The access  level granted to a subject  on a resource.
 
 EDI uses a tiered permission structure (mapped to standard read, write, and admin concepts) aligned with our data publishing model:
 
 - **Reader (Read):** Can view or download data packages and execute API service methods.
 - **Editor (Write):** Inherits all Reader privileges, plus the ability to create, modify or delete resources.
 - **Owner (Admin):** Inherits all Editor privileges, plus the ability to grant or revoke permissions for other subjects.
-- **None (Explicit Deny):** A special system level applied exclusively to the Public Access profile to negate all privileges.
+- **None (No Access):** Disable explicit access. The subject may still have access through other permissions, e.g., if the resource has Public or Authenticated access, or the subject is a member of a group that has access, the subject will still have access.
 
-When you publish a data package with EDI, default access is strictly limited. Only the user who submits the package (designated as the *Owner*) and any subjects or principals explicitly listed in the metadata's access control list are granted permissions. All other users are implicitly denied access.
+When you publish a data package with EDI, default access is strictly limited. Only the user who submits the package (designated as the Owner) and any subjects or principals explicitly listed in the metadata's access control list are granted permissions. All other users are implicitly denied access.
 
-How it works in practice: If you are the Owner of a data package, you hold the administrative privilege required to grant another Subject Reader permission, authorizing them to access and download that data. See [here](/resources/working-with-permissions) for adding permissions to your data packages.
+How it works in practice: If you are the Owner of a data package, you hold the administrative privilege required to grant Reader permissions to other Subjects, authorizing them to access and download that data. See [here](/resources/working-with-permissions) for adding permissions to your data packages.
 
 ### Working with Groups
 
@@ -107,13 +114,13 @@ Instead of assigning access rights to individual users repeatedly, you can group
 - **Onboarding:** Adding a new colleague to a group automatically grants them access to all resources assigned to that group.
 - **Offboarding:** Removing a user from a group instantly revokes their access across all associated data packages.
 
-#### How They Work
+#### How Groups Work
 
-Groups function like individual user profiles and can be assigned any of the standard permission levels (Reader, Editor, or Owner). All members inherit the group’s assigned permissions to perform their work. Constraint: Nesting is not supported—groups cannot be added as members of other groups. See [here](/resources/working-with-groups) to learn more about groups.
+Groups function like individual user profiles and can be assigned any of the standard access  levels (Reader, Editor, or Owner). All group members inherit the permissions assigned to the group. . Note that nesting is not supported — groups cannot be added as members of other groups. See [here](/resources/working-with-groups) to learn more about groups.
 
-Like individual user profiles, groups can be assigned an API access key and generate an EDI authentication token, allowing them to act as an "authenticated" user within the system.
+Like individual user profiles, groups can act as authenticated users within EDI. API Access Keys can be assigned to them. They have an EDI-ID and are represented by EDI authentication tokens.
 
-You can also create _zero-member groups_—groups with no individual users—to serve as a scoped security tool for API access keys in automated scripts or external data catalog integrations. However, to keep your system secure, a zero-member group paired with an access key should never be assigned permissions to data packages or other protected resources.
+Groups also provide a way to give someone anonymous authenticated access. This is done by creating an empty group, creating an API Access Key for the group, and giving the key to the person who requires access. Such a group will typically require no members, but if members are added to the group, they will gain access to resources to which the group has access, just as with a regular group.
 
 ### Working with Authentication Tokens
 
@@ -131,7 +138,7 @@ Want to dive deeper? If you are a developer looking for technical specifics on o
 
 ### Working with API Access Keys
 
-An API Access Key is a secret identifier used in exchange for an EDI authentication token. It carries the exact same privileges as signing in with your personal identity provider—making it a sensitive credential that must be protected.
+An API Access Key is a secret identifier used in exchange for an EDI authentication token. It carries the exact same privileges as signing in with your personal identity provider — making it a sensitive credential that must be protected.
 
 #### Key Features and Differences
 
@@ -149,13 +156,12 @@ For step-by-step instructions on generating an API Access Key, see [here](/resou
 
 #### Group Access Keys (Recommended for Security)
 
-To limit security risks—especially when integrating with external data catalogs or automated scripts that only need read access—you can create a Group Access Key instead of a user profile key. See [here](/resources/keys-and-catalogs) for data catalog best practices.
+To limit security risks — especially when integrating with external data catalogs or automated scripts that only need read access — you can create a Group Access Key instead of a user profile key. See [here](/resources/keys-and-catalogs) for data catalog best practices.
 
 - **Scoped Privileges:** Operates identically to a user key, but its privileges are restricted strictly to what the assigned group is allowed to do.
 - **Creation:** Generated from the same *Access Keys* page by selecting a target group instead of your user profile.
 
-_Security Note_: Never share your access keys, post them on public web pages, or commit them into source code repositories.
-
+_Security Note_: Your Profile Access Keys provide unlimited access to your account, and should be treated with the same level of security as passwords. Never share them, post them on public web pages, or commit them into source code repositories. Group Access Keys are safer for use in scripts and external applications, as they can be scoped to specific groups. However, they should also be treated as sensitive credentials and protected accordingly.
 
 ## Video Content
 

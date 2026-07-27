@@ -28,9 +28,16 @@ In the "Create a new group" pop-up window, enter a new group name and an optiona
 
 ### 4. Add a Member to the New Group
 
-Once you have the "Sol Worshiper" group created, it is time to add one or more members to the group. Select the radio button to left of the "Sol Worshiper" group entry. In the "Members" panel, search for "msobol" in the "Add Users and Groups" form field and select his avatar and EDI identifier. (Note: You can search on a user or group name or EDI identifiers in this field.) The "msobol" user will then be added to the "Sol Worshipper" group.
+Once you have the "Sol Worshiper" group created, it is time to add one or more members to the group. Select the radio button to left of the "Sol Worshiper" group entry. In the "Add Users" field, search for "msobol" and select him in the search result.
 
-To remove "msobol" (or any other user), select "Remove" from the "msobol" entry in the "Members" panel.
+Notes:
+
+- The "Add Users" search field allows you to search for a user by name, email or EDI identifier.
+- You cannot add a group to another group. Only individual user profiles can be added to a group.
+
+### 5. Remove a Member from the Group
+
+To remove "msobol" (or any other user), first select the group, then select "Remove" from the "msobol" entry in the "Members" panel.
 
 <video class="screen-shot" autoplay loop muted playsinline width="95%">
     <source src="/static/images/IAM-Groups-Add.webm" type="video/webm">
