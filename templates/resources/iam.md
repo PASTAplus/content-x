@@ -155,3 +155,8 @@ To limit security risks—especially when integrating with external data catalog
 - **Creation:** Generated from the same *Access Keys* page by selecting a target group instead of your user profile.
 
 _Security Note_: Never share your access keys, post them on public web pages, or commit them into source code repositories.
+
+
+## Video Content
+
+See [here](https://www.youtube.com/playlist?list=PLqJSn_IJVNs-mOqCRqmRRgkNPzZGOaPCp) for videos about the Identity and Access Manager and related topics.
