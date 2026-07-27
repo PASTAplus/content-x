@@ -1,6 +1,6 @@
 # How to Obfuscate a URL
 
-One method to obsfuscate an URL that shows up on an HTML web page as an anchor link:
+One method to obsfuscate a URL that shows up on an HTML web page as an anchor link:
 
 - Encode the URL as a Base 64 string
 - Place the encoded string into a `<button>` and make it actionable with JavaScript
