@@ -75,9 +75,9 @@ The **Profile menu** is accessed by selecting your avatar button near the top-ri
 - **Access Keys** - Create and manage EDI API Access Keys.
 - **Authentication Token** - View and copy your current EDI authentication token.
 
-### Additional Information
+## Additional Information
 
-#### Working with Resource Permissions
+### Working with Resource Permissions
 
 In EDI, access control revolves around three core concepts: Resources, Subjects, and Permissions.
 
@@ -99,18 +99,18 @@ How it works in practice: If you are the Owner of a data package, you hold the a
 
 _Caution_: Exercise care when granting Editor or Owner access, as these allow other users to alter your data or alter who has access to it.
 
-#### Working with Groups
+### Working with Groups
 
 In the IAM framework, a Group is a collection of user profiles used to streamline permission management across multiple data packages and individuals.
 
-##### Why Use Groups?
+#### Why Use Groups?
 
 Instead of assigning access rights to individual users repeatedly, you can group users together and assign permissions to the group itself. This significantly simplifies user management:
 
 - **Onboarding:** Adding a new colleague to a group automatically grants them access to all resources assigned to that group.
 - **Offboarding:** Removing a user from a group instantly revokes their access across all associated data packages.
 
-##### How Groups Work
+#### How Groups Work
 
 Groups function like individual user profiles and can be assigned any of the standard access  levels (Reader, Editor, or Owner). All group members inherit the permissions assigned to the group. . Note that nesting is not supported — groups cannot be added as members of other groups. See [here](/resources/working-with-groups) to learn more about groups.
 
@@ -118,31 +118,31 @@ Like individual user profiles, groups can act as authenticated users within EDI.
 
 Groups also provide a way to give someone anonymous authenticated access. This is done by creating an empty group, creating an API Access Key for the group, and giving the key to the person who requires access. Such a group will typically require no members, but if members are added to the group, they will gain access to resources to which the group has access, just as with a regular group.
 
-#### Working with Authentication Tokens
+### Working with Authentication Tokens
 
 Authentication tokens are the mechanism used to convey user profile and group membership information both internally and between applications.
 
 - **For casual users:** The technical details of tokens are not important, and you generally won't need to interact with them.
 - **For developers:** If you work directly with EDI's REST APIs, tokens provide necessary profile and group relationship data. Tokens are passed to EDI applications within a *Cookie* header.
 
-##### Technical Considerations
+#### Technical Considerations
 
 - **Lifespan:** Tokens have a intentionally short (hours) useful lifespan.
 - **Best Practice:** For general use with EDI's REST APIs, authentication tokens should be replaced by API Access Keys (detailed below).
 
 Want to dive deeper? If you are a developer looking for technical specifics on our authentication tokens, please contact the EDI team directly to discuss your use case.
 
-#### Working with API Access Keys
+### Working with API Access Keys
 
 An API Access Key is a secret identifier used in exchange for an EDI authentication token. It carries the exact same privileges as signing in with your personal identity provider — making it a sensitive credential that must be protected.
 
-##### Key Features and Differences
+#### Key Features and Differences
 
 - **Custom Lifespan:** Unlike authentication tokens (which expire in a few hours and cannot be extended), access key lifespans are defined by you. They default to one year, and you can edit their name and valid date range at any time.
 - **Flexible Usage:** Designed primarily for the EDI repository REST API, access keys can also be used to sign in to the Data Portal and the Identity and Access Manager.
 - **Multiple Keys:** Registered users can generate multiple keys via the *Profile Menu > Access Keys* page to manage different projects or workflows.
 
-##### How It Works Under the Hood
+#### How It Works Under the Hood
 
 When you append your access key to an API request as a query parameter (?key=YOUR_KEY), the EDI repository gatekeeper service automatically converts it into a real, short-lived EDI authentication token. The token then handles backend authorization, granting the request the full privileges of your profile.
 
@@ -150,7 +150,7 @@ When you append your access key to an API request as a query parameter (?key=YOU
 
 For step-by-step instructions on generating an API Access Key, see [here](/resources/working-with-access-keys).
 
-##### Group Access Keys (Recommended for Security)
+#### Group Access Keys (Recommended for Security)
 
 To limit security risks — especially when integrating with external data catalogs or automated scripts that only need read access — you can create a Group Access Key instead of a user profile key. See [here](/resources/keys-and-catalogs) for data catalog best practices.
 
