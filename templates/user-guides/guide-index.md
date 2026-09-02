@@ -1,23 +1,23 @@
-# User Guides 
+# User Guides
 
-EDI provides a range of services that support our core data repository. These services play a key role in ensuring our community has the tools necessary to successfully publish and access the environmental data we manage and curate. The following is a user guide index to our services: 
+EDI provides a suite of services supporting our core data repository. These tools help our community publish, manage, and access environmental data. 
 
 [TOC]
 
-## Drop
+## Data Drop
 
-The *data* **Drop** service provides temporary storage for data that is being prepared for publication in the EDI data repository and which exceeds the size limit of our Data Portal desktop upload service. Any user permitted to self-publish data may use this service. 
+The **Data Drop** service provides temporary storage for files being prepared for repository publication that exceed the size limit of the Data Portal desktop upload. Any user authorized to self-publish data can use this service.
 
-Click [here](/user-guides/guide-index) to learn more *(coming soon!)*.
- 
-## Identity and Access Manager (IAM) 
+User Guide *(coming soon)*
 
-The **Identity and Access Manager** is a security framework used across all EDI applications, providing user accounts, managing resource permissions and groups, and supports the creation of EDI API access keys.  If you are a data publisher or developer writing software to interact with the EDI data repository, you should become familiar with IAM.
+## Identity and Access Manager (IAM)
 
-Click [here](/user-guides/iam) to learn more.
+The **Identity and Access Manager (IAM)** manages authentication and authorization across all EDI applications. It handles user accounts, resource permissions, user groups, and EDI API access keys. Data publishers and software developers integrating with the EDI repository should familiarize themselves with IAM.
 
-## System Activity Logger (SAL)  
+[User Guide](/user-guides/iam)
 
-The **System Activity Logger (SAL)** stores user activity across all EDI applications into a single centralized service. Any registered user may generate usage reports from SAL showing the activity on resources they own.  
+## System Activity Logger (SAL)
 
-Click [here](/user-guides/guide-index) to learn more *(coming soon!)*.
+The **System Activity Logger (SAL)** centralizes user activity logs across all EDI applications. Registered users can generate usage reports from SAL to track activity on resources they own.
+
+User Guide *(coming soon)*
